@@ -1,0 +1,13 @@
+{
+  "name": "github_profile",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "license": "MIT",
+  "private": "false",
+  "dependencies": {
+    "autoprefixer": "^9.8.5",
+    "handlebars": "^4.7.6",
+    "inline-css": "^2.6.3",
+    "postcss": "^7.0.32"
+  }
+}
