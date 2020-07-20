@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Samuel-Martineau/Samuel-Martineau/master/wave.svg" />
+<img src="https://raw.githubusercontent.com/Samuel-Martineau/Samuel-Martineau/master/wave.png" />
 
 # Samuel Martineau
 
