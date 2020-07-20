@@ -1,6 +1,6 @@
 <div align="middle">
   <img height="225" alt="avatar" src="https://raw.githubusercontent.com/Samuel-Martineau/Samuel-Martineau/master/avatar.png">
-  <h1>Samuel Martineau</h1>
+  <h1 style="margin: 0">Samuel Martineau</h1>
   <h3>Étudiant de niveau seconaire passionné par l'informatique !</h3>
 </div>
 
