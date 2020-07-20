@@ -11,23 +11,8 @@ const getTemplatePath = (file) => path.join(__dirname, 'template', file);
   const template = Handlebars.compile(
     fs.readFileSync(getTemplatePath('README.md')).toString(),
   );
+
   const markup = template({});
 
-  const styles = await postcss([autoprefixer]).process(
-    fs.readFileSync(getTemplatePath('styles.scss')),
-    {
-      from: undefined,
-      to: undefined,
-    },
-  );
-
-  const styledMarkup = await inlineCSS(markup, {
-    extraCss: styles,
-    applyTableAttributes: true,
-    applyWidthAttributes: true,
-    removeHtmlSelectors: true,
-    url: getTemplatePath('styles.scss'),
-  });
-
-  fs.writeFileSync(path.join(__dirname, '..', 'README.md'), styledMarkup);
+  fs.writeFileSync(path.join(__dirname, '..', 'README.md'), markup);
 })();
