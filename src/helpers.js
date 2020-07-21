@@ -26,7 +26,7 @@ const commitReadme = async (ghUsername) => {
   await execa('git', ['commit', '-m', 'Mise à jour des données du README']);
   await execa('git', [
     'remote',
-    'set-url',
+    'add',
     'origin',
     `https://${ghUsername}:${process.env.GITHUB_TOKEN}@github.com/${ghUsername}.git`,
   ]);
