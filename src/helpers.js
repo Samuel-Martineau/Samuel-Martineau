@@ -22,7 +22,7 @@ const commitReadme = async () => {
   ]);
   await execa('git', ['add', 'README.md']);
   await execa('git', ['commit', '-m', 'Mise à jour des données du README']);
-  await execa('git', ['push']);
+  await execa('git', ['push', 'origin', 'master']);
 };
 
 module.exports = {
