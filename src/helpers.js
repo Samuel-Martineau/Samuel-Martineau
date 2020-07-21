@@ -6,11 +6,12 @@ const readTemplateFile = async () =>
   (await fs.readFile(path.join(__dirname, 'template.md'))).toString();
 
 const readReadme = async () =>
-  (await fs.readFile(path.join(__dirname, '..', 'README.md'))).toString();
+  (
+    await fs.readFile(path.join(__dirname, '..', 'README.md')).catch(() => '')
+  ).toString();
 
-const writeReadme = async (content) =>
-  await fs.writeFile(path.join(__dirname, '..', 'README.md'), content);
-
+const writeReadme = (content) =>
+  fs.writeFile(path.join(__dirname, '..', 'README.md'), content);
 const commitReadme = async () => {
   await execa('git', ['config', '--global', 'user.name', 'profile-readme-bot']);
   await execa('git', [
