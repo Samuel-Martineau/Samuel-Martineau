@@ -101,6 +101,6 @@ const usernames = {
 
   if (formattedMarkup.trim() !== (await readReadme()).trim()) {
     await writeReadme(formattedMarkup);
-    if (!dev) await commitReadme();
+    if (!dev) await commitReadme(usernames.github);
   }
 })();

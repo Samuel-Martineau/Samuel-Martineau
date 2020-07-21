@@ -12,7 +12,8 @@ const readReadme = async () =>
 
 const writeReadme = (content) =>
   fs.writeFile(path.join(__dirname, '..', 'README.md'), content);
-const commitReadme = async () => {
+
+const commitReadme = async (ghUsername) => {
   await execa('git', ['config', '--global', 'user.name', 'profile-readme-bot']);
   await execa('git', [
     'config',
@@ -22,6 +23,12 @@ const commitReadme = async () => {
   ]);
   await execa('git', ['add', 'README.md']);
   await execa('git', ['commit', '-m', 'Mise à jour des données du README']);
+  await execa('git', [
+    'remote',
+    'set-url',
+    'origin',
+    `https://${ghUsername}:${process.env.GITHUB_TOKEN}@github.com/${ghUsername}/${ghUsername}.git`,
+  ]);
   await execa('git', ['push', 'origin', 'master']);
 };
 
