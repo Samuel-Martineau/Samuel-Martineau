@@ -14,6 +14,7 @@ const writeReadme = (content) =>
   fs.writeFile(path.join(__dirname, '..', 'README.md'), content);
 
 const commitReadme = async (ghUsername) => {
+  console.log(process.env.GITHUB_TOKEN);
   await execa('git', ['config', '--global', 'user.name', 'profile-readme-bot']);
   await execa('git', [
     'config',
@@ -27,7 +28,7 @@ const commitReadme = async (ghUsername) => {
     'remote',
     'set-url',
     'origin',
-    `https://${ghUsername}:${process.env.GITHUB_TOKEN}@github.com/${ghUsername}/${ghUsername}.git`,
+    `https://${ghUsername}:${process.env.GITHUB_TOKEN}@github.com/${ghUsername}.git`,
   ]);
   await execa('git', ['push', 'origin', 'master']);
 };
