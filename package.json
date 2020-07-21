@@ -5,9 +5,16 @@
   "license": "MIT",
   "private": "false",
   "dependencies": {
-    "autoprefixer": "^9.8.5",
+    "@octokit/rest": "^18.0.1",
+    "execa": "^4.0.3",
     "handlebars": "^4.7.6",
-    "inline-css": "^2.6.3",
-    "postcss": "^7.0.32"
-  }
+    "handlebars-helpers": "^0.10.0",
+    "npmtotal": "^1.4.1",
+    "prettier": "^2.0.5"
+  },
+  "scripts": {
+    "dev": "NODE_ENV=development node src/index.js",
+    "generate-readme": "node src/index.js"
+  },
+  "devDependencies": {}
 }
