@@ -28,7 +28,7 @@ const commitReadme = async (ghUsername) => {
     'remote',
     'set-url',
     'origin',
-    `https://${ghUsername}:${process.env.GITHUB_TOKEN}@github.com/${ghUsername}.git`,
+    `https://${ghUsername}:${process.env.GITHUB_TOKEN}@github.com/${ghUsername}/${ghUsername}.git`,
   ]);
   await execa('git', ['push', '-u', 'origin', 'master']);
 };
