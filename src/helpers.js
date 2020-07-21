@@ -33,7 +33,7 @@ const commitReadme = async (ghUsername) => {
     'origin',
     `https://${ghUsername}:${process.env.GITHUB_TOKEN}@github.com/${ghUsername}/${ghUsername}.git`,
   ]);
-  await execa('git', ['push', '-u', 'origin', 'master']);
+  await execa('git', ['push', '-u', 'origin', 'HEAD:master']);
 };
 
 module.exports = {
