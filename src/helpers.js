@@ -23,6 +23,7 @@ const commitReadme = async (ghUsername) => {
     'samumartineau@gmail.com',
   ]);
   await execa('git', ['add', 'README.md']);
+  console.log((await execa('git', ['status'])).stdout.toString());
   await execa('git', ['commit', '-m', 'Mise à jour des données du README']);
   await execa('git', [
     'remote',
