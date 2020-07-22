@@ -8,6 +8,20 @@
 
 Je suis un étudiant québécois de niveau secondaire passionné par l’informatique. J’ai davantage travaillé en JS et en TS, mais j’ai aussi expérimenté avec d’autres languages, dont le C# et le C++. J’ai aussi présenté deux projets informatique à [expo-sciences](https://technoscience.ca/programmes/expo-sciences/), qui ont tous deux été nominés. Mes repos Github sont majoritairement en Français, mais certains sont en Anglais.
 
+## Mes compétences
+
+{{> devicon icon='HTML5'}}
+{{> devicon icon='CSS3'}}
+{{> devicon icon='JavaScript'}}
+{{> devicon icon='TypeScript'}}
+{{> devicon icon='NodeJS'}}
+{{> devicon icon='Linux'}}
+{{> devicon icon='MongoDB'}}
+{{> devicon icon='Java'}}
+{{> devicon icon='jQuery'}}
+
+##### Icônes fournis par [Devicon](https://konpa.github.io/devicon/)
+
 ## Activité GitHub récente
 
 {{#each recentGithubEvents}}
