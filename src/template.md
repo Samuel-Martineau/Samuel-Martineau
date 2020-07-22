@@ -26,3 +26,8 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 ## Me contacter
 
 Il est possible de me contacter par courriel ([samumartineau@gmail.com](mailto:samumartineau@gmail.com))
+
+## Inspiré par
+- [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+- [github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+- [How I Built A Self-Updating README On My Github Profile](https://www.mokkapps.de/blog/how-i-built-a-self-updating-readme-on-my-git-hub-profile/)

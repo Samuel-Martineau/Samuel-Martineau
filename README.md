@@ -10,8 +10,8 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
-1. ✅ J&#x27;ai ouvert l&#x27;_issue_ [**Do you think this will be patched?**](https://github.com/sindresorhus/css-in-readme-like-wat/issues/2) sur le repo [**sindresorhus/css-in-readme-like-wat**](https://github.com/sindresorhus/css-in-readme-like-wat)
-2. ⚡ J&#x27;ai publié **11** commits sur le repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
+1. ⚡ J&#x27;ai publié **13** commits sur le repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
+2. ✅ J&#x27;ai ouvert l&#x27;_issue_ [**Do you think this will be patched?**](https://github.com/sindresorhus/css-in-readme-like-wat/issues/2) sur le repo [**sindresorhus/css-in-readme-like-wat**](https://github.com/sindresorhus/css-in-readme-like-wat)
 3. ☀️ J&#x27;ai publié la version **v1.0.78** de [**Samuel-Martineau/test**](https://github.com/Samuel-Martineau/test)
 4. 💬 J&#x27;ai commenté sur la _pull request_ [**Create \_\_\_**](https://github.com/Samuel-Martineau/test/issues/2) du repo [**Samuel-Martineau/test**](https://github.com/Samuel-Martineau/test)
 5. 🔥 J&#x27;ai ouvert la _pull request_ [**Create \_\_\_**](https://github.com/Samuel-Martineau/test/pull/2) sur le repo [**Samuel-Martineau/test**](https://github.com/Samuel-Martineau/test)
@@ -33,3 +33,9 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 ## Me contacter
 
 Il est possible de me contacter par courriel ([samumartineau@gmail.com](mailto:samumartineau@gmail.com))
+
+## Inspiré par
+
+- [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+- [github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+- [How I Built A Self-Updating README On My Github Profile](https://www.mokkapps.de/blog/how-i-built-a-self-updating-readme-on-my-git-hub-profile/)

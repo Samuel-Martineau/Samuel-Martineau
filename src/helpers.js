@@ -45,7 +45,6 @@ const parseGithubActivity = (ghActivity) => {
           e.type === toCompare.type && e.repo.name === toCompare.repo.name,
       );
       const isFirst = array.indexOf(first) === index;
-      console.log(first, isFirst);
       if (!isFirst) {
         first.payload.nbOfCommits =
           (first.payload.nbOfCommits || first.payload.commits.length) +
