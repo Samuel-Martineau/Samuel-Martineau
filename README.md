@@ -10,7 +10,7 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
-1. ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
+1. ✅ J&#x27;ai ouvert l&#x27;_issue_ [**Do you think this will be patched?**](https://github.com/sindresorhus/css-in-readme-like-wat/issues/2) sur le repo [**sindresorhus/css-in-readme-like-wat**](https://github.com/sindresorhus/css-in-readme-like-wat)
 2. ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
 3. ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
 4. ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
