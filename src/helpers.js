@@ -36,9 +36,98 @@ const commitReadme = async (ghUsername) => {
   await execa('git', ['push', '-u', 'origin', 'HEAD:master']);
 };
 
+const parseGithubActivity = (ghActivity) => {
+  return ghActivity
+    .map((e, index, array) => {
+      if (e.type !== 'PushEvent') return e;
+      const first = array.find(
+        (toCompare) =>
+          e.type === toCompare.type && e.repo.name === toCompare.repo.name,
+      );
+      const isFirst = array.indexOf(first) === index;
+      console.log(first, isFirst);
+      if (!isFirst) {
+        first.payload.nbOfCommits =
+          (first.payload.nbOfCommits || first.payload.commits.length) +
+          e.payload.commits.length;
+        return null;
+      } else {
+        return e;
+      }
+    })
+    .filter((v) => v)
+    .map(({ type, repo, payload }) => {
+      const displayRepo = (name) => `[**${name}**](https://github.com/${name})`;
+      const displayIssue = (repoName, issue) =>
+        `[**${issue.title}**](https://github.com/${repoName}/issues/${issue.number})`;
+      const displayPullRequest = (repoName, pullRequest) =>
+        `[**${pullRequest.title}**](https://github.com/${repoName}/pull/${pullRequest.number})`;
+      switch (type) {
+        case 'PushEvent':
+          const nbOfCommits = payload.nbOfCommits;
+          return `⚡ J'ai publié **${nbOfCommits}** commit${
+            nbOfCommits > 1 ? 's' : ''
+          } sur le repo ${displayRepo(repo.name)}`;
+        case 'ForkEvent':
+          return `🌈 J'ai créé un fork du repo ${displayRepo(repo.name)}`;
+        case 'IssueCommentEvent':
+          const isPull = !!payload.issue.pull_request;
+          return `💬 J'ai commenté sur ${
+            isPull ? 'la *pull request*' : "l'*issue*"
+          } ${displayIssue(repo.name, payload.issue)} du repo ${displayRepo(
+            repo.name,
+          )}`;
+        case 'IssuesEvent':
+          switch (payload.action) {
+            case 'opened':
+            case 'reopened':
+              return `✅ J'ai ouvert l'*issue* ${displayIssue(
+                repo.name,
+                payload.issue,
+              )} sur le repo ${displayRepo(repo.name)}`;
+              break;
+            case 'closed':
+              return `❌ J'ai fermé l'*issue* ${displayIssue(
+                repo.name,
+                payload.issue,
+              )} du repo ${displayRepo(repo.name)}`;
+            default:
+              return;
+          }
+        case 'PullRequestEvent':
+          switch (payload.action) {
+            case 'opened':
+            case 'reopened':
+              return `🔥 J'ai ouvert la *pull request* ${displayPullRequest(
+                repo.name,
+                payload.pull_request,
+              )} sur le repo ${displayRepo(repo.name)}`;
+              break;
+            case 'closed':
+              return `🚫 J'ai fermé la *pull request* ${displayPullRequest(
+                repo.name,
+                payload.pull_request,
+              )} du repo ${displayRepo(repo.name)}`;
+            default:
+              return;
+          }
+        case 'ReleaseEvent':
+          return `☀️ J'ai publié la version **${
+            payload.release.tag_name
+          }** de ${displayRepo(repo.name)}`;
+        case 'CreateEvent':
+          if (payload.ref !== 'master') return;
+          return `🚀 J'ai créé le *repo* ${displayRepo(repo.name)}`;
+      }
+    })
+    .filter((v) => v)
+    .slice(0, 10);
+};
+
 module.exports = {
   readTemplateFile,
   writeReadme,
   readReadme,
   commitReadme,
+  parseGithubActivity,
 };
