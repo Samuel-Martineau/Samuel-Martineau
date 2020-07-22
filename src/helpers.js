@@ -40,18 +40,24 @@ const parseGithubActivity = (ghActivity) => {
   return ghActivity
     .map((e, index, array) => {
       if (e.type !== 'PushEvent') return e;
-      const first = array.find(
-        (toCompare) =>
-          e.type === toCompare.type && e.repo.name === toCompare.repo.name,
-      );
-      const isFirst = array.indexOf(first) === index;
-      if (!isFirst) {
-        first.payload.nbOfCommits =
-          (first.payload.nbOfCommits || first.payload.commits.length) +
-          e.payload.commits.length;
-        return null;
-      } else {
+      let indexFirstConsecutive = index;
+      while (
+        indexFirstConsecutive > 0 &&
+        ((array[indexFirstConsecutive - 1].type === 'PushEvent' &&
+          array[indexFirstConsecutive - 1].repo.name === e.repo.name) ||
+          array[indexFirstConsecutive - 1] === null)
+      ) {
+        indexFirstConsecutive--;
+      }
+      const firstConsecutive = array[indexFirstConsecutive];
+      const isFirst = indexFirstConsecutive === index;
+      if (isFirst) {
+        e.payload.nbOfCommits = e.payload.commits.length;
         return e;
+      } else {
+        firstConsecutive.payload.nbOfCommits =
+          firstConsecutive.payload.nbOfCommits + e.payload.commits.length;
+        return null;
       }
     })
     .filter((v) => v)
