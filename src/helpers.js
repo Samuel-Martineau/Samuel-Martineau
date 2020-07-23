@@ -97,7 +97,7 @@ const parseGithubActivity = (ghActivity) => {
       (toKeep, toDelete) =>
         (toKeep.payload.commentCount = toKeep.payload.commentCount + 1),
     )
-    .map(({ type, repo, payload }) => {
+    .map(({ type, repo, payload }, index) => {
       const displayRepo = (name) => `[**${name}**](https://github.com/${name})`;
       const displayIssue = (repoName, issue) =>
         `[**${issue.title}**](https://github.com/${repoName}/issues/${issue.number})`;
@@ -167,6 +167,7 @@ const parseGithubActivity = (ghActivity) => {
           return `🚀 J'ai créé le *repo* ${displayRepo(repo.name)}`;
       }
     })
+    .filter((v) => v)
     .slice(0, 10);
 };
 
