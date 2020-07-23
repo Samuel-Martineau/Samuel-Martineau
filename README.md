@@ -29,10 +29,12 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Mes paquets NPM
 
-| Paquet    |                                                                Nombre de téléchargements |
-| --------- | ---------------------------------------------------------------------------------------: |
-| message   | feign.FeignException\$ServiceUnavailable: status 503 reading SearchClient#search(String) |
-| **Total** | feign.FeignException\$ServiceUnavailable: status 503 reading SearchClient#search(String) |
+| Paquet                | Nombre de téléchargements |
+| --------------------- | ------------------------: |
+| generator-svelte      |                      1508 |
+| create-custom-command |                      1398 |
+| rmc-cli               |                       253 |
+| **Total**             |                      3159 |
 
 ## Me contacter
 
