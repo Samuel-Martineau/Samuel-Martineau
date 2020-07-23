@@ -2,6 +2,33 @@ const fs = require('fs').promises;
 const execa = require('execa');
 const path = require('path');
 
+Array.prototype.mergeSimilar = function (isOfCorrectType, isSimilar, merge) {
+  const newArray = [];
+  this.forEach((elem1, index) => {
+    if (!isOfCorrectType(elem1)) newArray.push(elem1);
+    else {
+      let indexFirstConsecutive = index;
+      let nextFirstConsecutive = this[indexFirstConsecutive - 1];
+      while (
+        indexFirstConsecutive > 0 &&
+        (isSimilar(nextFirstConsecutive, elem1) ||
+          nextFirstConsecutive === null)
+      ) {
+        indexFirstConsecutive--;
+        nextFirstConsecutive = this[indexFirstConsecutive - 1];
+      }
+      const firstConsecutive = this[indexFirstConsecutive];
+      if (indexFirstConsecutive === index) {
+        newArray.push(elem1);
+      } else {
+        merge(firstConsecutive, elem1);
+        this[index] === null;
+      }
+    }
+  });
+  return newArray;
+};
+
 const readTemplateFile = async () =>
   (await fs.readFile(path.join(__dirname, 'template.md'))).toString();
 
@@ -38,50 +65,50 @@ const commitReadme = async (ghUsername) => {
 
 const parseGithubActivity = (ghActivity) => {
   return ghActivity
-    .map((e, index, array) => {
-      if (e.type !== 'PushEvent') return e;
-      let indexFirstConsecutive = index;
-      while (
-        indexFirstConsecutive > 0 &&
-        ((array[indexFirstConsecutive - 1].type === 'PushEvent' &&
-          array[indexFirstConsecutive - 1].repo.name === e.repo.name) ||
-          array[indexFirstConsecutive - 1] === null)
-      ) {
-        indexFirstConsecutive--;
-      }
-      const firstConsecutive = array[indexFirstConsecutive];
-      const isFirst = indexFirstConsecutive === index;
-      if (isFirst) {
-        e.payload.nbOfCommits = e.payload.commits.length;
-        return e;
-      } else {
-        firstConsecutive.payload.nbOfCommits =
-          firstConsecutive.payload.nbOfCommits + e.payload.commits.length;
-        return null;
-      }
-    })
-    .filter((v) => v)
+    .mergeSimilar(
+      (event) => event.type === 'PushEvent',
+      (event1, event2) =>
+        event1.type === event2.type && event1.repo.name === event2.repo.name,
+      (toKeep, toDelete) =>
+        (toKeep.payload.commitCount =
+          (toKeep.payload.commitCount || toKeep.payload.commits.length) +
+          toDelete.payload.commits.length),
+    )
+    .mergeSimilar(
+      (event) => event.type === 'IssueCommentEvent',
+      (event1, event2) =>
+        event1.type === event2.type && event1.repo.name === event2.repo.name,
+      (toKeep, toDelete) =>
+        (toKeep.payload.commentCount =
+          (toKeep.payload.commentCount || toKeep.payload.commits.length) + 1),
+    )
     .map(({ type, repo, payload }) => {
       const displayRepo = (name) => `[**${name}**](https://github.com/${name})`;
       const displayIssue = (repoName, issue) =>
         `[**${issue.title}**](https://github.com/${repoName}/issues/${issue.number})`;
       const displayPullRequest = (repoName, pullRequest) =>
         `[**${pullRequest.title}**](https://github.com/${repoName}/pull/${pullRequest.number})`;
+
+      const pluralize = (nb, str) => str + (nb > 1 ? 's' : '');
+      const ifGreaterThanOne = (nb, str) => (nb > 1 ? str : '');
+
       switch (type) {
         case 'PushEvent':
-          const nbOfCommits = payload.nbOfCommits;
-          return `⚡ J'ai publié **${nbOfCommits}** commit${
-            nbOfCommits > 1 ? 's' : ''
-          } sur le repo ${displayRepo(repo.name)}`;
+          return `⚡ J'ai publié **${payload.commitCount}** ${pluralize(
+            payload.commitCount,
+            'commit',
+          )} sur le repo ${displayRepo(repo.name)}`;
         case 'ForkEvent':
           return `🌈 J'ai créé un fork du repo ${displayRepo(repo.name)}`;
         case 'IssueCommentEvent':
           const isPull = !!payload.issue.pull_request;
-          return `💬 J'ai commenté sur ${
-            isPull ? 'la *pull request*' : "l'*issue*"
-          } ${displayIssue(repo.name, payload.issue)} du repo ${displayRepo(
+          return `💬 J'ai commenté${ifGreaterThanOne(
+            payload.commentCount,
+            ` ${payload.commentCount} fois`,
+          )} sur ${isPull ? 'la *pull request*' : "l'*issue*"} ${displayIssue(
             repo.name,
-          )}`;
+            payload.issue,
+          )} du repo ${displayRepo(repo.name)}`;
         case 'IssuesEvent':
           switch (payload.action) {
             case 'opened':
