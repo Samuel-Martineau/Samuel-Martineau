@@ -25,16 +25,14 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 7. 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**Do you think this will be patched?**](https://github.com/sindresorhus/css-in-readme-like-wat/issues/2) du repo [**sindresorhus/css-in-readme-like-wat**](https://github.com/sindresorhus/css-in-readme-like-wat)
 8. ⚡ J&#x27;ai publié **4** commits sur le repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
 9. ✅ J&#x27;ai ouvert l&#x27;_issue_ [**Do you think this will be patched?**](https://github.com/sindresorhus/css-in-readme-like-wat/issues/2) sur le repo [**sindresorhus/css-in-readme-like-wat**](https://github.com/sindresorhus/css-in-readme-like-wat)
-10. ⚡ J&#x27;ai publié **8** commits sur le repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
+10. ⚡ J&#x27;ai publié **7** commits sur le repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
 
 ## Mes paquets NPM
 
-| Paquet                | Nombre de téléchargements |
-| --------------------- | ------------------------: |
-| generator-svelte      |                      1508 |
-| create-custom-command |                      1398 |
-| rmc-cli               |                       253 |
-| **Total**             |                      3159 |
+| Paquet    |                                                                Nombre de téléchargements |
+| --------- | ---------------------------------------------------------------------------------------: |
+| message   | feign.FeignException\$ServiceUnavailable: status 503 reading SearchClient#search(String) |
+| **Total** | feign.FeignException\$ServiceUnavailable: status 503 reading SearchClient#search(String) |
 
 ## Me contacter
 
