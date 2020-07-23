@@ -16,7 +16,7 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
-1. ⚡ J&#x27;ai publié **4** commits sur le repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
+1. ⚡ J&#x27;ai publié **5** commits sur le repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
 2. ⚡ J&#x27;ai publié **4** commits sur le repo [**Samuel-Martineau/MC-Config-Controller**](https://github.com/Samuel-Martineau/MC-Config-Controller)
 3. 🚀 J&#x27;ai créé le _repo_ [**Samuel-Martineau/MC-Config-Controller**](https://github.com/Samuel-Martineau/MC-Config-Controller)
 4. ⚡ J&#x27;ai publié **4** commits sur le repo [**Samuel-Martineau/generator-svelte**](https://github.com/Samuel-Martineau/generator-svelte)
@@ -25,7 +25,7 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 7. 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**Do you think this will be patched?**](https://github.com/sindresorhus/css-in-readme-like-wat/issues/2) du repo [**sindresorhus/css-in-readme-like-wat**](https://github.com/sindresorhus/css-in-readme-like-wat)
 8. ⚡ J&#x27;ai publié **4** commits sur le repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
 9. ✅ J&#x27;ai ouvert l&#x27;_issue_ [**Do you think this will be patched?**](https://github.com/sindresorhus/css-in-readme-like-wat/issues/2) sur le repo [**sindresorhus/css-in-readme-like-wat**](https://github.com/sindresorhus/css-in-readme-like-wat)
-10. ⚡ J&#x27;ai publié **9** commits sur le repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
+10. ⚡ J&#x27;ai publié **8** commits sur le repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
 
 ## Mes paquets NPM
 
