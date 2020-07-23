@@ -16,6 +16,8 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
+<<<<<<< HEAD
+
 1. ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
 2. ⚡ J&#x27;ai publié **4** commits sur le repo [**Samuel-Martineau/MC-Config-Controller**](https://github.com/Samuel-Martineau/MC-Config-Controller)
 3.
@@ -25,7 +27,18 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 7. ❌ J&#x27;ai fermé l&#x27;_issue_ [**Do you think this will be patched?**](https://github.com/sindresorhus/css-in-readme-like-wat/issues/2) du repo [**sindresorhus/css-in-readme-like-wat**](https://github.com/sindresorhus/css-in-readme-like-wat)
 8. 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**Do you think this will be patched?**](https://github.com/sindresorhus/css-in-readme-like-wat/issues/2) du repo [**sindresorhus/css-in-readme-like-wat**](https://github.com/sindresorhus/css-in-readme-like-wat)
 9. ⚡ J&#x27;ai publié **4** commits sur le repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
-10. ✅ J&#x27;ai ouvert l&#x27;_issue_ [**Do you think this will be patched?**](https://github.com/sindresorhus/css-in-readme-like-wat/issues/2) sur le repo [**sindresorhus/css-in-readme-like-wat**](https://github.com/sindresorhus/css-in-readme-like-wat)
+10. # ✅ J&#x27;ai ouvert l&#x27;_issue_ [**Do you think this will be patched?**](https://github.com/sindresorhus/css-in-readme-like-wat/issues/2) sur le repo [**sindresorhus/css-in-readme-like-wat**](https://github.com/sindresorhus/css-in-readme-like-wat)
+11. ⚡ J&#x27;ai publié **undefined** commit sur le repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
+12. ⚡ J&#x27;ai publié **4** commits sur le repo [**Samuel-Martineau/MC-Config-Controller**](https://github.com/Samuel-Martineau/MC-Config-Controller)
+13. 🚀 J&#x27;ai créé le _repo_ [**Samuel-Martineau/MC-Config-Controller**](https://github.com/Samuel-Martineau/MC-Config-Controller)
+14. ⚡ J&#x27;ai publié **4** commits sur le repo [**Samuel-Martineau/generator-svelte**](https://github.com/Samuel-Martineau/generator-svelte)
+15. ⚡ J&#x27;ai publié **4** commits sur le repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
+16. ❌ J&#x27;ai fermé l&#x27;_issue_ [**Do you think this will be patched?**](https://github.com/sindresorhus/css-in-readme-like-wat/issues/2) du repo [**sindresorhus/css-in-readme-like-wat**](https://github.com/sindresorhus/css-in-readme-like-wat)
+17. 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**Do you think this will be patched?**](https://github.com/sindresorhus/css-in-readme-like-wat/issues/2) du repo [**sindresorhus/css-in-readme-like-wat**](https://github.com/sindresorhus/css-in-readme-like-wat)
+18. ⚡ J&#x27;ai publié **4** commits sur le repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
+19. ✅ J&#x27;ai ouvert l&#x27;_issue_ [**Do you think this will be patched?**](https://github.com/sindresorhus/css-in-readme-like-wat/issues/2) sur le repo [**sindresorhus/css-in-readme-like-wat**](https://github.com/sindresorhus/css-in-readme-like-wat)
+20. ⚡ J&#x27;ai publié **10** commits sur le repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
+    > > > > > > > 8d836ec97b66d5e825316a258860a2525b496165
 
 ## Mes paquets NPM
 
