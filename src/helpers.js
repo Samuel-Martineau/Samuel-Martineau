@@ -2,7 +2,12 @@ const fs = require('fs').promises;
 const execa = require('execa');
 const path = require('path');
 
-Array.prototype.mergeSimilar = function (isOfCorrectType, isSimilar, merge) {
+Array.prototype.mergeSimilar = function (
+  isOfCorrectType,
+  isSimilar,
+  setInitialValue,
+  merge,
+) {
   const newArray = [];
   this.forEach((elem1, index) => {
     if (!isOfCorrectType(elem1)) newArray.push(elem1);
@@ -19,6 +24,7 @@ Array.prototype.mergeSimilar = function (isOfCorrectType, isSimilar, merge) {
       }
       const firstConsecutive = this[indexFirstConsecutive];
       if (indexFirstConsecutive === index) {
+        setInitialValue(firstConsecutive);
         newArray.push(elem1);
       } else {
         merge(firstConsecutive, elem1);
@@ -41,7 +47,6 @@ const writeReadme = (content) =>
   fs.writeFile(path.join(__dirname, '..', 'README.md'), content);
 
 const commitReadme = async (ghUsername) => {
-  console.log(process.env.GITHUB_TOKEN);
   await execa('git', ['config', '--global', 'user.name', 'profile-readme-bot']);
   await execa('git', [
     'config',
@@ -50,10 +55,7 @@ const commitReadme = async (ghUsername) => {
     'samumartineau@gmail.com',
   ]);
   await execa('git', ['add', 'README.md']);
-  console.log((await execa('git', ['status'])).stdout.toString());
   await execa('git', ['commit', '-m', 'Mise à jour des données du README']);
-  console.log((await execa('git', ['status'])).stdout.toString());
-  console.log((await execa('git', ['show-ref'])).stdout.toString());
   await execa('git', [
     'remote',
     'set-url',
@@ -65,22 +67,35 @@ const commitReadme = async (ghUsername) => {
 
 const parseGithubActivity = (ghActivity) => {
   return ghActivity
+    .filter((event) =>
+      [
+        'PushEvent',
+        'ForkEvent',
+        'IssueCommentEvent',
+        'IssuesEvent',
+        'PullRequestEvent',
+        'ReleaseEvent',
+        'CreateEvent',
+      ].includes(event.type),
+    )
     .mergeSimilar(
       (event) => event.type === 'PushEvent',
       (event1, event2) =>
         event1.type === event2.type && event1.repo.name === event2.repo.name,
+      (firstConsecutive) =>
+        (firstConsecutive.payload.commitCount =
+          firstConsecutive.payload.commits.length),
       (toKeep, toDelete) =>
         (toKeep.payload.commitCount =
-          (toKeep.payload.commitCount || toKeep.payload.commits.length) +
-          toDelete.payload.commits.length),
+          toKeep.payload.commitCount + toDelete.payload.commits.length),
     )
     .mergeSimilar(
       (event) => event.type === 'IssueCommentEvent',
       (event1, event2) =>
         event1.type === event2.type && event1.repo.name === event2.repo.name,
+      (firstConsecutive) => (firstConsecutive.payload.commentCount = 1),
       (toKeep, toDelete) =>
-        (toKeep.payload.commentCount =
-          (toKeep.payload.commentCount || toKeep.payload.commits.length) + 1),
+        (toKeep.payload.commentCount = toKeep.payload.commentCount + 1),
     )
     .map(({ type, repo, payload }) => {
       const displayRepo = (name) => `[**${name}**](https://github.com/${name})`;
@@ -152,7 +167,6 @@ const parseGithubActivity = (ghActivity) => {
           return `🚀 J'ai créé le *repo* ${displayRepo(repo.name)}`;
       }
     })
-    .filter((v) => v)
     .slice(0, 10);
 };
 
