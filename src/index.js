@@ -18,7 +18,7 @@ const dev = process.env.NODE_ENV === 'development';
 Handlebars.registerHelper('toLowerCase', (str) => str.toLowerCase());
 Handlebars.registerPartial(
   'devicon',
-  '<img alt="{{icon}}" src="https://konpa.github.io/devicon/devicon.git/icons/{{toLowerCase icon}}/{{toLowerCase icon}}-original.svg" width="50" title="{{icon}}" />',
+  '<img alt="{{icon}}" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/{{toLowerCase icon}}/{{toLowerCase icon}}-original.svg" width="50" title="{{icon}}" />',
 );
 
 const usernames = {

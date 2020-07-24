@@ -10,15 +10,15 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Mes compétences
 
-<img alt="HTML5" src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original.svg" width="50" title="HTML5" /><img alt="CSS3" src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original.svg" width="50" title="CSS3" /><img alt="JavaScript" src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" width="50" title="JavaScript" /><img alt="TypeScript" src="https://konpa.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" width="50" title="TypeScript" /><img alt="NodeJS" src="https://konpa.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" width="50" title="NodeJS" /><img alt="Linux" src="https://konpa.github.io/devicon/devicon.git/icons/linux/linux-original.svg" width="50" title="Linux" /><img alt="MongoDB" src="https://konpa.github.io/devicon/devicon.git/icons/mongodb/mongodb-original.svg" width="50" title="MongoDB" /><img alt="Java" src="https://konpa.github.io/devicon/devicon.git/icons/java/java-original.svg" width="50" title="Java" /><img alt="jQuery" src="https://konpa.github.io/devicon/devicon.git/icons/jquery/jquery-original.svg" width="50" title="jQuery" />
+<img alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" title="HTML5" /><img alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" title="CSS3" /><img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" title="JavaScript" /><img alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" title="TypeScript" /><img alt="NodeJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" title="NodeJS" /><img alt="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" title="Linux" /><img alt="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50" title="MongoDB" /><img alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" title="Java" /><img alt="jQuery" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" width="50" title="jQuery" />
 
 ##### Icônes fournis par [Devicon](https://konpa.github.io/devicon/)
 
 ## Activité GitHub récente
 
-1. ⚡ J&#x27;ai publié **21** commits sur le repo [**Samuel-Martineau/MC-Config-Controller**](https://github.com/Samuel-Martineau/MC-Config-Controller)
+1. ⚡ J&#x27;ai publié **22** commits sur le repo [**Samuel-Martineau/MC-Config-Controller**](https://github.com/Samuel-Martineau/MC-Config-Controller)
 2. ⚡ J&#x27;ai publié **5** commits sur le repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
-3. ⚡ J&#x27;ai publié **4** commits sur le repo [**Samuel-Martineau/MC-Config-Controller**](https://github.com/Samuel-Martineau/MC-Config-Controller)
+3. ⚡ J&#x27;ai publié **3** commits sur le repo [**Samuel-Martineau/MC-Config-Controller**](https://github.com/Samuel-Martineau/MC-Config-Controller)
 
 ## Mes paquets NPM
 

@@ -25,7 +25,7 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 ## Activité GitHub récente
 
 {{#each recentGithubEvents}}
-{{add @index 1}}. {{this}}
+- {{this}}
 {{/each}}
 
 ## Mes paquets NPM
