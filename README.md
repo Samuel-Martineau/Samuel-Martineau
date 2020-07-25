@@ -16,16 +16,16 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
-- ⚡ J&#x27;ai publié **24** commits sur le repo [**Samuel-Martineau/MC-Config-Controller**](https://github.com/Samuel-Martineau/MC-Config-Controller)
+- ⚡ J&#x27;ai publié **23** commits sur le repo [**Samuel-Martineau/MC-Config-Controller**](https://github.com/Samuel-Martineau/MC-Config-Controller)
 
 ## Mes paquets NPM
 
 | Paquet                | Nombre de téléchargements |
 | --------------------- | ------------------------: |
 | generator-svelte      |                      1553 |
-| create-custom-command |                      1400 |
-| rmc-cli               |                       256 |
-| **Total**             |                      3209 |
+| create-custom-command |                      1423 |
+| rmc-cli               |                       263 |
+| **Total**             |                      3239 |
 
 ## Me contacter
 
