@@ -1,4 +1,3 @@
-const { Octokit } = require('@octokit/rest');
 const Handlebars = require('handlebars');
 const npmtotal = require('npmtotal');
 const prettier = require('prettier');
@@ -9,10 +8,9 @@ const {
   writeReadme,
   readReadme,
   commitReadme,
-  parseGithubActivity,
+  getRecentGithubActivity,
 } = require('./helpers');
 
-const octokit = new Octokit();
 const dev = process.env.NODE_ENV === 'development';
 
 Handlebars.registerHelper('toLowerCase', (str) => str.toLowerCase());
@@ -29,13 +27,10 @@ const usernames = {
 (async function () {
   const template = Handlebars.compile(await readTemplateFile());
 
-  const [npmPackages, rawRecentGithubEvents] = await Promise.all([
-    await npmtotal(usernames.npm),
-    await octokit.activity.listPublicEventsForUser({
-      username: usernames.github,
-    }),
+  const [npmPackages, recentGithubEvents] = await Promise.all([
+    npmtotal(usernames.npm),
+    getRecentGithubActivity(usernames.github),
   ]);
-  const recentGithubEvents = parseGithubActivity(rawRecentGithubEvents.data);
 
   const markup = template({ npmPackages, recentGithubEvents });
   const formattedMarkup = prettier.format(markup, { parser: 'markdown' });

@@ -16,18 +16,25 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
-1. ⚡ J&#x27;ai publié **22** commits sur le repo [**Samuel-Martineau/MC-Config-Controller**](https://github.com/Samuel-Martineau/MC-Config-Controller)
-2. ⚡ J&#x27;ai publié **5** commits sur le repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
-3. ⚡ J&#x27;ai publié **3** commits sur le repo [**Samuel-Martineau/MC-Config-Controller**](https://github.com/Samuel-Martineau/MC-Config-Controller)
+- 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**404 Not Found: index.html**](https://github.com/Samuel-Martineau/generator-svelte/issues/6) du repo [**Samuel-Martineau/generator-svelte**](https://github.com/Samuel-Martineau/generator-svelte)
+- ⚡ J&#x27;ai publié **37** commits sur le repo [**Samuel-Martineau/MC-Config-Controller**](https://github.com/Samuel-Martineau/MC-Config-Controller)
+- ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
+- ⚡ J&#x27;ai publié **22** commits sur le repo [**Samuel-Martineau/MC-Config-Controller**](https://github.com/Samuel-Martineau/MC-Config-Controller)
+- ⚡ J&#x27;ai publié **5** commits sur le repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
+- ⚡ J&#x27;ai publié **4** commits sur le repo [**Samuel-Martineau/MC-Config-Controller**](https://github.com/Samuel-Martineau/MC-Config-Controller)
+- 🚀 J&#x27;ai créé le _repo_ [**Samuel-Martineau/MC-Config-Controller**](https://github.com/Samuel-Martineau/MC-Config-Controller)
+- ⚡ J&#x27;ai publié **4** commits sur le repo [**Samuel-Martineau/generator-svelte**](https://github.com/Samuel-Martineau/generator-svelte)
+- ⚡ J&#x27;ai publié **4** commits sur le repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
+- ❌ J&#x27;ai fermé l&#x27;_issue_ [**Do you think this will be patched?**](https://github.com/sindresorhus/css-in-readme-like-wat/issues/2) du repo [**sindresorhus/css-in-readme-like-wat**](https://github.com/sindresorhus/css-in-readme-like-wat)
 
 ## Mes paquets NPM
 
 | Paquet                | Nombre de téléchargements |
 | --------------------- | ------------------------: |
-| generator-svelte      |                      1553 |
-| create-custom-command |                      1400 |
-| rmc-cli               |                       257 |
-| **Total**             |                      3210 |
+| generator-svelte      |                      1586 |
+| create-custom-command |                      1425 |
+| rmc-cli               |                       262 |
+| **Total**             |                      3273 |
 
 ## Me contacter
 
