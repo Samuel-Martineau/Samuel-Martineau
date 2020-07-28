@@ -16,7 +16,7 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
-- ⚡ J&#x27;ai publié **3** commits sur le repo [**Samuel-Martineau/MC-Config-Controller**](https://github.com/Samuel-Martineau/MC-Config-Controller)
+- ⚡ J&#x27;ai publié **5** commits sur le repo [**Samuel-Martineau/MC-Config-Controller**](https://github.com/Samuel-Martineau/MC-Config-Controller)
 - ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/generator-svelte**](https://github.com/Samuel-Martineau/generator-svelte)
 - 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**404 Not Found: index.html**](https://github.com/Samuel-Martineau/generator-svelte/issues/6) du repo [**Samuel-Martineau/generator-svelte**](https://github.com/Samuel-Martineau/generator-svelte)
 - ❌ J&#x27;ai fermé l&#x27;_issue_ [**404 Not Found: index.html**](https://github.com/Samuel-Martineau/generator-svelte/issues/6) du repo [**Samuel-Martineau/generator-svelte**](https://github.com/Samuel-Martineau/generator-svelte)
