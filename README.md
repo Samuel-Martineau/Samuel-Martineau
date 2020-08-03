@@ -16,6 +16,7 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
+- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
 - ⚡ J&#x27;ai publié **5** commits sur le repo [**Samuel-Martineau/MC-Config-Controller**](https://github.com/Samuel-Martineau/MC-Config-Controller)
 - ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
 - 🚫 J&#x27;ai fermé la _pull request_ [**Bump elliptic from 6.5.1 to 6.5.3 in /simulator**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/pull/9) du repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
@@ -25,7 +26,6 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 - 🚫 J&#x27;ai fermé la _pull request_ [**Bump elliptic from 6.5.2 to 6.5.3**](https://github.com/Samuel-Martineau/love_tester/pull/12) du repo [**Samuel-Martineau/love_tester**](https://github.com/Samuel-Martineau/love_tester)
 - ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/love_tester**](https://github.com/Samuel-Martineau/love_tester)
 - ⚡ J&#x27;ai publié **15** commits sur le repo [**Samuel-Martineau/MC-Config-Controller**](https://github.com/Samuel-Martineau/MC-Config-Controller)
-- ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/generator-svelte**](https://github.com/Samuel-Martineau/generator-svelte)
 
 ## Mes paquets NPM
 
