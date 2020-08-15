@@ -16,6 +16,7 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
+- 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**Crashing when loading - 1.16.1**](https://github.com/Samuel-Martineau/Potions-HUD-Fabric/issues/2) du repo [**Samuel-Martineau/Potions-HUD-Fabric**](https://github.com/Samuel-Martineau/Potions-HUD-Fabric)
 - ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/Potions-HUD-Fabric**](https://github.com/Samuel-Martineau/Potions-HUD-Fabric)
 - ⚡ J&#x27;ai publié **5** commits sur le repo [**Samuel-Martineau/MC-Config-Controller**](https://github.com/Samuel-Martineau/MC-Config-Controller)
 - ⚡ J&#x27;ai publié **13** commits sur le repo [**Samuel-Martineau/Global-Whitelist-Waterfall**](https://github.com/Samuel-Martineau/Global-Whitelist-Waterfall)
@@ -25,7 +26,6 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 - ⚡ J&#x27;ai publié **5** commits sur le repo [**Samuel-Martineau/MC-Config-Controller**](https://github.com/Samuel-Martineau/MC-Config-Controller)
 - ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
 - 🚫 J&#x27;ai fermé la _pull request_ [**Bump elliptic from 6.5.1 to 6.5.3 in /simulator**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/pull/9) du repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
-- ⚡ J&#x27;ai publié **3** commits sur le repo [**Samuel-Martineau/MC-Config-Controller**](https://github.com/Samuel-Martineau/MC-Config-Controller)
 
 ## Mes paquets NPM
 
