@@ -16,6 +16,7 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
+- 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**Created .exe after installation not working**](https://github.com/electron/windows-installer/issues/333) du repo [**electron/windows-installer**](https://github.com/electron/windows-installer)
 - 🌈 J&#x27;ai créé un fork du repo [**amix/vimrc**](https://github.com/amix/vimrc)
 - ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
 - 🚫 J&#x27;ai fermé la _pull request_ [**[Snyk] Security upgrade lodash from 4.17.19 to 4.17.20**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/pull/10) du repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
@@ -25,7 +26,6 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 - ⚡ J&#x27;ai publié **5** commits sur le repo [**Samuel-Martineau/MC-Config-Controller**](https://github.com/Samuel-Martineau/MC-Config-Controller)
 - ⚡ J&#x27;ai publié **13** commits sur le repo [**Samuel-Martineau/Global-Whitelist-Waterfall**](https://github.com/Samuel-Martineau/Global-Whitelist-Waterfall)
 - 🚀 J&#x27;ai créé le _repo_ [**Samuel-Martineau/Global-Whitelist-Waterfall**](https://github.com/Samuel-Martineau/Global-Whitelist-Waterfall)
-- ⚡ J&#x27;ai publié **6** commits sur le repo [**Samuel-Martineau/Potions-HUD-Fabric**](https://github.com/Samuel-Martineau/Potions-HUD-Fabric)
 
 ## Mes paquets NPM
 
