@@ -16,6 +16,9 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
+- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/RM-Comments-CLI**](https://github.com/Samuel-Martineau/RM-Comments-CLI)
+- 🚫 J&#x27;ai fermé la _pull request_ [**build(deps): bump bl from 4.0.2 to 4.0.3**](https://github.com/Samuel-Martineau/RM-Comments-CLI/pull/5) du repo [**Samuel-Martineau/RM-Comments-CLI**](https://github.com/Samuel-Martineau/RM-Comments-CLI)
+- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/love_tester**](https://github.com/Samuel-Martineau/love_tester)
 - 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**Created .exe after installation not working**](https://github.com/electron/windows-installer/issues/333) du repo [**electron/windows-installer**](https://github.com/electron/windows-installer)
 - 🌈 J&#x27;ai créé un fork du repo [**amix/vimrc**](https://github.com/amix/vimrc)
 - ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
@@ -23,9 +26,6 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 - ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
 - 💬 J&#x27;ai commenté 2 fois sur l&#x27;_issue_ [**Crashing when loading - 1.16.1**](https://github.com/Samuel-Martineau/Potions-HUD-Fabric/issues/2) du repo [**Samuel-Martineau/Potions-HUD-Fabric**](https://github.com/Samuel-Martineau/Potions-HUD-Fabric)
 - ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/Potions-HUD-Fabric**](https://github.com/Samuel-Martineau/Potions-HUD-Fabric)
-- ⚡ J&#x27;ai publié **5** commits sur le repo [**Samuel-Martineau/MC-Config-Controller**](https://github.com/Samuel-Martineau/MC-Config-Controller)
-- ⚡ J&#x27;ai publié **13** commits sur le repo [**Samuel-Martineau/Global-Whitelist-Waterfall**](https://github.com/Samuel-Martineau/Global-Whitelist-Waterfall)
-- 🚀 J&#x27;ai créé le _repo_ [**Samuel-Martineau/Global-Whitelist-Waterfall**](https://github.com/Samuel-Martineau/Global-Whitelist-Waterfall)
 
 ## Mes paquets NPM
 
