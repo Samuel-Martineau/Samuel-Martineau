@@ -16,6 +16,7 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
+- 🚀 J&#x27;ai créé le _repo_ [**vortex-design-system/vortex.github.io**](https://github.com/vortex-design-system/vortex.github.io)
 - ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Smartineau.me**](https://github.com/Samuel-Martineau/Smartineau.me)
 - 🚫 J&#x27;ai fermé la _pull request_ [**Bump node-fetch from 2.6.0 to 2.6.1**](https://github.com/Samuel-Martineau/Smartineau.me/pull/3) du repo [**Samuel-Martineau/Smartineau.me**](https://github.com/Samuel-Martineau/Smartineau.me)
 - ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
@@ -25,7 +26,6 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 - ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/love_tester**](https://github.com/Samuel-Martineau/love_tester)
 - 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**Created .exe after installation not working**](https://github.com/electron/windows-installer/issues/333) du repo [**electron/windows-installer**](https://github.com/electron/windows-installer)
 - 🌈 J&#x27;ai créé un fork du repo [**amix/vimrc**](https://github.com/amix/vimrc)
-- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
 
 ## Mes paquets NPM
 
