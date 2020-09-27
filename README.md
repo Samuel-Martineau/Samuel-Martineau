@@ -16,7 +16,7 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
-- ⚡ J&#x27;ai publié **4** commits sur le repo [**vortex-design-system/vortex**](https://github.com/vortex-design-system/vortex)
+- ⚡ J&#x27;ai publié **6** commits sur le repo [**vortex-design-system/vortex**](https://github.com/vortex-design-system/vortex)
 - 🚫 J&#x27;ai fermé la _pull request_ [**docs: add Samuel-Martineau as a contributor**](https://github.com/vortex-design-system/vortex/pull/15) du repo [**vortex-design-system/vortex**](https://github.com/vortex-design-system/vortex)
 - ⚡ J&#x27;ai publié **8** commits sur le repo [**vortex-design-system/vortex**](https://github.com/vortex-design-system/vortex)
 - 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**Contributors**](https://github.com/vortex-design-system/vortex/issues/5) du repo [**vortex-design-system/vortex**](https://github.com/vortex-design-system/vortex)
