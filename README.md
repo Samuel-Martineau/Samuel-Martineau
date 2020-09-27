@@ -16,6 +16,8 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
+- ⚡ J&#x27;ai publié **5** commits sur le repo [**vortex-design-system/vortex2**](https://github.com/vortex-design-system/vortex2)
+- 🚀 J&#x27;ai créé le _repo_ [**vortex-design-system/vortex2**](https://github.com/vortex-design-system/vortex2)
 - ⚡ J&#x27;ai publié **6** commits sur le repo [**vortex-design-system/vortex**](https://github.com/vortex-design-system/vortex)
 - 🚫 J&#x27;ai fermé la _pull request_ [**docs: add Samuel-Martineau as a contributor**](https://github.com/vortex-design-system/vortex/pull/15) du repo [**vortex-design-system/vortex**](https://github.com/vortex-design-system/vortex)
 - ⚡ J&#x27;ai publié **8** commits sur le repo [**vortex-design-system/vortex**](https://github.com/vortex-design-system/vortex)
@@ -24,8 +26,6 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 - 🚫 J&#x27;ai fermé la _pull request_ [**docs: add Doudou8 as a contributor**](https://github.com/vortex-design-system/vortex/pull/8) du repo [**vortex-design-system/vortex**](https://github.com/vortex-design-system/vortex)
 - 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**Contributors**](https://github.com/vortex-design-system/vortex/issues/5) du repo [**vortex-design-system/vortex**](https://github.com/vortex-design-system/vortex)
 - ⚡ J&#x27;ai publié **3** commits sur le repo [**vortex-design-system/vortex**](https://github.com/vortex-design-system/vortex)
-- 🚫 J&#x27;ai fermé la _pull request_ [**docs: add Samuel-Martineau as a contributor**](https://github.com/vortex-design-system/vortex/pull/3) du repo [**vortex-design-system/vortex**](https://github.com/vortex-design-system/vortex)
-- 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**Contributors**](https://github.com/vortex-design-system/vortex/issues/1) du repo [**vortex-design-system/vortex**](https://github.com/vortex-design-system/vortex)
 
 ## Mes paquets NPM
 
