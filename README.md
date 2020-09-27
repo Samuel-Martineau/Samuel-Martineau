@@ -16,16 +16,16 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
+- ⚡ J&#x27;ai publié **3** commits sur le repo [**vortex-design-system/vortex**](https://github.com/vortex-design-system/vortex)
+- 🚫 J&#x27;ai fermé la _pull request_ [**docs: add Samuel-Martineau as a contributor**](https://github.com/vortex-design-system/vortex/pull/3) du repo [**vortex-design-system/vortex**](https://github.com/vortex-design-system/vortex)
+- 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**Contributors**](https://github.com/vortex-design-system/vortex/issues/1) du repo [**vortex-design-system/vortex**](https://github.com/vortex-design-system/vortex)
+- ⚡ J&#x27;ai publié **4** commits sur le repo [**vortex-design-system/vortex**](https://github.com/vortex-design-system/vortex)
+- 🚫 J&#x27;ai fermé la _pull request_ [**docs: add Samuel as a contributor**](https://github.com/vortex-design-system/vortex/pull/2) du repo [**vortex-design-system/vortex**](https://github.com/vortex-design-system/vortex)
+- 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**Contributors**](https://github.com/vortex-design-system/vortex/issues/1) du repo [**vortex-design-system/vortex**](https://github.com/vortex-design-system/vortex)
+- ✅ J&#x27;ai ouvert l&#x27;_issue_ [**Contributors**](https://github.com/vortex-design-system/vortex/issues/1) sur le repo [**vortex-design-system/vortex**](https://github.com/vortex-design-system/vortex)
 - 🚀 J&#x27;ai créé le _repo_ [**vortex-design-system/vortex-design-system.github.io**](https://github.com/vortex-design-system/vortex-design-system.github.io)
 - 🚀 J&#x27;ai créé le _repo_ [**vortex-design-system/vortex.github.io**](https://github.com/vortex-design-system/vortex.github.io)
 - ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Smartineau.me**](https://github.com/Samuel-Martineau/Smartineau.me)
-- 🚫 J&#x27;ai fermé la _pull request_ [**Bump node-fetch from 2.6.0 to 2.6.1**](https://github.com/Samuel-Martineau/Smartineau.me/pull/3) du repo [**Samuel-Martineau/Smartineau.me**](https://github.com/Samuel-Martineau/Smartineau.me)
-- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
-- 🚫 J&#x27;ai fermé la _pull request_ [**Bump http-proxy from 1.18.0 to 1.18.1 in /simulator**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/pull/11) du repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
-- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/RM-Comments-CLI**](https://github.com/Samuel-Martineau/RM-Comments-CLI)
-- 🚫 J&#x27;ai fermé la _pull request_ [**build(deps): bump bl from 4.0.2 to 4.0.3**](https://github.com/Samuel-Martineau/RM-Comments-CLI/pull/5) du repo [**Samuel-Martineau/RM-Comments-CLI**](https://github.com/Samuel-Martineau/RM-Comments-CLI)
-- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/love_tester**](https://github.com/Samuel-Martineau/love_tester)
-- 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**Created .exe after installation not working**](https://github.com/electron/windows-installer/issues/333) du repo [**electron/windows-installer**](https://github.com/electron/windows-installer)
 
 ## Mes paquets NPM
 
