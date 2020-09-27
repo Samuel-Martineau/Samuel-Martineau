@@ -16,25 +16,25 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
+- ⚡ J&#x27;ai publié **4** commits sur le repo [**vortex-design-system/vortex**](https://github.com/vortex-design-system/vortex)
+- 🚫 J&#x27;ai fermé la _pull request_ [**docs: add Samuel-Martineau as a contributor**](https://github.com/vortex-design-system/vortex/pull/15) du repo [**vortex-design-system/vortex**](https://github.com/vortex-design-system/vortex)
+- ⚡ J&#x27;ai publié **8** commits sur le repo [**vortex-design-system/vortex**](https://github.com/vortex-design-system/vortex)
+- 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**Contributors**](https://github.com/vortex-design-system/vortex/issues/5) du repo [**vortex-design-system/vortex**](https://github.com/vortex-design-system/vortex)
 - ⚡ J&#x27;ai publié **3** commits sur le repo [**vortex-design-system/vortex**](https://github.com/vortex-design-system/vortex)
 - 🚫 J&#x27;ai fermé la _pull request_ [**docs: add Doudou8 as a contributor**](https://github.com/vortex-design-system/vortex/pull/8) du repo [**vortex-design-system/vortex**](https://github.com/vortex-design-system/vortex)
 - 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**Contributors**](https://github.com/vortex-design-system/vortex/issues/5) du repo [**vortex-design-system/vortex**](https://github.com/vortex-design-system/vortex)
 - ⚡ J&#x27;ai publié **3** commits sur le repo [**vortex-design-system/vortex**](https://github.com/vortex-design-system/vortex)
 - 🚫 J&#x27;ai fermé la _pull request_ [**docs: add Samuel-Martineau as a contributor**](https://github.com/vortex-design-system/vortex/pull/3) du repo [**vortex-design-system/vortex**](https://github.com/vortex-design-system/vortex)
 - 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**Contributors**](https://github.com/vortex-design-system/vortex/issues/1) du repo [**vortex-design-system/vortex**](https://github.com/vortex-design-system/vortex)
-- ⚡ J&#x27;ai publié **4** commits sur le repo [**vortex-design-system/vortex**](https://github.com/vortex-design-system/vortex)
-- 🚫 J&#x27;ai fermé la _pull request_ [**docs: add Samuel as a contributor**](https://github.com/vortex-design-system/vortex/pull/2) du repo [**vortex-design-system/vortex**](https://github.com/vortex-design-system/vortex)
-- 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**Contributors**](https://github.com/vortex-design-system/vortex/issues/1) du repo [**vortex-design-system/vortex**](https://github.com/vortex-design-system/vortex)
-- ✅ J&#x27;ai ouvert l&#x27;_issue_ [**Contributors**](https://github.com/vortex-design-system/vortex/issues/1) sur le repo [**vortex-design-system/vortex**](https://github.com/vortex-design-system/vortex)
 
 ## Mes paquets NPM
 
 | Paquet                | Nombre de téléchargements |
 | --------------------- | ------------------------: |
-| generator-svelte      |                      2016 |
+| generator-svelte      |                      2017 |
 | create-custom-command |                      1776 |
-| rmc-cli               |                       292 |
-| **Total**             |                      4084 |
+| rmc-cli               |                       297 |
+| **Total**             |                      4090 |
 
 ## Me contacter
 
