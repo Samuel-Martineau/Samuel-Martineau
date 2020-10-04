@@ -16,7 +16,7 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
-- ⚡ J&#x27;ai publié **22** commits sur le repo [**Samuel-Martineau/Smartineau.me**](https://github.com/Samuel-Martineau/Smartineau.me)
+- ⚡ J&#x27;ai publié **24** commits sur le repo [**Samuel-Martineau/Smartineau.me**](https://github.com/Samuel-Martineau/Smartineau.me)
 - ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
 - ⚡ J&#x27;ai publié **5** commits sur le repo [**vortex-design-system/vortex2**](https://github.com/vortex-design-system/vortex2)
 - 🚀 J&#x27;ai créé le _repo_ [**vortex-design-system/vortex2**](https://github.com/vortex-design-system/vortex2)
