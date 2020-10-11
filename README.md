@@ -16,16 +16,16 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
+- ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/Create-Custom-Command**](https://github.com/Samuel-Martineau/Create-Custom-Command)
+- 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**Mistakes found**](https://github.com/Samuel-Martineau/Create-Custom-Command/issues/2) du repo [**Samuel-Martineau/Create-Custom-Command**](https://github.com/Samuel-Martineau/Create-Custom-Command)
+- ⚡ J&#x27;ai publié **3** commits sur le repo [**Samuel-Martineau/Create-Custom-Command**](https://github.com/Samuel-Martineau/Create-Custom-Command)
+- 🚫 J&#x27;ai fermé la _pull request_ [**Mistakes fixed**](https://github.com/Samuel-Martineau/Create-Custom-Command/pull/4) du repo [**Samuel-Martineau/Create-Custom-Command**](https://github.com/Samuel-Martineau/Create-Custom-Command)
 - 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**Doesn&#x27;t work with Yarn**](https://github.com/terminal-junkies/npmx/issues/5) du repo [**terminal-junkies/npmx**](https://github.com/terminal-junkies/npmx)
 - ✅ J&#x27;ai ouvert l&#x27;_issue_ [**Links in READMEs aren&#x27;t displayed correctly in iTerm**](https://github.com/terminal-junkies/npmx/issues/9) sur le repo [**terminal-junkies/npmx**](https://github.com/terminal-junkies/npmx)
 - 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**Doesn&#x27;t work with Yarn**](https://github.com/terminal-junkies/npmx/issues/5) du repo [**terminal-junkies/npmx**](https://github.com/terminal-junkies/npmx)
 - 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**Mistakes found**](https://github.com/Samuel-Martineau/Create-Custom-Command/issues/2) du repo [**Samuel-Martineau/Create-Custom-Command**](https://github.com/Samuel-Martineau/Create-Custom-Command)
 - ✅ J&#x27;ai ouvert l&#x27;_issue_ [**Should we add websockets for the poll to be live?**](https://github.com/CodingTrain/Live-Poll/issues/15) sur le repo [**CodingTrain/Live-Poll**](https://github.com/CodingTrain/Live-Poll)
 - 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**Doesn&#x27;t work with Yarn**](https://github.com/terminal-junkies/npmx/issues/5) du repo [**terminal-junkies/npmx**](https://github.com/terminal-junkies/npmx)
-- ✅ J&#x27;ai ouvert l&#x27;_issue_ [**Doesn&#x27;t work with Yarn**](https://github.com/terminal-junkies/npmx/issues/5) sur le repo [**terminal-junkies/npmx**](https://github.com/terminal-junkies/npmx)
-- ✅ J&#x27;ai ouvert l&#x27;_issue_ [**Is this project dead?**](https://github.com/jordic/file_server/issues/14) sur le repo [**jordic/file_server**](https://github.com/jordic/file_server)
-- ⚡ J&#x27;ai publié **28** commits sur le repo [**Samuel-Martineau/Smartineau.me**](https://github.com/Samuel-Martineau/Smartineau.me)
-- ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
 
 ## Mes paquets NPM
 
