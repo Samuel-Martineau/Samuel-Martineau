@@ -16,6 +16,7 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
+- ❌ J&#x27;ai fermé l&#x27;_issue_ [**Crashing when loading - 1.16.1**](https://github.com/Samuel-Martineau/Potions-HUD-Fabric/issues/2) du repo [**Samuel-Martineau/Potions-HUD-Fabric**](https://github.com/Samuel-Martineau/Potions-HUD-Fabric)
 - ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
 - ⚡ J&#x27;ai publié **4** commits sur le repo [**Samuel-Martineau/Potions-HUD-Fabric**](https://github.com/Samuel-Martineau/Potions-HUD-Fabric)
 - ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
@@ -25,7 +26,6 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 - 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**Mistakes found**](https://github.com/Samuel-Martineau/Create-Custom-Command/issues/2) du repo [**Samuel-Martineau/Create-Custom-Command**](https://github.com/Samuel-Martineau/Create-Custom-Command)
 - ⚡ J&#x27;ai publié **3** commits sur le repo [**Samuel-Martineau/Create-Custom-Command**](https://github.com/Samuel-Martineau/Create-Custom-Command)
 - 🚫 J&#x27;ai fermé la _pull request_ [**Mistakes fixed**](https://github.com/Samuel-Martineau/Create-Custom-Command/pull/4) du repo [**Samuel-Martineau/Create-Custom-Command**](https://github.com/Samuel-Martineau/Create-Custom-Command)
-- 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**Doesn&#x27;t work with Yarn**](https://github.com/terminal-junkies/npmx/issues/5) du repo [**terminal-junkies/npmx**](https://github.com/terminal-junkies/npmx)
 
 ## Mes paquets NPM
 
@@ -33,8 +33,8 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 | --------------------- | ------------------------: |
 | generator-svelte      |                      2127 |
 | create-custom-command |                      1945 |
-| rmc-cli               |                       255 |
-| **Total**             |                      4327 |
+| rmc-cli               |                       254 |
+| **Total**             |                      4326 |
 
 ## Me contacter
 
