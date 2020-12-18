@@ -16,6 +16,8 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
+- 🌈 J&#x27;ai créé un fork du repo [**Homebrew/homebrew-cask**](https://github.com/Homebrew/homebrew-cask)
+- ⚡ J&#x27;ai publié **4** commits sur le repo [**Samuel-Martineau/Planificateur-iMessage**](https://github.com/Samuel-Martineau/Planificateur-iMessage)
 - ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
 - 🚫 J&#x27;ai fermé la _pull request_ [**Bump highlight.js from 9.18.1 to 9.18.5**](https://github.com/Samuel-Martineau/Samuel-Martineau/pull/1) du repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
 - ❌ J&#x27;ai fermé l&#x27;_issue_ [**Should we add websockets for the poll to be live?**](https://github.com/CodingTrain/Live-Poll/issues/15) du repo [**CodingTrain/Live-Poll**](https://github.com/CodingTrain/Live-Poll)
@@ -24,17 +26,15 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 - 💬 J&#x27;ai commenté 4 fois sur la _pull request_ [**docs: add shiffman as a contributor**](https://github.com/CodingTrain/Live-Poll/issues/45) du repo [**CodingTrain/Live-Poll**](https://github.com/CodingTrain/Live-Poll)
 - 🔥 J&#x27;ai ouvert la _pull request_ [**Added code style rules (Prettier, Eslint &amp; Husky)**](https://github.com/CodingTrain/Live-Poll/pull/44) sur le repo [**CodingTrain/Live-Poll**](https://github.com/CodingTrain/Live-Poll)
 - 🌈 J&#x27;ai créé un fork du repo [**CodingTrain/Live-Poll**](https://github.com/CodingTrain/Live-Poll)
-- ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/love_tester**](https://github.com/Samuel-Martineau/love_tester)
-- ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/RM-Comments-CLI**](https://github.com/Samuel-Martineau/RM-Comments-CLI)
 
 ## Mes paquets NPM
 
 | Paquet                | Nombre de téléchargements |
 | --------------------- | ------------------------: |
 | generator-svelte      |                      2323 |
-| create-custom-command |                      2141 |
-| rmc-cli               |                       254 |
-| **Total**             |                      4718 |
+| create-custom-command |                      1952 |
+| rmc-cli               |                       258 |
+| **Total**             |                      4533 |
 
 ## Me contacter
 
