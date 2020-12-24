@@ -16,25 +16,25 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
+- ⚡ J&#x27;ai publié **5** commits sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
+- 🚫 J&#x27;ai fermé la _pull request_ [**Bump dot-prop from 4.2.0 to 4.2.1 in /simulator**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/pull/14) du repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
+- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
+- 🚫 J&#x27;ai fermé la _pull request_ [**[Snyk] Security upgrade chart.js from 2.9.3 to 2.9.4**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/pull/12) du repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
+- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
+- 🚫 J&#x27;ai fermé la _pull request_ [**Bump ini from 1.3.5 to 1.3.8 in /simulator**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/pull/13) du repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
 - 🌈 J&#x27;ai créé un fork du repo [**Homebrew/homebrew-cask**](https://github.com/Homebrew/homebrew-cask)
 - ⚡ J&#x27;ai publié **4** commits sur le repo [**Samuel-Martineau/Planificateur-iMessage**](https://github.com/Samuel-Martineau/Planificateur-iMessage)
 - ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
 - 🚫 J&#x27;ai fermé la _pull request_ [**Bump highlight.js from 9.18.1 to 9.18.5**](https://github.com/Samuel-Martineau/Samuel-Martineau/pull/1) du repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
-- ❌ J&#x27;ai fermé l&#x27;_issue_ [**Should we add websockets for the poll to be live?**](https://github.com/CodingTrain/Live-Poll/issues/15) du repo [**CodingTrain/Live-Poll**](https://github.com/CodingTrain/Live-Poll)
-- ✅ J&#x27;ai ouvert l&#x27;_issue_ [**Support for FireFox?**](https://github.com/hediet/chrome-ext-github-monaco/issues/1) sur le repo [**hediet/chrome-ext-github-monaco**](https://github.com/hediet/chrome-ext-github-monaco)
-- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Live-Poll**](https://github.com/Samuel-Martineau/Live-Poll)
-- 💬 J&#x27;ai commenté 4 fois sur la _pull request_ [**docs: add shiffman as a contributor**](https://github.com/CodingTrain/Live-Poll/issues/45) du repo [**CodingTrain/Live-Poll**](https://github.com/CodingTrain/Live-Poll)
-- 🔥 J&#x27;ai ouvert la _pull request_ [**Added code style rules (Prettier, Eslint &amp; Husky)**](https://github.com/CodingTrain/Live-Poll/pull/44) sur le repo [**CodingTrain/Live-Poll**](https://github.com/CodingTrain/Live-Poll)
-- 🌈 J&#x27;ai créé un fork du repo [**CodingTrain/Live-Poll**](https://github.com/CodingTrain/Live-Poll)
 
 ## Mes paquets NPM
 
 | Paquet                | Nombre de téléchargements |
 | --------------------- | ------------------------: |
 | generator-svelte      |                      2325 |
-| create-custom-command |                      1419 |
+| create-custom-command |                      1398 |
 | rmc-cli               |                       259 |
-| **Total**             |                      4003 |
+| **Total**             |                      3982 |
 
 ## Me contacter
 
