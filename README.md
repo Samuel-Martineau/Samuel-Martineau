@@ -16,6 +16,8 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
+- 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**Creating username and password for docker-compose up.**](https://github.com/inoda/ontrack/issues/41) du repo [**inoda/ontrack**](https://github.com/inoda/ontrack)
+- ⚡ J&#x27;ai publié **7** commits sur le repo [**Samuel-Martineau/RSS-Filter-Server**](https://github.com/Samuel-Martineau/RSS-Filter-Server)
 - ⚡ J&#x27;ai publié **6** commits sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
 - 🚫 J&#x27;ai fermé la _pull request_ [**Bump dot-prop from 4.2.0 to 4.2.1 in /simulator**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/pull/14) du repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
 - ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
@@ -24,17 +26,15 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 - 🚫 J&#x27;ai fermé la _pull request_ [**Bump ini from 1.3.5 to 1.3.8 in /simulator**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/pull/13) du repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
 - 🌈 J&#x27;ai créé un fork du repo [**Homebrew/homebrew-cask**](https://github.com/Homebrew/homebrew-cask)
 - ⚡ J&#x27;ai publié **4** commits sur le repo [**Samuel-Martineau/Planificateur-iMessage**](https://github.com/Samuel-Martineau/Planificateur-iMessage)
-- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
-- 🚫 J&#x27;ai fermé la _pull request_ [**Bump highlight.js from 9.18.1 to 9.18.5**](https://github.com/Samuel-Martineau/Samuel-Martineau/pull/1) du repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
 
 ## Mes paquets NPM
 
 | Paquet                | Nombre de téléchargements |
 | --------------------- | ------------------------: |
-| generator-svelte      |                      2420 |
-| create-custom-command |                      1280 |
+| generator-svelte      |                      2453 |
+| create-custom-command |                      1240 |
 | rmc-cli               |                       255 |
-| **Total**             |                      3955 |
+| **Total**             |                      3948 |
 
 ## Me contacter
 
