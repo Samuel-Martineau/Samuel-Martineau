@@ -16,6 +16,8 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
+- 💬 J&#x27;ai commenté 3 fois sur l&#x27;_issue_ [**Docker + Docker Compose**](https://github.com/GRVYDEV/Project-Lightspeed/issues/2) du repo [**GRVYDEV/Project-Lightspeed**](https://github.com/GRVYDEV/Project-Lightspeed)
+- 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**Migrate Sapper to Snowpack**](https://github.com/Zimtir/SENT-template/issues/92) du repo [**Zimtir/SENT-template**](https://github.com/Zimtir/SENT-template)
 - 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**Error: Package subpath &#x27;./compiler.js&#x27; is not defined by &quot;exports&quot; in node_modules/svelte/package.json**](https://github.com/Samuel-Martineau/generator-svelte/issues/7) du repo [**Samuel-Martineau/generator-svelte**](https://github.com/Samuel-Martineau/generator-svelte)
 - 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**Creating username and password for docker-compose up.**](https://github.com/inoda/ontrack/issues/41) du repo [**inoda/ontrack**](https://github.com/inoda/ontrack)
 - ⚡ J&#x27;ai publié **7** commits sur le repo [**Samuel-Martineau/RSS-Filter-Server**](https://github.com/Samuel-Martineau/RSS-Filter-Server)
@@ -24,17 +26,15 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 - ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
 - 🚫 J&#x27;ai fermé la _pull request_ [**[Snyk] Security upgrade chart.js from 2.9.3 to 2.9.4**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/pull/12) du repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
 - ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
-- 🚫 J&#x27;ai fermé la _pull request_ [**Bump ini from 1.3.5 to 1.3.8 in /simulator**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/pull/13) du repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
-- 🌈 J&#x27;ai créé un fork du repo [**Homebrew/homebrew-cask**](https://github.com/Homebrew/homebrew-cask)
 
 ## Mes paquets NPM
 
 | Paquet                | Nombre de téléchargements |
 | --------------------- | ------------------------: |
-| generator-svelte      |                      2454 |
-| create-custom-command |                      1238 |
-| rmc-cli               |                       260 |
-| **Total**             |                      3952 |
+| generator-svelte      |                      2469 |
+| create-custom-command |                      1219 |
+| rmc-cli               |                       259 |
+| **Total**             |                      3947 |
 
 ## Me contacter
 
