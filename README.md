@@ -10,31 +10,31 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Mes compétences
 
-<img alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" title="HTML5" /><img alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" title="CSS3" /><img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" title="JavaScript" /><img alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" title="TypeScript" /><img alt="NodeJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" title="NodeJS" /><img alt="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" title="Linux" /><img alt="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50" title="MongoDB" /><img alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" title="Java" /><img alt="jQuery" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" width="50" title="jQuery" />
+<img alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" title="HTML5" /><img alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" title="CSS3" /><img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" title="JavaScript" /><img alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" title="TypeScript" /><img alt="NodeJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" title="NodeJS" /><img alt="Yarn" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" width="50" title="Yarn" /><img alt="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" title="Linux" /><img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" title="Python" />
 
 ##### Icônes fournis par [Devicon](https://konpa.github.io/devicon/)
 
 ## Activité GitHub récente
 
-- 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**Support Firefox**](https://github.com/Claudiohbsantos/github-material-icons-extension/issues/1) du repo [**Claudiohbsantos/github-material-icons-extension**](https://github.com/Claudiohbsantos/github-material-icons-extension)
-- ✅ J&#x27;ai ouvert l&#x27;_issue_ [**Support Firefox**](https://github.com/Claudiohbsantos/github-material-icons-extension/issues/1) sur le repo [**Claudiohbsantos/github-material-icons-extension**](https://github.com/Claudiohbsantos/github-material-icons-extension)
-- 💬 J&#x27;ai commenté 3 fois sur l&#x27;_issue_ [**Docker + Docker Compose**](https://github.com/GRVYDEV/Project-Lightspeed/issues/2) du repo [**GRVYDEV/Project-Lightspeed**](https://github.com/GRVYDEV/Project-Lightspeed)
-- 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**Migrate Sapper to Snowpack**](https://github.com/Zimtir/SENT-template/issues/92) du repo [**Zimtir/SENT-template**](https://github.com/Zimtir/SENT-template)
-- 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**Error: Package subpath &#x27;./compiler.js&#x27; is not defined by &quot;exports&quot; in node_modules/svelte/package.json**](https://github.com/Samuel-Martineau/generator-svelte/issues/7) du repo [**Samuel-Martineau/generator-svelte**](https://github.com/Samuel-Martineau/generator-svelte)
-- 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**Creating username and password for docker-compose up.**](https://github.com/inoda/ontrack/issues/41) du repo [**inoda/ontrack**](https://github.com/inoda/ontrack)
-- ⚡ J&#x27;ai publié **7** commits sur le repo [**Samuel-Martineau/RSS-Filter-Server**](https://github.com/Samuel-Martineau/RSS-Filter-Server)
-- ⚡ J&#x27;ai publié **6** commits sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
-- 🚫 J&#x27;ai fermé la _pull request_ [**Bump dot-prop from 4.2.0 to 4.2.1 in /simulator**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/pull/14) du repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
-- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
+- ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
+- 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**Génération des champs de l&#x27;éditeur et de la documentation avec des décorateurs**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/issues/16) du repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
+- ✅ J&#x27;ai ouvert l&#x27;_issue_ [**Déploiement du simulateur **](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/issues/22) sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
+- ✅ J&#x27;ai ouvert l&#x27;_issue_ [**Amélioration du ReadME**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/issues/21) sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
+- ✅ J&#x27;ai ouvert l&#x27;_issue_ [**Correction des titres des pages**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/issues/20) sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
+- ✅ J&#x27;ai ouvert l&#x27;_issue_ [**Amélioration de l&#x27;intégration du simulateur**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/issues/19) sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
+- ✅ J&#x27;ai ouvert l&#x27;_issue_ [**Ajout des configurations d&#x27;exemple**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/issues/18) sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
+- ✅ J&#x27;ai ouvert l&#x27;_issue_ [**Configuration des ajustements de gênes dans l&#x27;éditeur**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/issues/17) sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
+- ✅ J&#x27;ai ouvert l&#x27;_issue_ [**Génération des champs de l&#x27;éditeur et de la documentation avec des décorateurs**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/issues/16) sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
+- ✅ J&#x27;ai ouvert l&#x27;_issue_ [**Séparer les calculs et les graphiques (différents threads)**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/issues/15) sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
 
 ## Mes paquets NPM
 
 | Paquet                | Nombre de téléchargements |
 | --------------------- | ------------------------: |
-| generator-svelte      |                      2485 |
+| generator-svelte      |                      2524 |
 | create-custom-command |                      1149 |
 | rmc-cli               |                       252 |
-| **Total**             |                      3886 |
+| **Total**             |                      3925 |
 
 ## Me contacter
 
