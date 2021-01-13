@@ -16,6 +16,8 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
+- 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**Support Firefox**](https://github.com/Claudiohbsantos/github-material-icons-extension/issues/1) du repo [**Claudiohbsantos/github-material-icons-extension**](https://github.com/Claudiohbsantos/github-material-icons-extension)
+- ✅ J&#x27;ai ouvert l&#x27;_issue_ [**Support Firefox**](https://github.com/Claudiohbsantos/github-material-icons-extension/issues/1) sur le repo [**Claudiohbsantos/github-material-icons-extension**](https://github.com/Claudiohbsantos/github-material-icons-extension)
 - 💬 J&#x27;ai commenté 3 fois sur l&#x27;_issue_ [**Docker + Docker Compose**](https://github.com/GRVYDEV/Project-Lightspeed/issues/2) du repo [**GRVYDEV/Project-Lightspeed**](https://github.com/GRVYDEV/Project-Lightspeed)
 - 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**Migrate Sapper to Snowpack**](https://github.com/Zimtir/SENT-template/issues/92) du repo [**Zimtir/SENT-template**](https://github.com/Zimtir/SENT-template)
 - 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**Error: Package subpath &#x27;./compiler.js&#x27; is not defined by &quot;exports&quot; in node_modules/svelte/package.json**](https://github.com/Samuel-Martineau/generator-svelte/issues/7) du repo [**Samuel-Martineau/generator-svelte**](https://github.com/Samuel-Martineau/generator-svelte)
@@ -24,17 +26,15 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 - ⚡ J&#x27;ai publié **6** commits sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
 - 🚫 J&#x27;ai fermé la _pull request_ [**Bump dot-prop from 4.2.0 to 4.2.1 in /simulator**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/pull/14) du repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
 - ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
-- 🚫 J&#x27;ai fermé la _pull request_ [**[Snyk] Security upgrade chart.js from 2.9.3 to 2.9.4**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/pull/12) du repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
-- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
 
 ## Mes paquets NPM
 
 | Paquet                | Nombre de téléchargements |
 | --------------------- | ------------------------: |
-| generator-svelte      |                      2518 |
-| create-custom-command |                      1191 |
-| rmc-cli               |                       251 |
-| **Total**             |                      3960 |
+| generator-svelte      |                      2485 |
+| create-custom-command |                      1149 |
+| rmc-cli               |                       252 |
+| **Total**             |                      3886 |
 
 ## Me contacter
 
