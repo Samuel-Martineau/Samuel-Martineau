@@ -15,10 +15,9 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 {{> devicon icon='JavaScript'}}
 {{> devicon icon='TypeScript'}}
 {{> devicon icon='NodeJS'}}
+{{> devicon icon='Yarn'}}
 {{> devicon icon='Linux'}}
-{{> devicon icon='MongoDB'}}
-{{> devicon icon='Java'}}
-{{> devicon icon='jQuery'}}
+{{> devicon icon='Python'}}
 
 ##### Icônes fournis par [Devicon](https://konpa.github.io/devicon/)
 
