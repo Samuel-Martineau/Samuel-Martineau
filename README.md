@@ -16,6 +16,7 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
+- ✅ J&#x27;ai ouvert l&#x27;_issue_ [**Publish to Homebrew**](https://github.com/numToStr/snm/issues/41) sur le repo [**numToStr/snm**](https://github.com/numToStr/snm)
 - ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
 - 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**Génération des champs de l&#x27;éditeur et de la documentation avec des décorateurs**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/issues/16) du repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
 - ✅ J&#x27;ai ouvert l&#x27;_issue_ [**Déploiement du simulateur **](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/issues/22) sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
@@ -25,16 +26,15 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 - ✅ J&#x27;ai ouvert l&#x27;_issue_ [**Ajout des configurations d&#x27;exemple**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/issues/18) sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
 - ✅ J&#x27;ai ouvert l&#x27;_issue_ [**Configuration des ajustements de gênes dans l&#x27;éditeur**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/issues/17) sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
 - ✅ J&#x27;ai ouvert l&#x27;_issue_ [**Génération des champs de l&#x27;éditeur et de la documentation avec des décorateurs**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/issues/16) sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
-- ✅ J&#x27;ai ouvert l&#x27;_issue_ [**Séparer les calculs et les graphiques (différents threads)**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/issues/15) sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
 
 ## Mes paquets NPM
 
 | Paquet                | Nombre de téléchargements |
 | --------------------- | ------------------------: |
-| generator-svelte      |                      2493 |
-| create-custom-command |                      1126 |
+| generator-svelte      |                      2492 |
+| create-custom-command |                      1110 |
 | rmc-cli               |                       252 |
-| **Total**             |                      3871 |
+| **Total**             |                      3854 |
 
 ## Me contacter
 
