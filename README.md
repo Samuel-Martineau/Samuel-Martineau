@@ -16,25 +16,25 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
-- ✅ J&#x27;ai ouvert l&#x27;_issue_ [**Lorsque l&#x27;on exécute une configuration et qu&#x27;on reclique sur la configuration, elle n&#x27;est pas sauvegardée comme dernière configuration utilisée**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/issues/27) sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
-- ❌ J&#x27;ai fermé l&#x27;_issue_ [**Amélioration de l&#x27;intégration du simulateur**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/issues/19) du repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
-- 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**Amélioration de l&#x27;intégration du simulateur**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/issues/19) du repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
-- ❌ J&#x27;ai fermé l&#x27;_issue_ [**Amélioration du ReadME**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/issues/21) du repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
-- 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**Amélioration du ReadME**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/issues/21) du repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
-- ⚡ J&#x27;ai publié **3** commits sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
-- 🚫 J&#x27;ai fermé la _pull request_ [**Bump lodash from 4.17.15 to 4.17.19 in /simulator-core**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/pull/24) du repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
-- 🚫 J&#x27;ai fermé la _pull request_ [**Bump ini from 1.3.5 to 1.3.8 in /simulator-core**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/pull/25) du repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
-- 🚫 J&#x27;ai fermé la _pull request_ [**Bump elliptic from 6.5.2 to 6.5.3 in /simulator-core**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/pull/26) du repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
-- ❌ J&#x27;ai fermé l&#x27;_issue_ [**Déploiement du simulateur **](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/issues/22) du repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
+- ✅ J&#x27;ai ouvert l&#x27;_issue_ [**Le bouton Créer une nouvelle configuration ne désactive pas la vue de téléversement**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/issues/28) sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
+- ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
+- ❌ J&#x27;ai fermé l&#x27;_issue_ [**Ajout des configurations d&#x27;exemple**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/issues/18) du repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
+- 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**Ajout des configurations d&#x27;exemple**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/issues/18) du repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
+- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
+- ❌ J&#x27;ai fermé l&#x27;_issue_ [**Correction des titres des pages**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/issues/20) du repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
+- 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**Correction des titres des pages**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/issues/20) du repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
+- ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
+- ❌ J&#x27;ai fermé l&#x27;_issue_ [**Lorsque l&#x27;on exécute une configuration et qu&#x27;on reclique sur la configuration, elle n&#x27;est pas sauvegardée comme dernière configuration utilisée**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/issues/27) du repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
+- 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**Lorsque l&#x27;on exécute une configuration et qu&#x27;on reclique sur la configuration, elle n&#x27;est pas sauvegardée comme dernière configuration utilisée**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/issues/27) du repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
 
 ## Mes paquets NPM
 
 | Paquet                | Nombre de téléchargements |
 | --------------------- | ------------------------: |
-| generator-svelte      |                      2525 |
-| create-custom-command |                      1041 |
-| rmc-cli               |                       255 |
-| **Total**             |                      3821 |
+| generator-svelte      |                      2529 |
+| create-custom-command |                      1067 |
+| rmc-cli               |                       256 |
+| **Total**             |                      3852 |
 
 ## Me contacter
 
