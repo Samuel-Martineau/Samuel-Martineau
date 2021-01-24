@@ -16,6 +16,9 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
+- ❌ J&#x27;ai fermé l&#x27;_issue_ [**Le bouton Créer une nouvelle configuration ne désactive pas la vue de téléversement**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/issues/28) du repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
+- 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**Le bouton Créer une nouvelle configuration ne désactive pas la vue de téléversement**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/issues/28) du repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
+- ⚡ J&#x27;ai publié **3** commits sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
 - ✅ J&#x27;ai ouvert l&#x27;_issue_ [**Le bouton Créer une nouvelle configuration ne désactive pas la vue de téléversement**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/issues/28) sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
 - ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
 - ❌ J&#x27;ai fermé l&#x27;_issue_ [**Ajout des configurations d&#x27;exemple**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/issues/18) du repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
@@ -23,18 +26,15 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 - ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
 - ❌ J&#x27;ai fermé l&#x27;_issue_ [**Correction des titres des pages**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/issues/20) du repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
 - 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**Correction des titres des pages**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/issues/20) du repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
-- ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
-- ❌ J&#x27;ai fermé l&#x27;_issue_ [**Lorsque l&#x27;on exécute une configuration et qu&#x27;on reclique sur la configuration, elle n&#x27;est pas sauvegardée comme dernière configuration utilisée**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/issues/27) du repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
-- 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**Lorsque l&#x27;on exécute une configuration et qu&#x27;on reclique sur la configuration, elle n&#x27;est pas sauvegardée comme dernière configuration utilisée**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/issues/27) du repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
 
 ## Mes paquets NPM
 
 | Paquet                | Nombre de téléchargements |
 | --------------------- | ------------------------: |
-| generator-svelte      |                      2529 |
-| create-custom-command |                      1067 |
-| rmc-cli               |                       256 |
-| **Total**             |                      3852 |
+| generator-svelte      |                      2555 |
+| create-custom-command |                      1045 |
+| rmc-cli               |                       257 |
+| **Total**             |                      3857 |
 
 ## Me contacter
 
