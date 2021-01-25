@@ -16,6 +16,9 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
+- ❌ J&#x27;ai fermé l&#x27;_issue_ [**Configuration des ajustements de gênes dans l&#x27;éditeur**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/issues/17) du repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
+- 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**Configuration des ajustements de gênes dans l&#x27;éditeur**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/issues/17) du repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
+- ⚡ J&#x27;ai publié **4** commits sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
 - ❌ J&#x27;ai fermé l&#x27;_issue_ [**Le bouton Créer une nouvelle configuration ne désactive pas la vue de téléversement**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/issues/28) du repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
 - 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**Le bouton Créer une nouvelle configuration ne désactive pas la vue de téléversement**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/issues/28) du repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
 - ⚡ J&#x27;ai publié **3** commits sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
@@ -23,18 +26,15 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 - ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
 - ❌ J&#x27;ai fermé l&#x27;_issue_ [**Ajout des configurations d&#x27;exemple**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/issues/18) du repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
 - 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**Ajout des configurations d&#x27;exemple**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/issues/18) du repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
-- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
-- ❌ J&#x27;ai fermé l&#x27;_issue_ [**Correction des titres des pages**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/issues/20) du repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
-- 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**Correction des titres des pages**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/issues/20) du repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
 
 ## Mes paquets NPM
 
 | Paquet                | Nombre de téléchargements |
 | --------------------- | ------------------------: |
 | generator-svelte      |                      2555 |
-| create-custom-command |                      1045 |
+| create-custom-command |                      1044 |
 | rmc-cli               |                       257 |
-| **Total**             |                      3857 |
+| **Total**             |                      3856 |
 
 ## Me contacter
 
