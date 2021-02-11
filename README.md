@@ -16,6 +16,7 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
+- 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**How does this work?**](https://github.com/conwnet/github1s/issues/46) du repo [**conwnet/github1s**](https://github.com/conwnet/github1s)
 - ⚡ J&#x27;ai publié **4** commits sur le repo [**Samuel-Martineau/roche-papier-ciseaux-ecole**](https://github.com/Samuel-Martineau/roche-papier-ciseaux-ecole)
 - ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
 - ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/roche-papier-ciseaux-ecole**](https://github.com/Samuel-Martineau/roche-papier-ciseaux-ecole)
@@ -25,7 +26,6 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 - ⚡ J&#x27;ai publié **4** commits sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
 - ❌ J&#x27;ai fermé l&#x27;_issue_ [**Le bouton Créer une nouvelle configuration ne désactive pas la vue de téléversement**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/issues/28) du repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
 - 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**Le bouton Créer une nouvelle configuration ne désactive pas la vue de téléversement**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/issues/28) du repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
-- ⚡ J&#x27;ai publié **3** commits sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
 
 ## Mes paquets NPM
 
