@@ -1,7 +1,7 @@
 <div align="middle">
   <img height="225" alt="avatar" src="https://raw.githubusercontent.com/Samuel-Martineau/Samuel-Martineau/master/avatar.png">
   <h1>Samuel Martineau</h1>
-  <h3>Étudiant de niveau seconaire passionné par l'informatique !</h3>
+  <h3>Étudiant de niveau secondaire passionné par l'informatique !</h3>
 </div>
 
 ## À propos de moi
@@ -16,6 +16,7 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
+- ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
 - ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/roche-papier-ciseaux-ecole**](https://github.com/Samuel-Martineau/roche-papier-ciseaux-ecole)
 - ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
 - 🚫 J&#x27;ai fermé la _pull request_ [**[Snyk] Security upgrade lodash from 4.17.20 to 4.17.21**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/pull/29) du repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
@@ -25,7 +26,6 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 - ⚡ J&#x27;ai publié **4** commits sur le repo [**Samuel-Martineau/roche-papier-ciseaux-ecole**](https://github.com/Samuel-Martineau/roche-papier-ciseaux-ecole)
 - ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
 - ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/roche-papier-ciseaux-ecole**](https://github.com/Samuel-Martineau/roche-papier-ciseaux-ecole)
-- 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**This is awesome! I wonder if we can make it a brew formula!**](https://github.com/sdushantha/wifi-password/issues/1) du repo [**sdushantha/wifi-password**](https://github.com/sdushantha/wifi-password)
 
 ## Mes paquets NPM
 
