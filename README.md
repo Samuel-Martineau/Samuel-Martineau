@@ -31,10 +31,10 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 | Paquet                | Nombre de téléchargements |
 | --------------------- | ------------------------: |
-| generator-svelte      |                      2487 |
-| create-custom-command |                      1044 |
-| rmc-cli               |                       259 |
-| **Total**             |                      3790 |
+| generator-svelte      |                      2485 |
+| create-custom-command |                      1043 |
+| rmc-cli               |                       258 |
+| **Total**             |                      3786 |
 
 ## Me contacter
 
