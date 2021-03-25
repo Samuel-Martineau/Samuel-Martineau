@@ -16,6 +16,7 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
+- ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/RM-Comments-CLI**](https://github.com/Samuel-Martineau/RM-Comments-CLI)
 - ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
 - ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/roche-papier-ciseaux-ecole**](https://github.com/Samuel-Martineau/roche-papier-ciseaux-ecole)
 - ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
@@ -25,16 +26,15 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 - 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**How does this work?**](https://github.com/conwnet/github1s/issues/46) du repo [**conwnet/github1s**](https://github.com/conwnet/github1s)
 - ⚡ J&#x27;ai publié **4** commits sur le repo [**Samuel-Martineau/roche-papier-ciseaux-ecole**](https://github.com/Samuel-Martineau/roche-papier-ciseaux-ecole)
 - ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
-- ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/roche-papier-ciseaux-ecole**](https://github.com/Samuel-Martineau/roche-papier-ciseaux-ecole)
 
 ## Mes paquets NPM
 
 | Paquet                | Nombre de téléchargements |
 | --------------------- | ------------------------: |
-| generator-svelte      |                      2660 |
-| create-custom-command |                      1117 |
+| generator-svelte      |                      2671 |
+| create-custom-command |                      1118 |
 | rmc-cli               |                       270 |
-| **Total**             |                      4047 |
+| **Total**             |                      4059 |
 
 ## Me contacter
 
