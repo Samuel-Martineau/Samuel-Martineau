@@ -16,25 +16,25 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
+- ⚡ J&#x27;ai publié **5** commits sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
+- 🚫 J&#x27;ai fermé la _pull request_ [**Bump prismjs from 1.22.0 to 1.23.0**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/pull/30) du repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
+- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
+- 🚫 J&#x27;ai fermé la _pull request_ [**Bump elliptic from 6.5.3 to 6.5.4**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/pull/31) du repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
+- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
+- 🚫 J&#x27;ai fermé la _pull request_ [**Bump is-svg from 4.2.1 to 4.3.1**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/pull/32) du repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
+- ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
+- ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/love_tester**](https://github.com/Samuel-Martineau/love_tester)
 - ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/RM-Comments-CLI**](https://github.com/Samuel-Martineau/RM-Comments-CLI)
 - ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
-- ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/roche-papier-ciseaux-ecole**](https://github.com/Samuel-Martineau/roche-papier-ciseaux-ecole)
-- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
-- 🚫 J&#x27;ai fermé la _pull request_ [**[Snyk] Security upgrade lodash from 4.17.20 to 4.17.21**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/pull/29) du repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
-- 🔥 J&#x27;ai ouvert la _pull request_ [**[Snyk] Security upgrade lodash from 4.17.20 to 4.17.21**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/pull/29) sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
-- ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
-- 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**How does this work?**](https://github.com/conwnet/github1s/issues/46) du repo [**conwnet/github1s**](https://github.com/conwnet/github1s)
-- ⚡ J&#x27;ai publié **4** commits sur le repo [**Samuel-Martineau/roche-papier-ciseaux-ecole**](https://github.com/Samuel-Martineau/roche-papier-ciseaux-ecole)
-- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
 
 ## Mes paquets NPM
 
 | Paquet                | Nombre de téléchargements |
 | --------------------- | ------------------------: |
-| generator-svelte      |                      2671 |
+| generator-svelte      |                      2739 |
 | create-custom-command |                      1118 |
-| rmc-cli               |                       270 |
-| **Total**             |                      4059 |
+| rmc-cli               |                       269 |
+| **Total**             |                      4126 |
 
 ## Me contacter
 
