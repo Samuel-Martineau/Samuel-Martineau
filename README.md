@@ -16,7 +16,7 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
-- ⚡ J&#x27;ai publié **3** commits sur le repo [**Samuel-Martineau/dotfiles**](https://github.com/Samuel-Martineau/dotfiles)
+- ⚡ J&#x27;ai publié **4** commits sur le repo [**Samuel-Martineau/dotfiles**](https://github.com/Samuel-Martineau/dotfiles)
 - ⚡ J&#x27;ai publié **5** commits sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
 - 🚫 J&#x27;ai fermé la _pull request_ [**Bump prismjs from 1.22.0 to 1.23.0**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/pull/30) du repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
 - ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
@@ -31,10 +31,10 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 | Paquet                | Nombre de téléchargements |
 | --------------------- | ------------------------: |
-| generator-svelte      |                      2891 |
+| generator-svelte      |                      2893 |
 | create-custom-command |                      1146 |
 | rmc-cli               |                       275 |
-| **Total**             |                      4312 |
+| **Total**             |                      4314 |
 
 ## Me contacter
 
