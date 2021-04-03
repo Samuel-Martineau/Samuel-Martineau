@@ -16,6 +16,7 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
+- ⚡ J&#x27;ai publié **4** commits sur le repo [**Samuel-Martineau/dotfiles**](https://github.com/Samuel-Martineau/dotfiles)
 - ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/love_tester**](https://github.com/Samuel-Martineau/love_tester)
 - ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/RM-Comments-CLI**](https://github.com/Samuel-Martineau/RM-Comments-CLI)
 - ⚡ J&#x27;ai publié **4** commits sur le repo [**Samuel-Martineau/dotfiles**](https://github.com/Samuel-Martineau/dotfiles)
@@ -25,16 +26,15 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 - 🚫 J&#x27;ai fermé la _pull request_ [**Bump elliptic from 6.5.3 to 6.5.4**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/pull/31) du repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
 - ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
 - 🚫 J&#x27;ai fermé la _pull request_ [**Bump is-svg from 4.2.1 to 4.3.1**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/pull/32) du repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
-- ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
 
 ## Mes paquets NPM
 
 | Paquet                | Nombre de téléchargements |
 | --------------------- | ------------------------: |
-| generator-svelte      |                      3091 |
+| generator-svelte      |                      3105 |
 | create-custom-command |                      1146 |
 | rmc-cli               |                       280 |
-| **Total**             |                      4517 |
+| **Total**             |                      4531 |
 
 ## Me contacter
 
