@@ -16,25 +16,25 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
+- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/netlify-cms-test**](https://github.com/Samuel-Martineau/netlify-cms-test)
+- 🚫 J&#x27;ai fermé la _pull request_ [**Create Articles “test”**](https://github.com/Samuel-Martineau/netlify-cms-test/pull/2) du repo [**Samuel-Martineau/netlify-cms-test**](https://github.com/Samuel-Martineau/netlify-cms-test)
+- 🔥 J&#x27;ai ouvert la _pull request_ [**Create Articles “test”**](https://github.com/Samuel-Martineau/netlify-cms-test/pull/2) sur le repo [**Samuel-Martineau/netlify-cms-test**](https://github.com/Samuel-Martineau/netlify-cms-test)
+- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/netlify-cms-test**](https://github.com/Samuel-Martineau/netlify-cms-test)
+- 🚫 J&#x27;ai fermé la _pull request_ [**Update Articles “sante-mentale-02”**](https://github.com/Samuel-Martineau/netlify-cms-test/pull/1) du repo [**Samuel-Martineau/netlify-cms-test**](https://github.com/Samuel-Martineau/netlify-cms-test)
+- 🔥 J&#x27;ai ouvert la _pull request_ [**Update Articles “sante-mentale-02”**](https://github.com/Samuel-Martineau/netlify-cms-test/pull/1) sur le repo [**Samuel-Martineau/netlify-cms-test**](https://github.com/Samuel-Martineau/netlify-cms-test)
+- ⚡ J&#x27;ai publié **4** commits sur le repo [**Samuel-Martineau/netlify-cms-test**](https://github.com/Samuel-Martineau/netlify-cms-test)
 - ⚡ J&#x27;ai publié **9** commits sur le repo [**Samuel-Martineau/dotfiles**](https://github.com/Samuel-Martineau/dotfiles)
 - ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/love_tester**](https://github.com/Samuel-Martineau/love_tester)
 - ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/RM-Comments-CLI**](https://github.com/Samuel-Martineau/RM-Comments-CLI)
-- ⚡ J&#x27;ai publié **4** commits sur le repo [**Samuel-Martineau/dotfiles**](https://github.com/Samuel-Martineau/dotfiles)
-- ⚡ J&#x27;ai publié **5** commits sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
-- 🚫 J&#x27;ai fermé la _pull request_ [**Bump prismjs from 1.22.0 to 1.23.0**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/pull/30) du repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
-- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
-- 🚫 J&#x27;ai fermé la _pull request_ [**Bump elliptic from 6.5.3 to 6.5.4**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/pull/31) du repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
-- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
-- 🚫 J&#x27;ai fermé la _pull request_ [**Bump is-svg from 4.2.1 to 4.3.1**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/pull/32) du repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
 
 ## Mes paquets NPM
 
 | Paquet                | Nombre de téléchargements |
 | --------------------- | ------------------------: |
-| generator-svelte      |                      3389 |
+| generator-svelte      |                      3452 |
 | create-custom-command |                      1172 |
-| rmc-cli               |                       286 |
-| **Total**             |                      4847 |
+| rmc-cli               |                       287 |
+| **Total**             |                      4911 |
 
 ## Me contacter
 
