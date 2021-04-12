@@ -17,24 +17,24 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 ## Activité GitHub récente
 
 - ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/netlify-cms-test**](https://github.com/Samuel-Martineau/netlify-cms-test)
+- 🚫 J&#x27;ai fermé la _pull request_ [**Create Articles “test2”**](https://github.com/Samuel-Martineau/netlify-cms-test/pull/4) du repo [**Samuel-Martineau/netlify-cms-test**](https://github.com/Samuel-Martineau/netlify-cms-test)
+- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/netlify-cms-test**](https://github.com/Samuel-Martineau/netlify-cms-test)
+- 🚫 J&#x27;ai fermé la _pull request_ [**Update Articles “sante-mentale-01”**](https://github.com/Samuel-Martineau/netlify-cms-test/pull/3) du repo [**Samuel-Martineau/netlify-cms-test**](https://github.com/Samuel-Martineau/netlify-cms-test)
+- 🔥 J&#x27;ai ouvert la _pull request_ [**Update Articles “sante-mentale-01”**](https://github.com/Samuel-Martineau/netlify-cms-test/pull/3) sur le repo [**Samuel-Martineau/netlify-cms-test**](https://github.com/Samuel-Martineau/netlify-cms-test)
+- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/netlify-cms-test**](https://github.com/Samuel-Martineau/netlify-cms-test)
 - 🚫 J&#x27;ai fermé la _pull request_ [**Create Articles “test”**](https://github.com/Samuel-Martineau/netlify-cms-test/pull/2) du repo [**Samuel-Martineau/netlify-cms-test**](https://github.com/Samuel-Martineau/netlify-cms-test)
 - 🔥 J&#x27;ai ouvert la _pull request_ [**Create Articles “test”**](https://github.com/Samuel-Martineau/netlify-cms-test/pull/2) sur le repo [**Samuel-Martineau/netlify-cms-test**](https://github.com/Samuel-Martineau/netlify-cms-test)
 - ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/netlify-cms-test**](https://github.com/Samuel-Martineau/netlify-cms-test)
 - 🚫 J&#x27;ai fermé la _pull request_ [**Update Articles “sante-mentale-02”**](https://github.com/Samuel-Martineau/netlify-cms-test/pull/1) du repo [**Samuel-Martineau/netlify-cms-test**](https://github.com/Samuel-Martineau/netlify-cms-test)
-- 🔥 J&#x27;ai ouvert la _pull request_ [**Update Articles “sante-mentale-02”**](https://github.com/Samuel-Martineau/netlify-cms-test/pull/1) sur le repo [**Samuel-Martineau/netlify-cms-test**](https://github.com/Samuel-Martineau/netlify-cms-test)
-- ⚡ J&#x27;ai publié **4** commits sur le repo [**Samuel-Martineau/netlify-cms-test**](https://github.com/Samuel-Martineau/netlify-cms-test)
-- ⚡ J&#x27;ai publié **9** commits sur le repo [**Samuel-Martineau/dotfiles**](https://github.com/Samuel-Martineau/dotfiles)
-- ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/love_tester**](https://github.com/Samuel-Martineau/love_tester)
-- ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/RM-Comments-CLI**](https://github.com/Samuel-Martineau/RM-Comments-CLI)
 
 ## Mes paquets NPM
 
 | Paquet                | Nombre de téléchargements |
 | --------------------- | ------------------------: |
-| generator-svelte      |                      3452 |
-| create-custom-command |                      1172 |
-| rmc-cli               |                       287 |
-| **Total**             |                      4911 |
+| generator-svelte      |                      3454 |
+| create-custom-command |                      1174 |
+| rmc-cli               |                       288 |
+| **Total**             |                      4916 |
 
 ## Me contacter
 
