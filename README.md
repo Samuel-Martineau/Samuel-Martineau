@@ -17,24 +17,24 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 ## Activité GitHub récente
 
 - ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/netlify-cms-test**](https://github.com/Samuel-Martineau/netlify-cms-test)
+- 🚫 J&#x27;ai fermé la _pull request_ [**Update Articles “test2”**](https://github.com/Samuel-Martineau/netlify-cms-test/pull/6) du repo [**Samuel-Martineau/netlify-cms-test**](https://github.com/Samuel-Martineau/netlify-cms-test)
+- 🔥 J&#x27;ai ouvert la _pull request_ [**Update Articles “test2”**](https://github.com/Samuel-Martineau/netlify-cms-test/pull/6) sur le repo [**Samuel-Martineau/netlify-cms-test**](https://github.com/Samuel-Martineau/netlify-cms-test)
+- ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/love_tester**](https://github.com/Samuel-Martineau/love_tester)
+- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/netlify-cms-test**](https://github.com/Samuel-Martineau/netlify-cms-test)
 - 🚫 J&#x27;ai fermé la _pull request_ [**Update Articles “sante-mentale-02”**](https://github.com/Samuel-Martineau/netlify-cms-test/pull/5) du repo [**Samuel-Martineau/netlify-cms-test**](https://github.com/Samuel-Martineau/netlify-cms-test)
 - 🔥 J&#x27;ai ouvert la _pull request_ [**Update Articles “sante-mentale-02”**](https://github.com/Samuel-Martineau/netlify-cms-test/pull/5) sur le repo [**Samuel-Martineau/netlify-cms-test**](https://github.com/Samuel-Martineau/netlify-cms-test)
 - ⚡ J&#x27;ai publié **6** commits sur le repo [**Samuel-Martineau/netlify-cms-test**](https://github.com/Samuel-Martineau/netlify-cms-test)
 - ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/dotfiles**](https://github.com/Samuel-Martineau/dotfiles)
 - ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/generator-svelte**](https://github.com/Samuel-Martineau/generator-svelte)
-- 🚫 J&#x27;ai fermé la _pull request_ [**Bump y18n from 4.0.0 to 4.0.1**](https://github.com/Samuel-Martineau/generator-svelte/pull/8) du repo [**Samuel-Martineau/generator-svelte**](https://github.com/Samuel-Martineau/generator-svelte)
-- ⚡ J&#x27;ai publié **6** commits sur le repo [**Samuel-Martineau/dotfiles**](https://github.com/Samuel-Martineau/dotfiles)
-- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/netlify-cms-test**](https://github.com/Samuel-Martineau/netlify-cms-test)
-- 🚫 J&#x27;ai fermé la _pull request_ [**Create Articles “test2”**](https://github.com/Samuel-Martineau/netlify-cms-test/pull/4) du repo [**Samuel-Martineau/netlify-cms-test**](https://github.com/Samuel-Martineau/netlify-cms-test)
 
 ## Mes paquets NPM
 
 | Paquet                | Nombre de téléchargements |
 | --------------------- | ------------------------: |
-| generator-svelte      |                      3608 |
+| generator-svelte      |                      3652 |
 | create-custom-command |                      1178 |
 | rmc-cli               |                       290 |
-| **Total**             |                      5076 |
+| **Total**             |                      5120 |
 
 ## Me contacter
 
