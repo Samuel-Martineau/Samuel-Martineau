@@ -16,6 +16,8 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
+- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
+- 🚫 J&#x27;ai fermé la _pull request_ [**Bump y18n from 4.0.0 to 4.0.3**](https://github.com/Samuel-Martineau/Samuel-Martineau/pull/2) du repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
 - ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/love_tester**](https://github.com/Samuel-Martineau/love_tester)
 - ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/dotfiles**](https://github.com/Samuel-Martineau/dotfiles)
 - ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/netlify-cms-test**](https://github.com/Samuel-Martineau/netlify-cms-test)
@@ -24,17 +26,15 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 - ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/love_tester**](https://github.com/Samuel-Martineau/love_tester)
 - ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/netlify-cms-test**](https://github.com/Samuel-Martineau/netlify-cms-test)
 - 🚫 J&#x27;ai fermé la _pull request_ [**Update Articles “sante-mentale-02”**](https://github.com/Samuel-Martineau/netlify-cms-test/pull/5) du repo [**Samuel-Martineau/netlify-cms-test**](https://github.com/Samuel-Martineau/netlify-cms-test)
-- 🔥 J&#x27;ai ouvert la _pull request_ [**Update Articles “sante-mentale-02”**](https://github.com/Samuel-Martineau/netlify-cms-test/pull/5) sur le repo [**Samuel-Martineau/netlify-cms-test**](https://github.com/Samuel-Martineau/netlify-cms-test)
-- ⚡ J&#x27;ai publié **6** commits sur le repo [**Samuel-Martineau/netlify-cms-test**](https://github.com/Samuel-Martineau/netlify-cms-test)
 
 ## Mes paquets NPM
 
 | Paquet                | Nombre de téléchargements |
 | --------------------- | ------------------------: |
-| generator-svelte      |                      3984 |
-| create-custom-command |                      1185 |
+| generator-svelte      |                      4041 |
+| create-custom-command |                      1186 |
 | rmc-cli               |                       291 |
-| **Total**             |                      5460 |
+| **Total**             |                      5518 |
 
 ## Me contacter
 
