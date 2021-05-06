@@ -16,25 +16,25 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
+- ⚡ J&#x27;ai publié **4** commits sur le repo [**Samuel-Martineau/Escape-the-Minecraft**](https://github.com/Samuel-Martineau/Escape-the-Minecraft)
+- 🔥 J&#x27;ai ouvert la _pull request_ [**Add type definition for command args**](https://github.com/wwselleck/solaire-discord/pull/9) sur le repo [**wwselleck/solaire-discord**](https://github.com/wwselleck/solaire-discord)
+- ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/solaire-discord**](https://github.com/Samuel-Martineau/solaire-discord)
+- 🌈 J&#x27;ai créé un fork du repo [**wwselleck/solaire-discord**](https://github.com/wwselleck/solaire-discord)
 - ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/dotfiles**](https://github.com/Samuel-Martineau/dotfiles)
 - ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
 - 🚫 J&#x27;ai fermé la _pull request_ [**Bump y18n from 4.0.0 to 4.0.3**](https://github.com/Samuel-Martineau/Samuel-Martineau/pull/2) du repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
 - ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/love_tester**](https://github.com/Samuel-Martineau/love_tester)
 - ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/dotfiles**](https://github.com/Samuel-Martineau/dotfiles)
 - ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/netlify-cms-test**](https://github.com/Samuel-Martineau/netlify-cms-test)
-- 🚫 J&#x27;ai fermé la _pull request_ [**Update Articles “test2”**](https://github.com/Samuel-Martineau/netlify-cms-test/pull/6) du repo [**Samuel-Martineau/netlify-cms-test**](https://github.com/Samuel-Martineau/netlify-cms-test)
-- 🔥 J&#x27;ai ouvert la _pull request_ [**Update Articles “test2”**](https://github.com/Samuel-Martineau/netlify-cms-test/pull/6) sur le repo [**Samuel-Martineau/netlify-cms-test**](https://github.com/Samuel-Martineau/netlify-cms-test)
-- ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/love_tester**](https://github.com/Samuel-Martineau/love_tester)
-- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/netlify-cms-test**](https://github.com/Samuel-Martineau/netlify-cms-test)
 
 ## Mes paquets NPM
 
 | Paquet                | Nombre de téléchargements |
 | --------------------- | ------------------------: |
-| generator-svelte      |                      4143 |
+| generator-svelte      |                      4155 |
 | create-custom-command |                      1189 |
 | rmc-cli               |                       292 |
-| **Total**             |                      5624 |
+| **Total**             |                      5636 |
 
 ## Me contacter
 
