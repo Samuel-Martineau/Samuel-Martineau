@@ -16,6 +16,8 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
+- ⚡ J&#x27;ai publié **1** commit sur le repo [**Robot-Grimpeur/robot-grimpeur.github.io**](https://github.com/Robot-Grimpeur/robot-grimpeur.github.io)
+- ⚡ J&#x27;ai publié **4** commits sur le repo [**Robot-Grimpeur/presentation**](https://github.com/Robot-Grimpeur/presentation)
 - ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/Escape-the-Minecraft**](https://github.com/Samuel-Martineau/Escape-the-Minecraft)
 - ⚡ J&#x27;ai publié **2** commits sur le repo [**Robot-Grimpeur/robot-grimpeur.github.io**](https://github.com/Robot-Grimpeur/robot-grimpeur.github.io)
 - 💬 J&#x27;ai commenté 2 fois sur la _pull request_ [**Add type definition for command args**](https://github.com/wwselleck/solaire-discord/issues/9) du repo [**wwselleck/solaire-discord**](https://github.com/wwselleck/solaire-discord)
@@ -24,17 +26,15 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 - ⚡ J&#x27;ai publié **3** commits sur le repo [**Robot-marcheur-mural/robot-marcheur-mural.github.io**](https://github.com/Robot-marcheur-mural/robot-marcheur-mural.github.io)
 - ⚡ J&#x27;ai publié **3** commits sur le repo [**Samuel-Martineau/Escape-the-Minecraft**](https://github.com/Samuel-Martineau/Escape-the-Minecraft)
 - 🚫 J&#x27;ai fermé la _pull request_ [**Create LICENSE**](https://github.com/Samuel-Martineau/Escape-the-Minecraft/pull/1) du repo [**Samuel-Martineau/Escape-the-Minecraft**](https://github.com/Samuel-Martineau/Escape-the-Minecraft)
-- 🔥 J&#x27;ai ouvert la _pull request_ [**Create LICENSE**](https://github.com/Samuel-Martineau/Escape-the-Minecraft/pull/1) sur le repo [**Samuel-Martineau/Escape-the-Minecraft**](https://github.com/Samuel-Martineau/Escape-the-Minecraft)
-- ⚡ J&#x27;ai publié **4** commits sur le repo [**Samuel-Martineau/Escape-the-Minecraft**](https://github.com/Samuel-Martineau/Escape-the-Minecraft)
 
 ## Mes paquets NPM
 
 | Paquet                | Nombre de téléchargements |
 | --------------------- | ------------------------: |
-| generator-svelte      |                      4398 |
+| generator-svelte      |                      4424 |
 | create-custom-command |                      1191 |
 | rmc-cli               |                       294 |
-| **Total**             |                      5883 |
+| **Total**             |                      5909 |
 
 ## Me contacter
 
