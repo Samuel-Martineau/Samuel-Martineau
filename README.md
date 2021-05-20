@@ -16,25 +16,25 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
+- ⚡ J&#x27;ai publié **2** commits sur le repo [**Robot-Grimpeur/node-typescript-boilerplate**](https://github.com/Robot-Grimpeur/node-typescript-boilerplate)
+- ⚡ J&#x27;ai publié **7** commits sur le repo [**Robot-Grimpeur/eslint-config**](https://github.com/Robot-Grimpeur/eslint-config)
+- ⚡ J&#x27;ai publié **2** commits sur le repo [**Robot-Grimpeur/node-typescript-boilerplate**](https://github.com/Robot-Grimpeur/node-typescript-boilerplate)
+- ⚡ J&#x27;ai publié **1** commit sur le repo [**Robot-Grimpeur/robot-grimpeur.github.io**](https://github.com/Robot-Grimpeur/robot-grimpeur.github.io)
+- ⚡ J&#x27;ai publié **2** commits sur le repo [**Robot-Grimpeur/node-typescript-boilerplate**](https://github.com/Robot-Grimpeur/node-typescript-boilerplate)
 - ⚡ J&#x27;ai publié **3** commits sur le repo [**Robot-Grimpeur/robot-grimpeur.github.io**](https://github.com/Robot-Grimpeur/robot-grimpeur.github.io)
 - ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/dotfiles**](https://github.com/Samuel-Martineau/dotfiles)
 - ⚡ J&#x27;ai publié **1** commit sur le repo [**Robot-Grimpeur/robot-grimpeur.github.io**](https://github.com/Robot-Grimpeur/robot-grimpeur.github.io)
 - ⚡ J&#x27;ai publié **4** commits sur le repo [**Robot-Grimpeur/presentation**](https://github.com/Robot-Grimpeur/presentation)
 - ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/Escape-the-Minecraft**](https://github.com/Samuel-Martineau/Escape-the-Minecraft)
-- ⚡ J&#x27;ai publié **2** commits sur le repo [**Robot-Grimpeur/robot-grimpeur.github.io**](https://github.com/Robot-Grimpeur/robot-grimpeur.github.io)
-- 💬 J&#x27;ai commenté 2 fois sur la _pull request_ [**Add type definition for command args**](https://github.com/wwselleck/solaire-discord/issues/9) du repo [**wwselleck/solaire-discord**](https://github.com/wwselleck/solaire-discord)
-- ⚡ J&#x27;ai publié **1** commit sur le repo [**Robot-Grimpeur/robot-grimpeur.github.io**](https://github.com/Robot-Grimpeur/robot-grimpeur.github.io)
-- 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**Always printing a short blank paper**](https://github.com/star-micronics/react-native-star-io10/issues/10) du repo [**star-micronics/react-native-star-io10**](https://github.com/star-micronics/react-native-star-io10)
-- ⚡ J&#x27;ai publié **3** commits sur le repo [**Robot-marcheur-mural/robot-marcheur-mural.github.io**](https://github.com/Robot-marcheur-mural/robot-marcheur-mural.github.io)
 
 ## Mes paquets NPM
 
 | Paquet                | Nombre de téléchargements |
 | --------------------- | ------------------------: |
-| generator-svelte      |                      4489 |
+| generator-svelte      |                      4517 |
 | create-custom-command |                      1190 |
 | rmc-cli               |                       292 |
-| **Total**             |                      5971 |
+| **Total**             |                      5999 |
 
 ## Me contacter
 
