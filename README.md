@@ -16,6 +16,7 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
+- ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/Escape-the-Minecraft**](https://github.com/Samuel-Martineau/Escape-the-Minecraft)
 - ⚡ J&#x27;ai publié **2** commits sur le repo [**Robot-Grimpeur/node-typescript-boilerplate**](https://github.com/Robot-Grimpeur/node-typescript-boilerplate)
 - ⚡ J&#x27;ai publié **7** commits sur le repo [**Robot-Grimpeur/eslint-config**](https://github.com/Robot-Grimpeur/eslint-config)
 - ⚡ J&#x27;ai publié **2** commits sur le repo [**Robot-Grimpeur/node-typescript-boilerplate**](https://github.com/Robot-Grimpeur/node-typescript-boilerplate)
@@ -25,16 +26,15 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 - ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/dotfiles**](https://github.com/Samuel-Martineau/dotfiles)
 - ⚡ J&#x27;ai publié **1** commit sur le repo [**Robot-Grimpeur/robot-grimpeur.github.io**](https://github.com/Robot-Grimpeur/robot-grimpeur.github.io)
 - ⚡ J&#x27;ai publié **4** commits sur le repo [**Robot-Grimpeur/presentation**](https://github.com/Robot-Grimpeur/presentation)
-- ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/Escape-the-Minecraft**](https://github.com/Samuel-Martineau/Escape-the-Minecraft)
 
 ## Mes paquets NPM
 
 | Paquet                | Nombre de téléchargements |
 | --------------------- | ------------------------: |
-| generator-svelte      |                      4517 |
-| create-custom-command |                      1190 |
+| generator-svelte      |                      4542 |
+| create-custom-command |                      1191 |
 | rmc-cli               |                       292 |
-| **Total**             |                      5999 |
+| **Total**             |                      6025 |
 
 ## Me contacter
 
