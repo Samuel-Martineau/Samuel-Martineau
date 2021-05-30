@@ -16,26 +16,28 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
-- ⚡ J&#x27;ai publié **7** commits sur le repo [**Samuel-Martineau/Escape-the-Minecraft**](https://github.com/Samuel-Martineau/Escape-the-Minecraft)
-- ⚡ J&#x27;ai publié **7** commits sur le repo [**Robot-Grimpeur/robot-grimpeur.github.io**](https://github.com/Robot-Grimpeur/robot-grimpeur.github.io)
-- ⚡ J&#x27;ai publié **2** commits sur le repo [**Robot-Grimpeur/dev-os**](https://github.com/Robot-Grimpeur/dev-os)
 - ⚡ J&#x27;ai publié **5** commits sur le repo [**Robot-Grimpeur/robot-grimpeur.github.io**](https://github.com/Robot-Grimpeur/robot-grimpeur.github.io)
+- ⚡ J&#x27;ai publié **2** commits sur le repo [**Robot-Grimpeur/dev-client**](https://github.com/Robot-Grimpeur/dev-client)
+- ⚡ J&#x27;ai publié **3** commits sur le repo [**Samuel-Martineau/Escape-the-Minecraft**](https://github.com/Samuel-Martineau/Escape-the-Minecraft)
+- ⚡ J&#x27;ai publié **2** commits sur le repo [**Robot-Grimpeur/dev-server**](https://github.com/Robot-Grimpeur/dev-server)
+- ⚡ J&#x27;ai publié **3** commits sur le repo [**Robot-Grimpeur/node-typescript-boilerplate**](https://github.com/Robot-Grimpeur/node-typescript-boilerplate)
+- ⚡ J&#x27;ai publié **2** commits sur le repo [**Chez-Tomio/dev-server**](https://github.com/Chez-Tomio/dev-server)
+- ⚡ J&#x27;ai publié **7** commits sur le repo [**Samuel-Martineau/Escape-the-Minecraft**](https://github.com/Samuel-Martineau/Escape-the-Minecraft)
+- ⚡ J&#x27;ai publié **12** commits sur le repo [**Robot-Grimpeur/robot-grimpeur.github.io**](https://github.com/Robot-Grimpeur/robot-grimpeur.github.io)
 - ⚡ J&#x27;ai publié **1** commit sur le repo [**Robot-Grimpeur/node-typescript-boilerplate**](https://github.com/Robot-Grimpeur/node-typescript-boilerplate)
 - ⚡ J&#x27;ai publié **3** commits sur le repo [**Robot-Grimpeur/dev-os**](https://github.com/Robot-Grimpeur/dev-os)
-- ⚡ J&#x27;ai publié **1** commit sur le repo [**Robot-Grimpeur/node-typescript-boilerplate**](https://github.com/Robot-Grimpeur/node-typescript-boilerplate)
-- ⚡ J&#x27;ai publié **3** commits sur le repo [**Robot-Grimpeur/eslint-config**](https://github.com/Robot-Grimpeur/eslint-config)
-- ⚡ J&#x27;ai publié **1** commit sur le repo [**Robot-Grimpeur/robot-grimpeur.github.io**](https://github.com/Robot-Grimpeur/robot-grimpeur.github.io)
-- ⚡ J&#x27;ai publié **2** commits sur le repo [**Robot-Grimpeur/eslint-config**](https://github.com/Robot-Grimpeur/eslint-config)
 
 ## Mes paquets NPM
 
 | Paquet                        | Nombre de téléchargements |
 | ----------------------------- | ------------------------: |
-| generator-svelte              |                      4814 |
+| generator-svelte              |                      4844 |
 | create-custom-command         |                      1246 |
 | @robot-grimpeur/eslint-config |                       352 |
 | rmc-cli                       |                       296 |
-| **Total**                     |                      6708 |
+| @robot-grimpeur/dev-client    |                         0 |
+| @robot-grimpeur/dev-server    |                         0 |
+| **Total**                     |                      6738 |
 
 ## Me contacter
 
