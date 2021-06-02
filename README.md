@@ -16,6 +16,7 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
+- ⚡ J&#x27;ai publié **1** commit sur le repo [**Robot-Grimpeur/robot-grimpeur.github.io**](https://github.com/Robot-Grimpeur/robot-grimpeur.github.io)
 - ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Escape-the-Minecraft**](https://github.com/Samuel-Martineau/Escape-the-Minecraft)
 - ⚡ J&#x27;ai publié **5** commits sur le repo [**Robot-Grimpeur/robot-grimpeur.github.io**](https://github.com/Robot-Grimpeur/robot-grimpeur.github.io)
 - ⚡ J&#x27;ai publié **2** commits sur le repo [**Robot-Grimpeur/dev-client**](https://github.com/Robot-Grimpeur/dev-client)
@@ -25,19 +26,18 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 - ⚡ J&#x27;ai publié **2** commits sur le repo [**Chez-Tomio/dev-server**](https://github.com/Chez-Tomio/dev-server)
 - ⚡ J&#x27;ai publié **7** commits sur le repo [**Samuel-Martineau/Escape-the-Minecraft**](https://github.com/Samuel-Martineau/Escape-the-Minecraft)
 - ⚡ J&#x27;ai publié **12** commits sur le repo [**Robot-Grimpeur/robot-grimpeur.github.io**](https://github.com/Robot-Grimpeur/robot-grimpeur.github.io)
-- ⚡ J&#x27;ai publié **1** commit sur le repo [**Robot-Grimpeur/node-typescript-boilerplate**](https://github.com/Robot-Grimpeur/node-typescript-boilerplate)
 
 ## Mes paquets NPM
 
 | Paquet                        | Nombre de téléchargements |
 | ----------------------------- | ------------------------: |
-| generator-svelte              |                      4860 |
+| generator-svelte              |                      4885 |
 | create-custom-command         |                      1246 |
 | @robot-grimpeur/eslint-config |                       354 |
 | rmc-cli                       |                       293 |
-| @robot-grimpeur/dev-server    |                        45 |
-| @robot-grimpeur/dev-client    |                        45 |
-| **Total**                     |                      6843 |
+| @robot-grimpeur/dev-server    |                        49 |
+| @robot-grimpeur/dev-client    |                        49 |
+| **Total**                     |                      6876 |
 
 ## Me contacter
 
