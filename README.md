@@ -16,6 +16,7 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
+- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Notion-Auto-Backup**](https://github.com/Samuel-Martineau/Notion-Auto-Backup)
 - ⚡ J&#x27;ai publié **4** commits sur le repo [**Robot-Grimpeur/robot-grimpeur.github.io**](https://github.com/Robot-Grimpeur/robot-grimpeur.github.io)
 - ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Escape-the-Minecraft**](https://github.com/Samuel-Martineau/Escape-the-Minecraft)
 - ⚡ J&#x27;ai publié **5** commits sur le repo [**Robot-Grimpeur/robot-grimpeur.github.io**](https://github.com/Robot-Grimpeur/robot-grimpeur.github.io)
@@ -25,19 +26,22 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 - ⚡ J&#x27;ai publié **3** commits sur le repo [**Robot-Grimpeur/node-typescript-boilerplate**](https://github.com/Robot-Grimpeur/node-typescript-boilerplate)
 - ⚡ J&#x27;ai publié **2** commits sur le repo [**Chez-Tomio/dev-server**](https://github.com/Chez-Tomio/dev-server)
 - ⚡ J&#x27;ai publié **7** commits sur le repo [**Samuel-Martineau/Escape-the-Minecraft**](https://github.com/Samuel-Martineau/Escape-the-Minecraft)
-- ⚡ J&#x27;ai publié **12** commits sur le repo [**Robot-Grimpeur/robot-grimpeur.github.io**](https://github.com/Robot-Grimpeur/robot-grimpeur.github.io)
 
 ## Mes paquets NPM
 
-| Paquet                        | Nombre de téléchargements |
-| ----------------------------- | ------------------------: |
-| generator-svelte              |                      5335 |
-| create-custom-command         |                      1250 |
-| @robot-grimpeur/eslint-config |                       358 |
-| rmc-cli                       |                       299 |
-| @robot-grimpeur/dev-server    |                        55 |
-| @robot-grimpeur/dev-client    |                        55 |
-| **Total**                     |                      7352 |
+| Paquet  |                                                                                                                                                                                                                                         Nombre de téléchargements |
+| ------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| message | jOOQ; SQL [insert into &quot;public&quot;.&quot;download_count&quot; (&quot;package_name&quot;, &quot;date&quot;, &quot;count&quot;) values (?, cast(? as date), ?)]; ERROR: duplicate key value violates unique constraint &quot;79_79_download_count_pkey&quot; |
+
+Detail: Key (package_name, date)&#x3D;(generator-svelte, 2021-06-15) already exists.; nested exception is org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint &quot;79_79_download_count_pkey&quot;
+Detail: Key (package_name, date)&#x3D;(generator-svelte, 2021-06-15) already exists.|
+|error|Internal Server Error|
+|path|/npm-stat/api/download-counts|
+|status|0|
+|timestamp|2021-06-16T20:15:24.099+0000|
+|**Total**|jOOQ; SQL [insert into &quot;public&quot;.&quot;download_count&quot; (&quot;package_name&quot;, &quot;date&quot;, &quot;count&quot;) values (?, cast(? as date), ?)]; ERROR: duplicate key value violates unique constraint &quot;79_79_download_count_pkey&quot;
+Detail: Key (package_name, date)&#x3D;(generator-svelte, 2021-06-15) already exists.; nested exception is org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint &quot;79_79_download_count_pkey&quot;
+Detail: Key (package_name, date)&#x3D;(generator-svelte, 2021-06-15) already exists.Internal Server Error/npm-stat/api/download-counts02021-06-16T20:15:24.099+0000|
 
 ## Me contacter
 
