@@ -16,6 +16,8 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
+- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Tetris-13kB-Game**](https://github.com/Samuel-Martineau/Tetris-13kB-Game)
+- 🚫 J&#x27;ai fermé la _pull request_ [**Bump rollup-plugin-serve from 1.0.1 to 1.0.2**](https://github.com/Samuel-Martineau/Tetris-13kB-Game/pull/2) du repo [**Samuel-Martineau/Tetris-13kB-Game**](https://github.com/Samuel-Martineau/Tetris-13kB-Game)
 - 💬 J&#x27;ai commenté sur la _pull request_ [**Add type definition for command args**](https://github.com/wwselleck/solaire-discord/issues/9) du repo [**wwselleck/solaire-discord**](https://github.com/wwselleck/solaire-discord)
 - ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Notion-Auto-Backup**](https://github.com/Samuel-Martineau/Notion-Auto-Backup)
 - ⚡ J&#x27;ai publié **4** commits sur le repo [**Robot-Grimpeur/robot-grimpeur.github.io**](https://github.com/Robot-Grimpeur/robot-grimpeur.github.io)
@@ -24,20 +26,18 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 - ⚡ J&#x27;ai publié **2** commits sur le repo [**Robot-Grimpeur/dev-client**](https://github.com/Robot-Grimpeur/dev-client)
 - ⚡ J&#x27;ai publié **3** commits sur le repo [**Samuel-Martineau/Escape-the-Minecraft**](https://github.com/Samuel-Martineau/Escape-the-Minecraft)
 - ⚡ J&#x27;ai publié **2** commits sur le repo [**Robot-Grimpeur/dev-server**](https://github.com/Robot-Grimpeur/dev-server)
-- ⚡ J&#x27;ai publié **3** commits sur le repo [**Robot-Grimpeur/node-typescript-boilerplate**](https://github.com/Robot-Grimpeur/node-typescript-boilerplate)
-- ⚡ J&#x27;ai publié **2** commits sur le repo [**Chez-Tomio/dev-server**](https://github.com/Chez-Tomio/dev-server)
 
 ## Mes paquets NPM
 
 | Paquet                        | Nombre de téléchargements |
 | ----------------------------- | ------------------------: |
-| generator-svelte              |                      5060 |
+| generator-svelte              |                      4913 |
 | create-custom-command         |                      1252 |
-| @robot-grimpeur/eslint-config |                       360 |
+| @robot-grimpeur/eslint-config |                       380 |
 | rmc-cli                       |                       298 |
-| @robot-grimpeur/dev-server    |                        56 |
-| @robot-grimpeur/dev-client    |                        56 |
-| **Total**                     |                      7082 |
+| @robot-grimpeur/dev-client    |                        76 |
+| @robot-grimpeur/dev-server    |                        75 |
+| **Total**                     |                      6994 |
 
 ## Me contacter
 
