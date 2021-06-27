@@ -16,6 +16,7 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
+- ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/dotfiles**](https://github.com/Samuel-Martineau/dotfiles)
 - ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Tetris-13kB-Game**](https://github.com/Samuel-Martineau/Tetris-13kB-Game)
 - 🚫 J&#x27;ai fermé la _pull request_ [**Bump rollup-plugin-serve from 1.0.1 to 1.0.2**](https://github.com/Samuel-Martineau/Tetris-13kB-Game/pull/2) du repo [**Samuel-Martineau/Tetris-13kB-Game**](https://github.com/Samuel-Martineau/Tetris-13kB-Game)
 - 💬 J&#x27;ai commenté sur la _pull request_ [**Add type definition for command args**](https://github.com/wwselleck/solaire-discord/issues/9) du repo [**wwselleck/solaire-discord**](https://github.com/wwselleck/solaire-discord)
@@ -25,19 +26,18 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 - ⚡ J&#x27;ai publié **5** commits sur le repo [**Robot-Grimpeur/robot-grimpeur.github.io**](https://github.com/Robot-Grimpeur/robot-grimpeur.github.io)
 - ⚡ J&#x27;ai publié **2** commits sur le repo [**Robot-Grimpeur/dev-client**](https://github.com/Robot-Grimpeur/dev-client)
 - ⚡ J&#x27;ai publié **3** commits sur le repo [**Samuel-Martineau/Escape-the-Minecraft**](https://github.com/Samuel-Martineau/Escape-the-Minecraft)
-- ⚡ J&#x27;ai publié **2** commits sur le repo [**Robot-Grimpeur/dev-server**](https://github.com/Robot-Grimpeur/dev-server)
 
 ## Mes paquets NPM
 
 | Paquet                        | Nombre de téléchargements |
 | ----------------------------- | ------------------------: |
-| generator-svelte              |                      4930 |
+| generator-svelte              |                      4933 |
 | create-custom-command         |                      1252 |
 | @robot-grimpeur/eslint-config |                       380 |
-| rmc-cli                       |                       298 |
+| rmc-cli                       |                       299 |
 | @robot-grimpeur/dev-client    |                        76 |
 | @robot-grimpeur/dev-server    |                        75 |
-| **Total**                     |                      7011 |
+| **Total**                     |                      7015 |
 
 ## Me contacter
 
