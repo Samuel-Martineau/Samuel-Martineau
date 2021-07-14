@@ -16,28 +16,28 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
-- ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/dotfiles**](https://github.com/Samuel-Martineau/dotfiles)
-- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Tetris-13kB-Game**](https://github.com/Samuel-Martineau/Tetris-13kB-Game)
-- 🚫 J&#x27;ai fermé la _pull request_ [**Bump rollup-plugin-serve from 1.0.1 to 1.0.2**](https://github.com/Samuel-Martineau/Tetris-13kB-Game/pull/2) du repo [**Samuel-Martineau/Tetris-13kB-Game**](https://github.com/Samuel-Martineau/Tetris-13kB-Game)
-- 💬 J&#x27;ai commenté sur la _pull request_ [**Add type definition for command args**](https://github.com/wwselleck/solaire-discord/issues/9) du repo [**wwselleck/solaire-discord**](https://github.com/wwselleck/solaire-discord)
-- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Notion-Auto-Backup**](https://github.com/Samuel-Martineau/Notion-Auto-Backup)
-- ⚡ J&#x27;ai publié **4** commits sur le repo [**Robot-Grimpeur/robot-grimpeur.github.io**](https://github.com/Robot-Grimpeur/robot-grimpeur.github.io)
-- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Escape-the-Minecraft**](https://github.com/Samuel-Martineau/Escape-the-Minecraft)
-- ⚡ J&#x27;ai publié **5** commits sur le repo [**Robot-Grimpeur/robot-grimpeur.github.io**](https://github.com/Robot-Grimpeur/robot-grimpeur.github.io)
-- ⚡ J&#x27;ai publié **2** commits sur le repo [**Robot-Grimpeur/dev-client**](https://github.com/Robot-Grimpeur/dev-client)
-- ⚡ J&#x27;ai publié **3** commits sur le repo [**Samuel-Martineau/Escape-the-Minecraft**](https://github.com/Samuel-Martineau/Escape-the-Minecraft)
+- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/love_tester**](https://github.com/Samuel-Martineau/love_tester)
+- 🚫 J&#x27;ai fermé la _pull request_ [**Bump lodash from 4.17.19 to 4.17.21**](https://github.com/Samuel-Martineau/love_tester/pull/24) du repo [**Samuel-Martineau/love_tester**](https://github.com/Samuel-Martineau/love_tester)
+- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/love_tester**](https://github.com/Samuel-Martineau/love_tester)
+- 🚫 J&#x27;ai fermé la _pull request_ [**Bump url-parse from 1.4.7 to 1.5.1**](https://github.com/Samuel-Martineau/love_tester/pull/23) du repo [**Samuel-Martineau/love_tester**](https://github.com/Samuel-Martineau/love_tester)
+- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/love_tester**](https://github.com/Samuel-Martineau/love_tester)
+- 🚫 J&#x27;ai fermé la _pull request_ [**Bump y18n from 4.0.0 to 4.0.3**](https://github.com/Samuel-Martineau/love_tester/pull/31) du repo [**Samuel-Martineau/love_tester**](https://github.com/Samuel-Martineau/love_tester)
+- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/love_tester**](https://github.com/Samuel-Martineau/love_tester)
+- 🚫 J&#x27;ai fermé la _pull request_ [**Bump ssri from 6.0.1 to 6.0.2**](https://github.com/Samuel-Martineau/love_tester/pull/21) du repo [**Samuel-Martineau/love_tester**](https://github.com/Samuel-Martineau/love_tester)
+- 🚫 J&#x27;ai fermé la _pull request_ [**[Snyk] Security upgrade css-loader from 2.1.1 to 5.0.0**](https://github.com/Samuel-Martineau/love_tester/pull/22) du repo [**Samuel-Martineau/love_tester**](https://github.com/Samuel-Martineau/love_tester)
+- 🚫 J&#x27;ai fermé la _pull request_ [**[Snyk] Security upgrade css-loader from 2.1.1 to 5.0.0**](https://github.com/Samuel-Martineau/love_tester/pull/20) du repo [**Samuel-Martineau/love_tester**](https://github.com/Samuel-Martineau/love_tester)
 
 ## Mes paquets NPM
 
 | Paquet                        | Nombre de téléchargements |
 | ----------------------------- | ------------------------: |
-| generator-svelte              |                      5315 |
-| create-custom-command         |                      1299 |
-| @robot-grimpeur/eslint-config |                       398 |
-| rmc-cli                       |                       318 |
+| generator-svelte              |                      5327 |
+| create-custom-command         |                      1309 |
+| @robot-grimpeur/eslint-config |                       399 |
+| rmc-cli                       |                       337 |
 | @robot-grimpeur/dev-client    |                        95 |
 | @robot-grimpeur/dev-server    |                        93 |
-| **Total**                     |                      7518 |
+| **Total**                     |                      7560 |
 
 ## Me contacter
 
