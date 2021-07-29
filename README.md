@@ -16,7 +16,8 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
-- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/love_tester**](https://github.com/Samuel-Martineau/love_tester)
+- ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/RM-Comments-CLI**](https://github.com/Samuel-Martineau/RM-Comments-CLI)
+- ⚡ J&#x27;ai publié **3** commits sur le repo [**Samuel-Martineau/love_tester**](https://github.com/Samuel-Martineau/love_tester)
 - 🚫 J&#x27;ai fermé la _pull request_ [**Bump dns-packet from 1.3.1 to 1.3.4**](https://github.com/Samuel-Martineau/love_tester/pull/27) du repo [**Samuel-Martineau/love_tester**](https://github.com/Samuel-Martineau/love_tester)
 - ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/love_tester**](https://github.com/Samuel-Martineau/love_tester)
 - 🚫 J&#x27;ai fermé la _pull request_ [**Bump ws from 6.2.1 to 6.2.2**](https://github.com/Samuel-Martineau/love_tester/pull/28) du repo [**Samuel-Martineau/love_tester**](https://github.com/Samuel-Martineau/love_tester)
@@ -25,19 +26,18 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 - ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/love_tester**](https://github.com/Samuel-Martineau/love_tester)
 - 🚫 J&#x27;ai fermé la _pull request_ [**Bump postcss from 7.0.14 to 7.0.36**](https://github.com/Samuel-Martineau/love_tester/pull/30) du repo [**Samuel-Martineau/love_tester**](https://github.com/Samuel-Martineau/love_tester)
 - ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/love_tester**](https://github.com/Samuel-Martineau/love_tester)
-- 🚫 J&#x27;ai fermé la _pull request_ [**Bump browserslist from 4.12.0 to 4.16.6**](https://github.com/Samuel-Martineau/love_tester/pull/26) du repo [**Samuel-Martineau/love_tester**](https://github.com/Samuel-Martineau/love_tester)
 
 ## Mes paquets NPM
 
 | Paquet                        | Nombre de téléchargements |
 | ----------------------------- | ------------------------: |
-| generator-svelte              |                      5383 |
+| generator-svelte              |                      5397 |
 | create-custom-command         |                      1223 |
 | @robot-grimpeur/eslint-config |                       407 |
 | rmc-cli                       |                       238 |
 | @robot-grimpeur/dev-client    |                       100 |
 | @robot-grimpeur/dev-server    |                        99 |
-| **Total**                     |                      7450 |
+| **Total**                     |                      7464 |
 
 ## Me contacter
 
