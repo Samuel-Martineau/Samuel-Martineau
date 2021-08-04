@@ -16,6 +16,7 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
+- 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**SpoolManager-Plugin implementation**](https://github.com/OllisGit/OctoPrint-CostEstimation/issues/14) du repo [**OllisGit/OctoPrint-CostEstimation**](https://github.com/OllisGit/OctoPrint-CostEstimation)
 - ⚡ J&#x27;ai publié **5** commits sur le repo [**Samuel-Martineau/Potions-HUD-Fabric**](https://github.com/Samuel-Martineau/Potions-HUD-Fabric)
 - ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/RM-Comments-CLI**](https://github.com/Samuel-Martineau/RM-Comments-CLI)
 - ⚡ J&#x27;ai publié **3** commits sur le repo [**Samuel-Martineau/love_tester**](https://github.com/Samuel-Martineau/love_tester)
@@ -25,19 +26,18 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 - ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/love_tester**](https://github.com/Samuel-Martineau/love_tester)
 - 🚫 J&#x27;ai fermé la _pull request_ [**Bump normalize-url from 4.5.0 to 4.5.1**](https://github.com/Samuel-Martineau/love_tester/pull/29) du repo [**Samuel-Martineau/love_tester**](https://github.com/Samuel-Martineau/love_tester)
 - ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/love_tester**](https://github.com/Samuel-Martineau/love_tester)
-- 🚫 J&#x27;ai fermé la _pull request_ [**Bump postcss from 7.0.14 to 7.0.36**](https://github.com/Samuel-Martineau/love_tester/pull/30) du repo [**Samuel-Martineau/love_tester**](https://github.com/Samuel-Martineau/love_tester)
 
 ## Mes paquets NPM
 
 | Paquet                        | Nombre de téléchargements |
 | ----------------------------- | ------------------------: |
-| generator-svelte              |                      5386 |
-| create-custom-command         |                      1057 |
+| generator-svelte              |                      5384 |
+| create-custom-command         |                      1045 |
 | @robot-grimpeur/eslint-config |                       407 |
-| rmc-cli                       |                       238 |
+| rmc-cli                       |                       228 |
 | @robot-grimpeur/dev-client    |                       100 |
 | @robot-grimpeur/dev-server    |                        99 |
-| **Total**                     |                      7287 |
+| **Total**                     |                      7263 |
 
 ## Me contacter
 
