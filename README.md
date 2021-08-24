@@ -16,6 +16,8 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
+- 💬 J&#x27;ai commenté sur la _pull request_ [**Add support for all protocols for urls (fix #74)**](https://github.com/pawelmalak/flame/issues/81) du repo [**pawelmalak/flame**](https://github.com/pawelmalak/flame)
+- ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/RM-Comments-CLI**](https://github.com/Samuel-Martineau/RM-Comments-CLI)
 - ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/love_tester**](https://github.com/Samuel-Martineau/love_tester)
 - ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/dotfiles**](https://github.com/Samuel-Martineau/dotfiles)
 - 🔥 J&#x27;ai ouvert la _pull request_ [**Add support for all protocols for urls (fix #74)**](https://github.com/pawelmalak/flame/pull/81) sur le repo [**pawelmalak/flame**](https://github.com/pawelmalak/flame)
@@ -24,20 +26,18 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 - 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**Not working &#x60;chrome://&#x60; links and others**](https://github.com/pawelmalak/flame/issues/74) du repo [**pawelmalak/flame**](https://github.com/pawelmalak/flame)
 - ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Notion-Auto-Backup**](https://github.com/Samuel-Martineau/Notion-Auto-Backup)
 - ⚡ J&#x27;ai publié **4** commits sur le repo [**Samuel-Martineau/dotfiles**](https://github.com/Samuel-Martineau/dotfiles)
-- 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**SpoolManager-Plugin implementation**](https://github.com/OllisGit/OctoPrint-CostEstimation/issues/14) du repo [**OllisGit/OctoPrint-CostEstimation**](https://github.com/OllisGit/OctoPrint-CostEstimation)
-- ⚡ J&#x27;ai publié **5** commits sur le repo [**Samuel-Martineau/Potions-HUD-Fabric**](https://github.com/Samuel-Martineau/Potions-HUD-Fabric)
 
 ## Mes paquets NPM
 
 | Paquet                        | Nombre de téléchargements |
 | ----------------------------- | ------------------------: |
-| generator-svelte              |                      5645 |
-| create-custom-command         |                      1034 |
+| generator-svelte              |                      5643 |
+| create-custom-command         |                      1035 |
 | @robot-grimpeur/eslint-config |                       414 |
 | rmc-cli                       |                       218 |
 | @robot-grimpeur/dev-client    |                       105 |
 | @robot-grimpeur/dev-server    |                       104 |
-| **Total**                     |                      7520 |
+| **Total**                     |                      7519 |
 
 ## Me contacter
 
