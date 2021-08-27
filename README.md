@@ -17,27 +17,27 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 ## Activité GitHub récente
 
 - 💬 J&#x27;ai commenté sur la _pull request_ [**Add support for all protocols for urls (fix #74)**](https://github.com/pawelmalak/flame/issues/81) du repo [**pawelmalak/flame**](https://github.com/pawelmalak/flame)
-- ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/RM-Comments-CLI**](https://github.com/Samuel-Martineau/RM-Comments-CLI)
-- ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/love_tester**](https://github.com/Samuel-Martineau/love_tester)
-- ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/dotfiles**](https://github.com/Samuel-Martineau/dotfiles)
-- 🔥 J&#x27;ai ouvert la _pull request_ [**Add support for all protocols for urls (fix #74)**](https://github.com/pawelmalak/flame/pull/81) sur le repo [**pawelmalak/flame**](https://github.com/pawelmalak/flame)
-- ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/flame**](https://github.com/Samuel-Martineau/flame)
-- 🌈 J&#x27;ai créé un fork du repo [**pawelmalak/flame**](https://github.com/pawelmalak/flame)
-- 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**Not working &#x60;chrome://&#x60; links and others**](https://github.com/pawelmalak/flame/issues/74) du repo [**pawelmalak/flame**](https://github.com/pawelmalak/flame)
-- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Notion-Auto-Backup**](https://github.com/Samuel-Martineau/Notion-Auto-Backup)
-- ⚡ J&#x27;ai publié **4** commits sur le repo [**Samuel-Martineau/dotfiles**](https://github.com/Samuel-Martineau/dotfiles)
+- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Smartineau.me**](https://github.com/Samuel-Martineau/Smartineau.me)
+- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/generator-svelte**](https://github.com/Samuel-Martineau/generator-svelte)
+- 🚫 J&#x27;ai fermé la _pull request_ [**Bump lodash from 4.17.19 to 4.17.21**](https://github.com/Samuel-Martineau/generator-svelte/pull/9) du repo [**Samuel-Martineau/generator-svelte**](https://github.com/Samuel-Martineau/generator-svelte)
+- ✅ J&#x27;ai ouvert l&#x27;_issue_ [**Support Svelte-kit**](https://github.com/Samuel-Martineau/generator-svelte/issues/14) sur le repo [**Samuel-Martineau/generator-svelte**](https://github.com/Samuel-Martineau/generator-svelte)
+- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/generator-svelte**](https://github.com/Samuel-Martineau/generator-svelte)
+- 🚫 J&#x27;ai fermé la _pull request_ [**Bump hosted-git-info from 2.8.8 to 2.8.9**](https://github.com/Samuel-Martineau/generator-svelte/pull/10) du repo [**Samuel-Martineau/generator-svelte**](https://github.com/Samuel-Martineau/generator-svelte)
+- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/generator-svelte**](https://github.com/Samuel-Martineau/generator-svelte)
+- 🚫 J&#x27;ai fermé la _pull request_ [**Bump normalize-url from 5.3.0 to 5.3.1**](https://github.com/Samuel-Martineau/generator-svelte/pull/11) du repo [**Samuel-Martineau/generator-svelte**](https://github.com/Samuel-Martineau/generator-svelte)
+- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/generator-svelte**](https://github.com/Samuel-Martineau/generator-svelte)
 
 ## Mes paquets NPM
 
 | Paquet                        | Nombre de téléchargements |
 | ----------------------------- | ------------------------: |
-| generator-svelte              |                      5700 |
-| create-custom-command         |                      1036 |
+| generator-svelte              |                      5715 |
+| create-custom-command         |                      1047 |
 | @robot-grimpeur/eslint-config |                       414 |
 | rmc-cli                       |                       224 |
 | @robot-grimpeur/dev-client    |                       105 |
 | @robot-grimpeur/dev-server    |                       104 |
-| **Total**                     |                      7583 |
+| **Total**                     |                      7609 |
 
 ## Me contacter
 
