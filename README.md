@@ -17,6 +17,8 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 ## Activité GitHub récente
 
 - ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
+- 🚫 J&#x27;ai fermé la _pull request_ [**Bump striptags from 3.1.1 to 3.2.0**](https://github.com/Samuel-Martineau/Samuel-Martineau/pull/6) du repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
+- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
 - 🚫 J&#x27;ai fermé la _pull request_ [**Bump set-getter from 0.1.0 to 0.1.1**](https://github.com/Samuel-Martineau/Samuel-Martineau/pull/5) du repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
 - ⚡ J&#x27;ai publié **3** commits sur le repo [**Samuel-Martineau/Create-Custom-Command**](https://github.com/Samuel-Martineau/Create-Custom-Command)
 - 🚫 J&#x27;ai fermé la _pull request_ [**Bump ini from 1.3.5 to 1.3.8**](https://github.com/Samuel-Martineau/Create-Custom-Command/pull/5) du repo [**Samuel-Martineau/Create-Custom-Command**](https://github.com/Samuel-Martineau/Create-Custom-Command)
@@ -24,8 +26,6 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 - 🚫 J&#x27;ai fermé la _pull request_ [**Bump lodash from 4.17.19 to 4.17.21**](https://github.com/Samuel-Martineau/Create-Custom-Command/pull/6) du repo [**Samuel-Martineau/Create-Custom-Command**](https://github.com/Samuel-Martineau/Create-Custom-Command)
 - ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Create-Custom-Command**](https://github.com/Samuel-Martineau/Create-Custom-Command)
 - 🚫 J&#x27;ai fermé la _pull request_ [**Bump normalize-url from 4.5.0 to 4.5.1**](https://github.com/Samuel-Martineau/Create-Custom-Command/pull/7) du repo [**Samuel-Martineau/Create-Custom-Command**](https://github.com/Samuel-Martineau/Create-Custom-Command)
-- ⚡ J&#x27;ai publié **3** commits sur le repo [**Samuel-Martineau/Tetris-13kB-Game**](https://github.com/Samuel-Martineau/Tetris-13kB-Game)
-- 🚫 J&#x27;ai fermé la _pull request_ [**Bump glob-parent from 5.1.1 to 5.1.2**](https://github.com/Samuel-Martineau/Tetris-13kB-Game/pull/8) du repo [**Samuel-Martineau/Tetris-13kB-Game**](https://github.com/Samuel-Martineau/Tetris-13kB-Game)
 
 ## Mes paquets NPM
 
