@@ -16,16 +16,16 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
-- 💬 J&#x27;ai commenté sur la _pull request_ [**Add support for all protocols for urls (fix #74)**](https://github.com/pawelmalak/flame/issues/81) du repo [**pawelmalak/flame**](https://github.com/pawelmalak/flame)
-- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Smartineau.me**](https://github.com/Samuel-Martineau/Smartineau.me)
-- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/generator-svelte**](https://github.com/Samuel-Martineau/generator-svelte)
-- 🚫 J&#x27;ai fermé la _pull request_ [**Bump lodash from 4.17.19 to 4.17.21**](https://github.com/Samuel-Martineau/generator-svelte/pull/9) du repo [**Samuel-Martineau/generator-svelte**](https://github.com/Samuel-Martineau/generator-svelte)
-- ✅ J&#x27;ai ouvert l&#x27;_issue_ [**Support Svelte-kit**](https://github.com/Samuel-Martineau/generator-svelte/issues/14) sur le repo [**Samuel-Martineau/generator-svelte**](https://github.com/Samuel-Martineau/generator-svelte)
-- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/generator-svelte**](https://github.com/Samuel-Martineau/generator-svelte)
-- 🚫 J&#x27;ai fermé la _pull request_ [**Bump hosted-git-info from 2.8.8 to 2.8.9**](https://github.com/Samuel-Martineau/generator-svelte/pull/10) du repo [**Samuel-Martineau/generator-svelte**](https://github.com/Samuel-Martineau/generator-svelte)
-- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/generator-svelte**](https://github.com/Samuel-Martineau/generator-svelte)
-- 🚫 J&#x27;ai fermé la _pull request_ [**Bump normalize-url from 5.3.0 to 5.3.1**](https://github.com/Samuel-Martineau/generator-svelte/pull/11) du repo [**Samuel-Martineau/generator-svelte**](https://github.com/Samuel-Martineau/generator-svelte)
-- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/generator-svelte**](https://github.com/Samuel-Martineau/generator-svelte)
+- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
+- 🚫 J&#x27;ai fermé la _pull request_ [**Bump set-getter from 0.1.0 to 0.1.1**](https://github.com/Samuel-Martineau/Samuel-Martineau/pull/5) du repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
+- ⚡ J&#x27;ai publié **3** commits sur le repo [**Samuel-Martineau/Create-Custom-Command**](https://github.com/Samuel-Martineau/Create-Custom-Command)
+- 🚫 J&#x27;ai fermé la _pull request_ [**Bump ini from 1.3.5 to 1.3.8**](https://github.com/Samuel-Martineau/Create-Custom-Command/pull/5) du repo [**Samuel-Martineau/Create-Custom-Command**](https://github.com/Samuel-Martineau/Create-Custom-Command)
+- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Create-Custom-Command**](https://github.com/Samuel-Martineau/Create-Custom-Command)
+- 🚫 J&#x27;ai fermé la _pull request_ [**Bump lodash from 4.17.19 to 4.17.21**](https://github.com/Samuel-Martineau/Create-Custom-Command/pull/6) du repo [**Samuel-Martineau/Create-Custom-Command**](https://github.com/Samuel-Martineau/Create-Custom-Command)
+- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Create-Custom-Command**](https://github.com/Samuel-Martineau/Create-Custom-Command)
+- 🚫 J&#x27;ai fermé la _pull request_ [**Bump normalize-url from 4.5.0 to 4.5.1**](https://github.com/Samuel-Martineau/Create-Custom-Command/pull/7) du repo [**Samuel-Martineau/Create-Custom-Command**](https://github.com/Samuel-Martineau/Create-Custom-Command)
+- ⚡ J&#x27;ai publié **3** commits sur le repo [**Samuel-Martineau/Tetris-13kB-Game**](https://github.com/Samuel-Martineau/Tetris-13kB-Game)
+- 🚫 J&#x27;ai fermé la _pull request_ [**Bump glob-parent from 5.1.1 to 5.1.2**](https://github.com/Samuel-Martineau/Tetris-13kB-Game/pull/8) du repo [**Samuel-Martineau/Tetris-13kB-Game**](https://github.com/Samuel-Martineau/Tetris-13kB-Game)
 
 ## Mes paquets NPM
 
