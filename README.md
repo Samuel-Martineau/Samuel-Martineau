@@ -16,28 +16,28 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
-- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
-- 🚫 J&#x27;ai fermé la _pull request_ [**Bump striptags from 3.1.1 to 3.2.0**](https://github.com/Samuel-Martineau/Samuel-Martineau/pull/6) du repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
-- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
-- 🚫 J&#x27;ai fermé la _pull request_ [**Bump set-getter from 0.1.0 to 0.1.1**](https://github.com/Samuel-Martineau/Samuel-Martineau/pull/5) du repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
-- ⚡ J&#x27;ai publié **3** commits sur le repo [**Samuel-Martineau/Create-Custom-Command**](https://github.com/Samuel-Martineau/Create-Custom-Command)
-- 🚫 J&#x27;ai fermé la _pull request_ [**Bump ini from 1.3.5 to 1.3.8**](https://github.com/Samuel-Martineau/Create-Custom-Command/pull/5) du repo [**Samuel-Martineau/Create-Custom-Command**](https://github.com/Samuel-Martineau/Create-Custom-Command)
-- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Create-Custom-Command**](https://github.com/Samuel-Martineau/Create-Custom-Command)
-- 🚫 J&#x27;ai fermé la _pull request_ [**Bump lodash from 4.17.19 to 4.17.21**](https://github.com/Samuel-Martineau/Create-Custom-Command/pull/6) du repo [**Samuel-Martineau/Create-Custom-Command**](https://github.com/Samuel-Martineau/Create-Custom-Command)
-- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Create-Custom-Command**](https://github.com/Samuel-Martineau/Create-Custom-Command)
-- 🚫 J&#x27;ai fermé la _pull request_ [**Bump normalize-url from 4.5.0 to 4.5.1**](https://github.com/Samuel-Martineau/Create-Custom-Command/pull/7) du repo [**Samuel-Martineau/Create-Custom-Command**](https://github.com/Samuel-Martineau/Create-Custom-Command)
+- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Degit-Templates-VSCode**](https://github.com/Samuel-Martineau/Degit-Templates-VSCode)
+- 🚫 J&#x27;ai fermé la _pull request_ [**Bump path-parse from 1.0.6 to 1.0.7**](https://github.com/Samuel-Martineau/Degit-Templates-VSCode/pull/1) du repo [**Samuel-Martineau/Degit-Templates-VSCode**](https://github.com/Samuel-Martineau/Degit-Templates-VSCode)
+- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/love_tester**](https://github.com/Samuel-Martineau/love_tester)
+- 🚫 J&#x27;ai fermé la _pull request_ [**Bump url-parse from 1.5.1 to 1.5.3**](https://github.com/Samuel-Martineau/love_tester/pull/35) du repo [**Samuel-Martineau/love_tester**](https://github.com/Samuel-Martineau/love_tester)
+- 🚫 J&#x27;ai fermé la _pull request_ [**[Snyk] Security upgrade snyk from 1.425.4 to 1.667.0**](https://github.com/Samuel-Martineau/love_tester/pull/32) du repo [**Samuel-Martineau/love_tester**](https://github.com/Samuel-Martineau/love_tester)
+- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/love_tester**](https://github.com/Samuel-Martineau/love_tester)
+- 🚫 J&#x27;ai fermé la _pull request_ [**Bump path-parse from 1.0.6 to 1.0.7**](https://github.com/Samuel-Martineau/love_tester/pull/33) du repo [**Samuel-Martineau/love_tester**](https://github.com/Samuel-Martineau/love_tester)
+- 🚫 J&#x27;ai fermé la _pull request_ [**[Snyk] Security upgrade snyk from 1.425.4 to 1.518.0**](https://github.com/Samuel-Martineau/love_tester/pull/34) du repo [**Samuel-Martineau/love_tester**](https://github.com/Samuel-Martineau/love_tester)
+- ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/RM-Comments-CLI**](https://github.com/Samuel-Martineau/RM-Comments-CLI)
+- 🚫 J&#x27;ai fermé la _pull request_ [**[Snyk] Security upgrade snyk from 1.316.1 to 1.425.4**](https://github.com/Samuel-Martineau/RM-Comments-CLI/pull/6) du repo [**Samuel-Martineau/RM-Comments-CLI**](https://github.com/Samuel-Martineau/RM-Comments-CLI)
 
 ## Mes paquets NPM
 
 | Paquet                        | Nombre de téléchargements |
 | ----------------------------- | ------------------------: |
-| generator-svelte              |                      5753 |
-| create-custom-command         |                      1047 |
+| generator-svelte              |                      5722 |
+| create-custom-command         |                      1046 |
 | @robot-grimpeur/eslint-config |                       414 |
 | rmc-cli                       |                       228 |
 | @robot-grimpeur/dev-client    |                       106 |
 | @robot-grimpeur/dev-server    |                       105 |
-| **Total**                     |                      7653 |
+| **Total**                     |                      7621 |
 
 ## Me contacter
 
