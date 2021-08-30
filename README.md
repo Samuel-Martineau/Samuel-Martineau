@@ -16,28 +16,28 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
+- ⚡ J&#x27;ai publié **8** commits sur le repo [**Samuel-Martineau/Smartineau.me-Etat**](https://github.com/Samuel-Martineau/Smartineau.me-Etat)
+- ✅ J&#x27;ai ouvert l&#x27;_issue_ [**🛑 Meli is down**](https://github.com/Samuel-Martineau/Smartineau.me-Etat/issues/2) sur le repo [**Samuel-Martineau/Smartineau.me-Etat**](https://github.com/Samuel-Martineau/Smartineau.me-Etat)
+- ✅ J&#x27;ai ouvert l&#x27;_issue_ [**🛑 Site web personnel is down**](https://github.com/Samuel-Martineau/Smartineau.me-Etat/issues/1) sur le repo [**Samuel-Martineau/Smartineau.me-Etat**](https://github.com/Samuel-Martineau/Smartineau.me-Etat)
+- ⚡ J&#x27;ai publié **30** commits sur le repo [**Samuel-Martineau/Smartineau.me-Etat**](https://github.com/Samuel-Martineau/Smartineau.me-Etat)
+- ⚡ J&#x27;ai publié **53** commits sur le repo [**Samuel-Martineau/Smartineau.me-Statut**](https://github.com/Samuel-Martineau/Smartineau.me-Statut)
+- 🚀 J&#x27;ai créé le _repo_ [**Samuel-Martineau/Smartineau.me-Upptime**](https://github.com/Samuel-Martineau/Smartineau.me-Upptime)
 - ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Degit-Templates-VSCode**](https://github.com/Samuel-Martineau/Degit-Templates-VSCode)
 - 🚫 J&#x27;ai fermé la _pull request_ [**Bump path-parse from 1.0.6 to 1.0.7**](https://github.com/Samuel-Martineau/Degit-Templates-VSCode/pull/1) du repo [**Samuel-Martineau/Degit-Templates-VSCode**](https://github.com/Samuel-Martineau/Degit-Templates-VSCode)
 - ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/love_tester**](https://github.com/Samuel-Martineau/love_tester)
 - 🚫 J&#x27;ai fermé la _pull request_ [**Bump url-parse from 1.5.1 to 1.5.3**](https://github.com/Samuel-Martineau/love_tester/pull/35) du repo [**Samuel-Martineau/love_tester**](https://github.com/Samuel-Martineau/love_tester)
-- 🚫 J&#x27;ai fermé la _pull request_ [**[Snyk] Security upgrade snyk from 1.425.4 to 1.667.0**](https://github.com/Samuel-Martineau/love_tester/pull/32) du repo [**Samuel-Martineau/love_tester**](https://github.com/Samuel-Martineau/love_tester)
-- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/love_tester**](https://github.com/Samuel-Martineau/love_tester)
-- 🚫 J&#x27;ai fermé la _pull request_ [**Bump path-parse from 1.0.6 to 1.0.7**](https://github.com/Samuel-Martineau/love_tester/pull/33) du repo [**Samuel-Martineau/love_tester**](https://github.com/Samuel-Martineau/love_tester)
-- 🚫 J&#x27;ai fermé la _pull request_ [**[Snyk] Security upgrade snyk from 1.425.4 to 1.518.0**](https://github.com/Samuel-Martineau/love_tester/pull/34) du repo [**Samuel-Martineau/love_tester**](https://github.com/Samuel-Martineau/love_tester)
-- ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/RM-Comments-CLI**](https://github.com/Samuel-Martineau/RM-Comments-CLI)
-- 🚫 J&#x27;ai fermé la _pull request_ [**[Snyk] Security upgrade snyk from 1.316.1 to 1.425.4**](https://github.com/Samuel-Martineau/RM-Comments-CLI/pull/6) du repo [**Samuel-Martineau/RM-Comments-CLI**](https://github.com/Samuel-Martineau/RM-Comments-CLI)
 
 ## Mes paquets NPM
 
 | Paquet                        | Nombre de téléchargements |
 | ----------------------------- | ------------------------: |
-| generator-svelte              |                      5722 |
-| create-custom-command         |                      1046 |
+| generator-svelte              |                      5721 |
+| create-custom-command         |                      1113 |
 | @robot-grimpeur/eslint-config |                       414 |
-| rmc-cli                       |                       228 |
+| rmc-cli                       |                       264 |
 | @robot-grimpeur/dev-client    |                       106 |
 | @robot-grimpeur/dev-server    |                       105 |
-| **Total**                     |                      7621 |
+| **Total**                     |                      7723 |
 
 ## Me contacter
 
