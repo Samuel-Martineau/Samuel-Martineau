@@ -16,7 +16,8 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
-- ⚡ J&#x27;ai publié **27** commits sur le repo [**Samuel-Martineau/Smartineau.me-Etat**](https://github.com/Samuel-Martineau/Smartineau.me-Etat)
+- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
+- ⚡ J&#x27;ai publié **34** commits sur le repo [**Samuel-Martineau/Smartineau.me-Etat**](https://github.com/Samuel-Martineau/Smartineau.me-Etat)
 - ❌ J&#x27;ai fermé l&#x27;_issue_ [**🛑 Meli is down**](https://github.com/Samuel-Martineau/Smartineau.me-Etat/issues/2) du repo [**Samuel-Martineau/Smartineau.me-Etat**](https://github.com/Samuel-Martineau/Smartineau.me-Etat)
 - 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**🛑 Meli is down**](https://github.com/Samuel-Martineau/Smartineau.me-Etat/issues/2) du repo [**Samuel-Martineau/Smartineau.me-Etat**](https://github.com/Samuel-Martineau/Smartineau.me-Etat)
 - ❌ J&#x27;ai fermé l&#x27;_issue_ [**🛑 Site web personnel est en panne**](https://github.com/Samuel-Martineau/Smartineau.me-Etat/issues/1) du repo [**Samuel-Martineau/Smartineau.me-Etat**](https://github.com/Samuel-Martineau/Smartineau.me-Etat)
@@ -25,19 +26,18 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 - ✅ J&#x27;ai ouvert l&#x27;_issue_ [**🛑 Meli is down**](https://github.com/Samuel-Martineau/Smartineau.me-Etat/issues/2) sur le repo [**Samuel-Martineau/Smartineau.me-Etat**](https://github.com/Samuel-Martineau/Smartineau.me-Etat)
 - ✅ J&#x27;ai ouvert l&#x27;_issue_ [**🛑 Site web personnel is down**](https://github.com/Samuel-Martineau/Smartineau.me-Etat/issues/1) sur le repo [**Samuel-Martineau/Smartineau.me-Etat**](https://github.com/Samuel-Martineau/Smartineau.me-Etat)
 - ⚡ J&#x27;ai publié **30** commits sur le repo [**Samuel-Martineau/Smartineau.me-Etat**](https://github.com/Samuel-Martineau/Smartineau.me-Etat)
-- ⚡ J&#x27;ai publié **53** commits sur le repo [**Samuel-Martineau/Smartineau.me-Statut**](https://github.com/Samuel-Martineau/Smartineau.me-Statut)
 
 ## Mes paquets NPM
 
 | Paquet                        | Nombre de téléchargements |
 | ----------------------------- | ------------------------: |
-| generator-svelte              |                      5814 |
-| create-custom-command         |                      1146 |
-| @robot-grimpeur/eslint-config |                       417 |
-| rmc-cli                       |                       277 |
-| @robot-grimpeur/dev-client    |                       107 |
-| @robot-grimpeur/dev-server    |                       106 |
-| **Total**                     |                      7867 |
+| generator-svelte              |                      5788 |
+| create-custom-command         |                      1147 |
+| @robot-grimpeur/eslint-config |                       418 |
+| rmc-cli                       |                       279 |
+| @robot-grimpeur/dev-client    |                       108 |
+| @robot-grimpeur/dev-server    |                       107 |
+| **Total**                     |                      7847 |
 
 ## Me contacter
 
