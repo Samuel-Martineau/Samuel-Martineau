@@ -16,7 +16,9 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
-- ⚡ J&#x27;ai publié **7** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
+- ⚡ J&#x27;ai publié **6** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
+- 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**Config Options**](https://github.com/Samuel-Martineau/Potions-HUD-Fabric/issues/3) du repo [**Samuel-Martineau/Potions-HUD-Fabric**](https://github.com/Samuel-Martineau/Potions-HUD-Fabric)
+- ⚡ J&#x27;ai publié **10** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
 - ⚡ J&#x27;ai publié **1** commit sur le repo [**Robot-Grimpeur/controller-software**](https://github.com/Robot-Grimpeur/controller-software)
 - ⚡ J&#x27;ai publié **9** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
 - ⚡ J&#x27;ai publié **4** commits sur le repo [**Robot-Grimpeur/controller-software**](https://github.com/Robot-Grimpeur/controller-software)
@@ -24,20 +26,18 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 - ⚡ J&#x27;ai publié **2** commits sur le repo [**Robot-Grimpeur/controller-software**](https://github.com/Robot-Grimpeur/controller-software)
 - ⚡ J&#x27;ai publié **12** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
 - 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**🛑 MondiumCJE is down**](https://github.com/Samuel-Martineau/Smartineau.me-Status/issues/10) du repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
-- ❌ J&#x27;ai fermé l&#x27;_issue_ [**🛑 MondiumCJE is down**](https://github.com/Samuel-Martineau/Smartineau.me-Status/issues/10) du repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
-- ⚡ J&#x27;ai publié **19** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
 
 ## Mes paquets NPM
 
 | Paquet                        | Nombre de téléchargements |
 | ----------------------------- | ------------------------: |
-| generator-svelte              |                      6391 |
-| create-custom-command         |                       865 |
+| generator-svelte              |                      6392 |
+| create-custom-command         |                       863 |
 | @robot-grimpeur/eslint-config |                       445 |
-| rmc-cli                       |                       266 |
+| rmc-cli                       |                       262 |
 | @robot-grimpeur/dev-server    |                       140 |
 | @robot-grimpeur/dev-client    |                       140 |
-| **Total**                     |                      8247 |
+| **Total**                     |                      8242 |
 
 ## Me contacter
 
