@@ -16,7 +16,7 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
-- ⚡ J&#x27;ai publié **24** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
+- ⚡ J&#x27;ai publié **33** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
 - 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**Config Options**](https://github.com/Samuel-Martineau/Potions-HUD-Fabric/issues/3) du repo [**Samuel-Martineau/Potions-HUD-Fabric**](https://github.com/Samuel-Martineau/Potions-HUD-Fabric)
 - ⚡ J&#x27;ai publié **10** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
 - ⚡ J&#x27;ai publié **1** commit sur le repo [**Robot-Grimpeur/controller-software**](https://github.com/Robot-Grimpeur/controller-software)
@@ -31,13 +31,13 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 | Paquet                        | Nombre de téléchargements |
 | ----------------------------- | ------------------------: |
-| generator-svelte              |                      6413 |
-| create-custom-command         |                       864 |
-| @robot-grimpeur/eslint-config |                       445 |
+| generator-svelte              |                      6382 |
+| create-custom-command         |                       837 |
+| @robot-grimpeur/eslint-config |                       446 |
 | rmc-cli                       |                       257 |
 | @robot-grimpeur/dev-server    |                       140 |
 | @robot-grimpeur/dev-client    |                       140 |
-| **Total**                     |                      8259 |
+| **Total**                     |                      8202 |
 
 ## Me contacter
 
