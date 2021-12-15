@@ -16,7 +16,9 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
-- ⚡ J&#x27;ai publié **24** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
+- ⚡ J&#x27;ai publié **6** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
+- 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**Switch to twemoji or something similar**](https://github.com/voidpet/bugs/issues/29) du repo [**voidpet/bugs**](https://github.com/voidpet/bugs)
+- ⚡ J&#x27;ai publié **28** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
 - ❌ J&#x27;ai fermé l&#x27;_issue_ [**Config Options**](https://github.com/Samuel-Martineau/Potions-HUD-Fabric/issues/3) du repo [**Samuel-Martineau/Potions-HUD-Fabric**](https://github.com/Samuel-Martineau/Potions-HUD-Fabric)
 - 💬 J&#x27;ai commenté 2 fois sur l&#x27;_issue_ [**Config Options**](https://github.com/Samuel-Martineau/Potions-HUD-Fabric/issues/3) du repo [**Samuel-Martineau/Potions-HUD-Fabric**](https://github.com/Samuel-Martineau/Potions-HUD-Fabric)
 - ✅ J&#x27;ai ouvert l&#x27;_issue_ [**Config Options**](https://github.com/Samuel-Martineau/Potions-HUD-Fabric/issues/3) sur le repo [**Samuel-Martineau/Potions-HUD-Fabric**](https://github.com/Samuel-Martineau/Potions-HUD-Fabric)
@@ -24,20 +26,18 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 - 💬 J&#x27;ai commenté sur la _pull request_ [**Added file config**](https://github.com/Samuel-Martineau/Potions-HUD-Fabric/issues/4) du repo [**Samuel-Martineau/Potions-HUD-Fabric**](https://github.com/Samuel-Martineau/Potions-HUD-Fabric)
 - ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Potions-HUD-Fabric**](https://github.com/Samuel-Martineau/Potions-HUD-Fabric)
 - 🚫 J&#x27;ai fermé la _pull request_ [**Added file config**](https://github.com/Samuel-Martineau/Potions-HUD-Fabric/pull/4) du repo [**Samuel-Martineau/Potions-HUD-Fabric**](https://github.com/Samuel-Martineau/Potions-HUD-Fabric)
-- ❌ J&#x27;ai fermé l&#x27;_issue_ [**Config Options**](https://github.com/Samuel-Martineau/Potions-HUD-Fabric/issues/3) du repo [**Samuel-Martineau/Potions-HUD-Fabric**](https://github.com/Samuel-Martineau/Potions-HUD-Fabric)
-- ⚡ J&#x27;ai publié **6** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
 
 ## Mes paquets NPM
 
 | Paquet                        | Nombre de téléchargements |
 | ----------------------------- | ------------------------: |
-| generator-svelte              |                      6380 |
+| generator-svelte              |                      6385 |
 | create-custom-command         |                       811 |
 | @robot-grimpeur/eslint-config |                       446 |
 | rmc-cli                       |                       257 |
 | @robot-grimpeur/dev-server    |                       140 |
 | @robot-grimpeur/dev-client    |                       140 |
-| **Total**                     |                      8174 |
+| **Total**                     |                      8179 |
 
 ## Me contacter
 
