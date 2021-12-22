@@ -17,6 +17,8 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 ## Activité GitHub récente
 
 - ⚡ J&#x27;ai publié **6** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
+- ⚡ J&#x27;ai publié **2** commits sur le repo [**Robot-Grimpeur/eslint-config**](https://github.com/Robot-Grimpeur/eslint-config)
+- ⚡ J&#x27;ai publié **9** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
 - ❌ J&#x27;ai fermé l&#x27;_issue_ [**[Security] Workflow main.yml is using vulnerable action actions/checkout**](https://github.com/Samuel-Martineau/Tetris-13kB-Game/issues/9) du repo [**Samuel-Martineau/Tetris-13kB-Game**](https://github.com/Samuel-Martineau/Tetris-13kB-Game)
 - 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**[Security] Workflow main.yml is using vulnerable action actions/checkout**](https://github.com/Samuel-Martineau/Tetris-13kB-Game/issues/9) du repo [**Samuel-Martineau/Tetris-13kB-Game**](https://github.com/Samuel-Martineau/Tetris-13kB-Game)
 - ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/Tetris-13kB-Game**](https://github.com/Samuel-Martineau/Tetris-13kB-Game)
@@ -24,20 +26,18 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 - 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**Switch to twemoji or something similar**](https://github.com/voidpet/bugs/issues/29) du repo [**voidpet/bugs**](https://github.com/voidpet/bugs)
 - ⚡ J&#x27;ai publié **28** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
 - ❌ J&#x27;ai fermé l&#x27;_issue_ [**Config Options**](https://github.com/Samuel-Martineau/Potions-HUD-Fabric/issues/3) du repo [**Samuel-Martineau/Potions-HUD-Fabric**](https://github.com/Samuel-Martineau/Potions-HUD-Fabric)
-- 💬 J&#x27;ai commenté 2 fois sur l&#x27;_issue_ [**Config Options**](https://github.com/Samuel-Martineau/Potions-HUD-Fabric/issues/3) du repo [**Samuel-Martineau/Potions-HUD-Fabric**](https://github.com/Samuel-Martineau/Potions-HUD-Fabric)
-- ✅ J&#x27;ai ouvert l&#x27;_issue_ [**Config Options**](https://github.com/Samuel-Martineau/Potions-HUD-Fabric/issues/3) sur le repo [**Samuel-Martineau/Potions-HUD-Fabric**](https://github.com/Samuel-Martineau/Potions-HUD-Fabric)
 
 ## Mes paquets NPM
 
 | Paquet                        | Nombre de téléchargements |
 | ----------------------------- | ------------------------: |
-| generator-svelte              |                      6376 |
+| generator-svelte              |                      6384 |
 | create-custom-command         |                       811 |
 | @robot-grimpeur/eslint-config |                       446 |
 | rmc-cli                       |                       251 |
 | @robot-grimpeur/dev-server    |                       141 |
 | @robot-grimpeur/dev-client    |                       141 |
-| **Total**                     |                      8166 |
+| **Total**                     |                      8174 |
 
 ## Me contacter
 
