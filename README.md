@@ -16,7 +16,7 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
-- ⚡ J&#x27;ai publié **43** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
+- ⚡ J&#x27;ai publié **52** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
 - ⚡ J&#x27;ai publié **2** commits sur le repo [**Robot-Grimpeur/eslint-config**](https://github.com/Robot-Grimpeur/eslint-config)
 - ⚡ J&#x27;ai publié **9** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
 - ❌ J&#x27;ai fermé l&#x27;_issue_ [**[Security] Workflow main.yml is using vulnerable action actions/checkout**](https://github.com/Samuel-Martineau/Tetris-13kB-Game/issues/9) du repo [**Samuel-Martineau/Tetris-13kB-Game**](https://github.com/Samuel-Martineau/Tetris-13kB-Game)
@@ -31,13 +31,13 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 | Paquet                        | Nombre de téléchargements |
 | ----------------------------- | ------------------------: |
-| generator-svelte              |                      6366 |
-| create-custom-command         |                       810 |
+| generator-svelte              |                      6393 |
+| create-custom-command         |                       837 |
 | @robot-grimpeur/eslint-config |                       513 |
-| rmc-cli                       |                       251 |
+| rmc-cli                       |                       257 |
 | @robot-grimpeur/dev-server    |                       141 |
 | @robot-grimpeur/dev-client    |                       141 |
-| **Total**                     |                      8222 |
+| **Total**                     |                      8282 |
 
 ## Me contacter
 
