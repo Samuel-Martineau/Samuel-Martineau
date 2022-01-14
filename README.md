@@ -16,28 +16,28 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
-- ⚡ J&#x27;ai publié **154** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
-- ❌ J&#x27;ai fermé l&#x27;_issue_ [**🛑 Site web personnel is down**](https://github.com/Samuel-Martineau/Smartineau.me-Status/issues/25) du repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
-- 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**🛑 Site web personnel is down**](https://github.com/Samuel-Martineau/Smartineau.me-Status/issues/25) du repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
-- ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
-- ✅ J&#x27;ai ouvert l&#x27;_issue_ [**🛑 Site web personnel is down**](https://github.com/Samuel-Martineau/Smartineau.me-Status/issues/25) sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
-- ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/Smartineau.me**](https://github.com/Samuel-Martineau/Smartineau.me)
-- ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
-- ❌ J&#x27;ai fermé l&#x27;_issue_ [**🛑 Site web personnel is down**](https://github.com/Samuel-Martineau/Smartineau.me-Status/issues/24) du repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
-- 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**🛑 Site web personnel is down**](https://github.com/Samuel-Martineau/Smartineau.me-Status/issues/24) du repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
-- ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
+- ⚡ J&#x27;ai publié **12** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
+- 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**🛑 Simulateur d&#x27;évolution - Expo-sciences is down**](https://github.com/Samuel-Martineau/Smartineau.me-Status/issues/29) du repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
+- ❌ J&#x27;ai fermé l&#x27;_issue_ [**🛑 Simulateur d&#x27;évolution - Expo-sciences is down**](https://github.com/Samuel-Martineau/Smartineau.me-Status/issues/29) du repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
+- ❌ J&#x27;ai fermé l&#x27;_issue_ [**🛑 Meli is down**](https://github.com/Samuel-Martineau/Smartineau.me-Status/issues/27) du repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
+- ❌ J&#x27;ai fermé l&#x27;_issue_ [**🛑 Fichiers is down**](https://github.com/Samuel-Martineau/Smartineau.me-Status/issues/28) du repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
+- 💬 J&#x27;ai commenté 2 fois sur l&#x27;_issue_ [**🛑 Fichiers is down**](https://github.com/Samuel-Martineau/Smartineau.me-Status/issues/28) du repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
+- ❌ J&#x27;ai fermé l&#x27;_issue_ [**🛑 Site web personnel is down**](https://github.com/Samuel-Martineau/Smartineau.me-Status/issues/26) du repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
+- 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**🛑 Site web personnel is down**](https://github.com/Samuel-Martineau/Smartineau.me-Status/issues/26) du repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
+- ⚡ J&#x27;ai publié **6** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
+- ✅ J&#x27;ai ouvert l&#x27;_issue_ [**🛑 Simulateur d&#x27;évolution - Expo-sciences is down**](https://github.com/Samuel-Martineau/Smartineau.me-Status/issues/29) sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
 
 ## Mes paquets NPM
 
 | Paquet                        | Nombre de téléchargements |
 | ----------------------------- | ------------------------: |
-| generator-svelte              |                      6329 |
-| create-custom-command         |                       801 |
+| generator-svelte              |                      6367 |
+| create-custom-command         |                       799 |
 | @robot-grimpeur/eslint-config |                       519 |
 | rmc-cli                       |                       254 |
-| @robot-grimpeur/dev-server    |                       144 |
-| @robot-grimpeur/dev-client    |                       144 |
-| **Total**                     |                      8191 |
+| @robot-grimpeur/dev-server    |                       145 |
+| @robot-grimpeur/dev-client    |                       145 |
+| **Total**                     |                      8229 |
 
 ## Me contacter
 
