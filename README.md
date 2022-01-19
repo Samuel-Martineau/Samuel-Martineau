@@ -16,7 +16,7 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
-- ⚡ J&#x27;ai publié **6** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
+- ⚡ J&#x27;ai publié **15** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
 - ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
 - 🚫 J&#x27;ai fermé la _pull request_ [**Bump postcss from 8.2.10 to 8.2.13**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/pull/38) du repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
 - ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
@@ -31,13 +31,13 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 | Paquet                        | Nombre de téléchargements |
 | ----------------------------- | ------------------------: |
-| generator-svelte              |                      6348 |
-| create-custom-command         |                       775 |
-| @robot-grimpeur/eslint-config |                       528 |
+| generator-svelte              |                      6349 |
+| create-custom-command         |                       774 |
+| @robot-grimpeur/eslint-config |                       529 |
 | rmc-cli                       |                       255 |
 | @robot-grimpeur/dev-server    |                       147 |
 | @robot-grimpeur/dev-client    |                       147 |
-| **Total**                     |                      8200 |
+| **Total**                     |                      8201 |
 
 ## Me contacter
 
