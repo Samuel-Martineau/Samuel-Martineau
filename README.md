@@ -16,7 +16,9 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
-- ⚡ J&#x27;ai publié **71** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
+- ⚡ J&#x27;ai publié **6** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
+- ⚡ J&#x27;ai publié **1** commit sur le repo [**Robot-Grimpeur/controller-software**](https://github.com/Robot-Grimpeur/controller-software)
+- ⚡ J&#x27;ai publié **74** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
 - ✅ J&#x27;ai ouvert l&#x27;_issue_ [**Texdoc doesn&#x27;t work**](https://github.com/dante-ev/docker-texlive/issues/46) sur le repo [**dante-ev/docker-texlive**](https://github.com/dante-ev/docker-texlive)
 - ⚡ J&#x27;ai publié **3** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
 - 🌈 J&#x27;ai créé un fork du repo [**benoitc/homebrew**](https://github.com/benoitc/homebrew)
@@ -24,20 +26,18 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 - ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
 - 🚫 J&#x27;ai fermé la _pull request_ [**Bump postcss from 8.2.10 to 8.2.13**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/pull/38) du repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
 - ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
-- 🚫 J&#x27;ai fermé la _pull request_ [**Bump lodash from 4.17.20 to 4.17.21**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/pull/33) du repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
-- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
 
 ## Mes paquets NPM
 
 | Paquet                        | Nombre de téléchargements |
 | ----------------------------- | ------------------------: |
-| generator-svelte              |                      6681 |
+| generator-svelte              |                      6719 |
 | create-custom-command         |                       750 |
 | @robot-grimpeur/eslint-config |                       535 |
 | rmc-cli                       |                       250 |
 | @robot-grimpeur/dev-server    |                       147 |
 | @robot-grimpeur/dev-client    |                       147 |
-| **Total**                     |                      8510 |
+| **Total**                     |                      8548 |
 
 ## Me contacter
 
