@@ -16,7 +16,7 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
-- ⚡ J&#x27;ai publié **6** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
+- ⚡ J&#x27;ai publié **15** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
 - ⚡ J&#x27;ai publié **1** commit sur le repo [**Robot-Grimpeur/controller-software**](https://github.com/Robot-Grimpeur/controller-software)
 - ⚡ J&#x27;ai publié **74** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
 - ✅ J&#x27;ai ouvert l&#x27;_issue_ [**Texdoc doesn&#x27;t work**](https://github.com/dante-ev/docker-texlive/issues/46) sur le repo [**dante-ev/docker-texlive**](https://github.com/dante-ev/docker-texlive)
@@ -31,13 +31,13 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 | Paquet                        | Nombre de téléchargements |
 | ----------------------------- | ------------------------: |
-| generator-svelte              |                      6719 |
+| generator-svelte              |                      6716 |
 | create-custom-command         |                       750 |
-| @robot-grimpeur/eslint-config |                       535 |
-| rmc-cli                       |                       250 |
+| @robot-grimpeur/eslint-config |                       536 |
+| rmc-cli                       |                       256 |
 | @robot-grimpeur/dev-server    |                       147 |
 | @robot-grimpeur/dev-client    |                       147 |
-| **Total**                     |                      8548 |
+| **Total**                     |                      8552 |
 
 ## Me contacter
 
