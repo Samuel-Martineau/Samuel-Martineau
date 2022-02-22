@@ -16,7 +16,9 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
-- ⚡ J&#x27;ai publié **70** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
+- ⚡ J&#x27;ai publié **6** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
+- ✅ J&#x27;ai ouvert l&#x27;_issue_ [**Does it work with a touchscreen (on a Raspberry Pi)**](https://github.com/Sienci-Labs/gsender/issues/79) sur le repo [**Sienci-Labs/gsender**](https://github.com/Sienci-Labs/gsender)
+- ⚡ J&#x27;ai publié **73** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
 - ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/generator-svelte**](https://github.com/Samuel-Martineau/generator-svelte)
 - 🚫 J&#x27;ai fermé la _pull request_ [**Bump ajv from 6.12.2 to 6.12.6**](https://github.com/Samuel-Martineau/generator-svelte/pull/16) du repo [**Samuel-Martineau/generator-svelte**](https://github.com/Samuel-Martineau/generator-svelte)
 - ⚡ J&#x27;ai publié **110** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
@@ -24,20 +26,18 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 - 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**Texdoc doesn&#x27;t work**](https://github.com/dante-ev/docker-texlive/issues/46) du repo [**dante-ev/docker-texlive**](https://github.com/dante-ev/docker-texlive)
 - ⚡ J&#x27;ai publié **18** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
 - ⚡ J&#x27;ai publié **1** commit sur le repo [**Robot-Grimpeur/controller-software**](https://github.com/Robot-Grimpeur/controller-software)
-- ⚡ J&#x27;ai publié **74** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
-- ✅ J&#x27;ai ouvert l&#x27;_issue_ [**Texdoc doesn&#x27;t work**](https://github.com/dante-ev/docker-texlive/issues/46) sur le repo [**dante-ev/docker-texlive**](https://github.com/dante-ev/docker-texlive)
 
 ## Mes paquets NPM
 
 | Paquet                        | Nombre de téléchargements |
 | ----------------------------- | ------------------------: |
-| generator-svelte              |                      6991 |
+| generator-svelte              |                      6990 |
 | create-custom-command         |                       757 |
 | @robot-grimpeur/eslint-config |                       548 |
 | rmc-cli                       |                       251 |
 | @robot-grimpeur/dev-client    |                       153 |
 | @robot-grimpeur/dev-server    |                       152 |
-| **Total**                     |                      8852 |
+| **Total**                     |                      8851 |
 
 ## Me contacter
 
