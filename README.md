@@ -16,7 +16,7 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
-- ⚡ J&#x27;ai publié **75** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
+- ⚡ J&#x27;ai publié **84** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
 - ❌ J&#x27;ai fermé l&#x27;_issue_ [**🛑 Simulateur d&#x27;évolution - Expo-sciences is down**](https://github.com/Samuel-Martineau/Smartineau.me-Status/issues/33) du repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
 - 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**🛑 Simulateur d&#x27;évolution - Expo-sciences is down**](https://github.com/Samuel-Martineau/Smartineau.me-Status/issues/33) du repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
 - ❌ J&#x27;ai fermé l&#x27;_issue_ [**🛑 Fichiers is down**](https://github.com/Samuel-Martineau/Smartineau.me-Status/issues/32) du repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
@@ -34,10 +34,10 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 | generator-svelte              |                      7052 |
 | create-custom-command         |                       755 |
 | @robot-grimpeur/eslint-config |                       549 |
-| rmc-cli                       |                       246 |
+| rmc-cli                       |                       247 |
 | @robot-grimpeur/dev-client    |                       154 |
 | @robot-grimpeur/dev-server    |                       153 |
-| **Total**                     |                      8909 |
+| **Total**                     |                      8910 |
 
 ## Me contacter
 
