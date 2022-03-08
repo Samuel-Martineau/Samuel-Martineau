@@ -16,7 +16,7 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
-- ⚡ J&#x27;ai publié **120** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
+- ⚡ J&#x27;ai publié **130** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
 - ❌ J&#x27;ai fermé l&#x27;_issue_ [**🛑 Simulateur d&#x27;évolution - Expo-sciences is down**](https://github.com/Samuel-Martineau/Smartineau.me-Status/issues/33) du repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
 - 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**🛑 Simulateur d&#x27;évolution - Expo-sciences is down**](https://github.com/Samuel-Martineau/Smartineau.me-Status/issues/33) du repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
 - ❌ J&#x27;ai fermé l&#x27;_issue_ [**🛑 Fichiers is down**](https://github.com/Samuel-Martineau/Smartineau.me-Status/issues/32) du repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
@@ -31,13 +31,13 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 | Paquet                        | Nombre de téléchargements |
 | ----------------------------- | ------------------------: |
-| generator-svelte              |                      7090 |
+| generator-svelte              |                      7087 |
 | create-custom-command         |                       710 |
-| @robot-grimpeur/eslint-config |                       551 |
+| @robot-grimpeur/eslint-config |                       552 |
 | rmc-cli                       |                       246 |
 | @robot-grimpeur/dev-client    |                       155 |
 | @robot-grimpeur/dev-server    |                       154 |
-| **Total**                     |                      8906 |
+| **Total**                     |                      8904 |
 
 ## Me contacter
 
