@@ -16,7 +16,9 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
-- ⚡ J&#x27;ai publié **34** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
+- ⚡ J&#x27;ai publié **6** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
+- 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**Changing hud position doesn&#x27;t work properly **](https://github.com/Samuel-Martineau/Potions-HUD-Fabric/issues/5) du repo [**Samuel-Martineau/Potions-HUD-Fabric**](https://github.com/Samuel-Martineau/Potions-HUD-Fabric)
+- ⚡ J&#x27;ai publié **37** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
 - ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Potions-HUD-Fabric**](https://github.com/Samuel-Martineau/Potions-HUD-Fabric)
 - ⚡ J&#x27;ai publié **169** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
 - ❌ J&#x27;ai fermé l&#x27;_issue_ [**🛑 Simulateur d&#x27;évolution - Expo-sciences is down**](https://github.com/Samuel-Martineau/Smartineau.me-Status/issues/33) du repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
@@ -24,20 +26,18 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 - ❌ J&#x27;ai fermé l&#x27;_issue_ [**🛑 Fichiers is down**](https://github.com/Samuel-Martineau/Smartineau.me-Status/issues/32) du repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
 - 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**🛑 Fichiers is down**](https://github.com/Samuel-Martineau/Smartineau.me-Status/issues/32) du repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
 - ❌ J&#x27;ai fermé l&#x27;_issue_ [**🛑 Meli is down**](https://github.com/Samuel-Martineau/Smartineau.me-Status/issues/31) du repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
-- 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**🛑 Meli is down**](https://github.com/Samuel-Martineau/Smartineau.me-Status/issues/31) du repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
-- ❌ J&#x27;ai fermé l&#x27;_issue_ [**🛑 Site web personnel is down**](https://github.com/Samuel-Martineau/Smartineau.me-Status/issues/30) du repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
 
 ## Mes paquets NPM
 
 | Paquet                        | Nombre de téléchargements |
 | ----------------------------- | ------------------------: |
-| generator-svelte              |                      7149 |
+| generator-svelte              |                      7170 |
 | create-custom-command         |                       765 |
 | @robot-grimpeur/eslint-config |                       552 |
-| rmc-cli                       |                       258 |
+| rmc-cli                       |                       264 |
 | @robot-grimpeur/dev-client    |                       158 |
 | @robot-grimpeur/dev-server    |                       157 |
-| **Total**                     |                      9039 |
+| **Total**                     |                      9066 |
 
 ## Me contacter
 
