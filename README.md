@@ -16,28 +16,28 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
-- ⚡ J&#x27;ai publié **138** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
-- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/generator-svelte**](https://github.com/Samuel-Martineau/generator-svelte)
-- 🚫 J&#x27;ai fermé la _pull request_ [**Bump minimist from 1.2.5 to 1.2.6**](https://github.com/Samuel-Martineau/generator-svelte/pull/17) du repo [**Samuel-Martineau/generator-svelte**](https://github.com/Samuel-Martineau/generator-svelte)
 - ⚡ J&#x27;ai publié **6** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
-- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Create-Custom-Command**](https://github.com/Samuel-Martineau/Create-Custom-Command)
-- 🚫 J&#x27;ai fermé la _pull request_ [**Bump ansi-regex from 4.1.0 to 4.1.1**](https://github.com/Samuel-Martineau/Create-Custom-Command/pull/9) du repo [**Samuel-Martineau/Create-Custom-Command**](https://github.com/Samuel-Martineau/Create-Custom-Command)
-- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Create-Custom-Command**](https://github.com/Samuel-Martineau/Create-Custom-Command)
-- 🚫 J&#x27;ai fermé la _pull request_ [**Bump minimist from 1.2.5 to 1.2.6**](https://github.com/Samuel-Martineau/Create-Custom-Command/pull/8) du repo [**Samuel-Martineau/Create-Custom-Command**](https://github.com/Samuel-Martineau/Create-Custom-Command)
-- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Degit-Templates-VSCode**](https://github.com/Samuel-Martineau/Degit-Templates-VSCode)
-- 🚫 J&#x27;ai fermé la _pull request_ [**Bump minimist from 1.2.5 to 1.2.6**](https://github.com/Samuel-Martineau/Degit-Templates-VSCode/pull/2) du repo [**Samuel-Martineau/Degit-Templates-VSCode**](https://github.com/Samuel-Martineau/Degit-Templates-VSCode)
+- ✅ J&#x27;ai ouvert l&#x27;_issue_ [**Changing hud position doesn&#x27;t work properly **](https://github.com/Samuel-Martineau/Potions-HUD-Fabric/issues/5) sur le repo [**Samuel-Martineau/Potions-HUD-Fabric**](https://github.com/Samuel-Martineau/Potions-HUD-Fabric)
+- ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/Potions-HUD-Fabric**](https://github.com/Samuel-Martineau/Potions-HUD-Fabric)
+- ❌ J&#x27;ai fermé l&#x27;_issue_ [**Changing hud position doesn&#x27;t work properly **](https://github.com/Samuel-Martineau/Potions-HUD-Fabric/issues/5) du repo [**Samuel-Martineau/Potions-HUD-Fabric**](https://github.com/Samuel-Martineau/Potions-HUD-Fabric)
+- 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**Changing hud position doesn&#x27;t work properly **](https://github.com/Samuel-Martineau/Potions-HUD-Fabric/issues/5) du repo [**Samuel-Martineau/Potions-HUD-Fabric**](https://github.com/Samuel-Martineau/Potions-HUD-Fabric)
+- ✅ J&#x27;ai ouvert l&#x27;_issue_ [**Changing hud position doesn&#x27;t work properly **](https://github.com/Samuel-Martineau/Potions-HUD-Fabric/issues/5) sur le repo [**Samuel-Martineau/Potions-HUD-Fabric**](https://github.com/Samuel-Martineau/Potions-HUD-Fabric)
+- ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/Potions-HUD-Fabric**](https://github.com/Samuel-Martineau/Potions-HUD-Fabric)
+- ❌ J&#x27;ai fermé l&#x27;_issue_ [**Changing hud position doesn&#x27;t work properly **](https://github.com/Samuel-Martineau/Potions-HUD-Fabric/issues/5) du repo [**Samuel-Martineau/Potions-HUD-Fabric**](https://github.com/Samuel-Martineau/Potions-HUD-Fabric)
+- ⚡ J&#x27;ai publié **141** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
+- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/generator-svelte**](https://github.com/Samuel-Martineau/generator-svelte)
 
 ## Mes paquets NPM
 
 | Paquet                        | Nombre de téléchargements |
 | ----------------------------- | ------------------------: |
-| generator-svelte              |                      6560 |
+| generator-svelte              |                      6529 |
 | create-custom-command         |                       687 |
 | @robot-grimpeur/eslint-config |                       581 |
-| rmc-cli                       |                       243 |
+| rmc-cli                       |                       244 |
 | @robot-grimpeur/dev-client    |                       176 |
 | @robot-grimpeur/dev-server    |                       169 |
-| **Total**                     |                      8416 |
+| **Total**                     |                      8386 |
 
 ## Me contacter
 
