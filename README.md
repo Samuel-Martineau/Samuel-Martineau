@@ -16,7 +16,7 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
-- ⚡ J&#x27;ai publié **6** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
+- ⚡ J&#x27;ai publié **15** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
 - ✅ J&#x27;ai ouvert l&#x27;_issue_ [**Changing hud position doesn&#x27;t work properly **](https://github.com/Samuel-Martineau/Potions-HUD-Fabric/issues/5) sur le repo [**Samuel-Martineau/Potions-HUD-Fabric**](https://github.com/Samuel-Martineau/Potions-HUD-Fabric)
 - ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/Potions-HUD-Fabric**](https://github.com/Samuel-Martineau/Potions-HUD-Fabric)
 - ❌ J&#x27;ai fermé l&#x27;_issue_ [**Changing hud position doesn&#x27;t work properly **](https://github.com/Samuel-Martineau/Potions-HUD-Fabric/issues/5) du repo [**Samuel-Martineau/Potions-HUD-Fabric**](https://github.com/Samuel-Martineau/Potions-HUD-Fabric)
@@ -31,13 +31,13 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 | Paquet                        | Nombre de téléchargements |
 | ----------------------------- | ------------------------: |
-| generator-svelte              |                      6529 |
-| create-custom-command         |                       687 |
+| generator-svelte              |                      6467 |
+| create-custom-command         |                       684 |
 | @robot-grimpeur/eslint-config |                       581 |
-| rmc-cli                       |                       244 |
-| @robot-grimpeur/dev-client    |                       176 |
+| rmc-cli                       |                       243 |
+| @robot-grimpeur/dev-client    |                       177 |
 | @robot-grimpeur/dev-server    |                       169 |
-| **Total**                     |                      8386 |
+| **Total**                     |                      8321 |
 
 ## Me contacter
 
