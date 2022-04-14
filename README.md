@@ -16,28 +16,28 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
-- ⚡ J&#x27;ai publié **15** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
+- ⚡ J&#x27;ai publié **6** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
+- ⚡ J&#x27;ai publié **1** commit sur le repo [**Robot-Grimpeur/robot-grimpeur.github.io**](https://github.com/Robot-Grimpeur/robot-grimpeur.github.io)
+- 🌈 J&#x27;ai créé un fork du repo [**Robot-Grimpeur/robot-grimpeur.github.io**](https://github.com/Robot-Grimpeur/robot-grimpeur.github.io)
+- ⚡ J&#x27;ai publié **18** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
 - ✅ J&#x27;ai ouvert l&#x27;_issue_ [**Changing hud position doesn&#x27;t work properly **](https://github.com/Samuel-Martineau/Potions-HUD-Fabric/issues/5) sur le repo [**Samuel-Martineau/Potions-HUD-Fabric**](https://github.com/Samuel-Martineau/Potions-HUD-Fabric)
 - ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/Potions-HUD-Fabric**](https://github.com/Samuel-Martineau/Potions-HUD-Fabric)
 - ❌ J&#x27;ai fermé l&#x27;_issue_ [**Changing hud position doesn&#x27;t work properly **](https://github.com/Samuel-Martineau/Potions-HUD-Fabric/issues/5) du repo [**Samuel-Martineau/Potions-HUD-Fabric**](https://github.com/Samuel-Martineau/Potions-HUD-Fabric)
 - 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**Changing hud position doesn&#x27;t work properly **](https://github.com/Samuel-Martineau/Potions-HUD-Fabric/issues/5) du repo [**Samuel-Martineau/Potions-HUD-Fabric**](https://github.com/Samuel-Martineau/Potions-HUD-Fabric)
 - ✅ J&#x27;ai ouvert l&#x27;_issue_ [**Changing hud position doesn&#x27;t work properly **](https://github.com/Samuel-Martineau/Potions-HUD-Fabric/issues/5) sur le repo [**Samuel-Martineau/Potions-HUD-Fabric**](https://github.com/Samuel-Martineau/Potions-HUD-Fabric)
 - ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/Potions-HUD-Fabric**](https://github.com/Samuel-Martineau/Potions-HUD-Fabric)
-- ❌ J&#x27;ai fermé l&#x27;_issue_ [**Changing hud position doesn&#x27;t work properly **](https://github.com/Samuel-Martineau/Potions-HUD-Fabric/issues/5) du repo [**Samuel-Martineau/Potions-HUD-Fabric**](https://github.com/Samuel-Martineau/Potions-HUD-Fabric)
-- ⚡ J&#x27;ai publié **141** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
-- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/generator-svelte**](https://github.com/Samuel-Martineau/generator-svelte)
 
 ## Mes paquets NPM
 
 | Paquet                        | Nombre de téléchargements |
 | ----------------------------- | ------------------------: |
-| generator-svelte              |                      6467 |
-| create-custom-command         |                       684 |
+| generator-svelte              |                      6446 |
+| create-custom-command         |                       710 |
 | @robot-grimpeur/eslint-config |                       581 |
-| rmc-cli                       |                       243 |
+| rmc-cli                       |                       248 |
 | @robot-grimpeur/dev-client    |                       177 |
 | @robot-grimpeur/dev-server    |                       169 |
-| **Total**                     |                      8321 |
+| **Total**                     |                      8331 |
 
 ## Me contacter
 
