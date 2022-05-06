@@ -16,7 +16,7 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
-- ⚡ J&#x27;ai publié **149** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
+- ⚡ J&#x27;ai publié **158** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
 - 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**Cannot use import statement outside a module rollup.config.js:1**](https://github.com/rollup/rollup/issues/4446) du repo [**rollup/rollup**](https://github.com/rollup/rollup)
 - ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/generator-svelte**](https://github.com/Samuel-Martineau/generator-svelte)
 - ⚡ J&#x27;ai publié **3** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
@@ -29,19 +29,15 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Mes paquets NPM
 
-| Paquet  |                                                                                                                                                                                             Nombre de téléchargements |
-| ------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| message | jOOQ; SQL [insert into &quot;public&quot;.&quot;download_count&quot; (&quot;package_name&quot;, &quot;date&quot;, &quot;count&quot;) values (?, cast(? as date), ?)]; ERROR: could not access status of transaction 0 |
-
-Detail: Could not write to file &quot;pg_subtrans/3DF8&quot; at offset 81920: No space left on device.; nested exception is org.postgresql.util.PSQLException: ERROR: could not access status of transaction 0
-Detail: Could not write to file &quot;pg_subtrans/3DF8&quot; at offset 81920: No space left on device.|
-|error|Internal Server Error|
-|path|/npm-stat/api/download-counts|
-|status|0|
-|timestamp|2022-05-05T01:00:43.015+0000|
-|**Total**|jOOQ; SQL [insert into &quot;public&quot;.&quot;download_count&quot; (&quot;package_name&quot;, &quot;date&quot;, &quot;count&quot;) values (?, cast(? as date), ?)]; ERROR: could not access status of transaction 0
-Detail: Could not write to file &quot;pg_subtrans/3DF8&quot; at offset 81920: No space left on device.; nested exception is org.postgresql.util.PSQLException: ERROR: could not access status of transaction 0
-Detail: Could not write to file &quot;pg_subtrans/3DF8&quot; at offset 81920: No space left on device.Internal Server Error/npm-stat/api/download-counts02022-05-05T01:00:43.015+0000|
+| Paquet                        | Nombre de téléchargements |
+| ----------------------------- | ------------------------: |
+| generator-svelte              |                      6080 |
+| create-custom-command         |                       797 |
+| @robot-grimpeur/eslint-config |                       593 |
+| rmc-cli                       |                       259 |
+| @robot-grimpeur/dev-client    |                       185 |
+| @robot-grimpeur/dev-server    |                       176 |
+| **Total**                     |                      8090 |
 
 ## Me contacter
 
