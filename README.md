@@ -16,7 +16,7 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
-- ⚡ J&#x27;ai publié **176** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
+- ⚡ J&#x27;ai publié **185** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
 - 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**Cannot use import statement outside a module rollup.config.js:1**](https://github.com/rollup/rollup/issues/4446) du repo [**rollup/rollup**](https://github.com/rollup/rollup)
 - ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/generator-svelte**](https://github.com/Samuel-Martineau/generator-svelte)
 - ⚡ J&#x27;ai publié **3** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
@@ -31,10 +31,10 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 | Paquet                        | Nombre de téléchargements |
 | ----------------------------- | ------------------------: |
-| generator-svelte              |                      5995 |
+| generator-svelte              |                      5996 |
 | create-custom-command         |                       796 |
 | @robot-grimpeur/eslint-config |                       593 |
-| rmc-cli                       |                       259 |
+| rmc-cli                       |                       258 |
 | @robot-grimpeur/dev-client    |                       185 |
 | @robot-grimpeur/dev-server    |                       176 |
 | **Total**                     |                      8004 |
