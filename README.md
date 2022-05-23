@@ -16,7 +16,7 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
-- ⚡ J&#x27;ai publié **16** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
+- ⚡ J&#x27;ai publié **25** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
 - ❌ J&#x27;ai fermé l&#x27;_issue_ [**🛑 MondiumCJE is down**](https://github.com/Samuel-Martineau/Smartineau.me-Status/issues/34) du repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
 - 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**🛑 MondiumCJE is down**](https://github.com/Samuel-Martineau/Smartineau.me-Status/issues/34) du repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
 - ⚡ J&#x27;ai publié **32** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
@@ -31,13 +31,13 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 | Paquet                        | Nombre de téléchargements |
 | ----------------------------- | ------------------------: |
-| generator-svelte              |                      5902 |
-| create-custom-command         |                       874 |
-| @robot-grimpeur/eslint-config |                       607 |
-| rmc-cli                       |                       274 |
+| generator-svelte              |                      5918 |
+| create-custom-command         |                       850 |
+| @robot-grimpeur/eslint-config |                       569 |
+| rmc-cli                       |                       271 |
 | @robot-grimpeur/dev-client    |                       191 |
 | @robot-grimpeur/dev-server    |                       182 |
-| **Total**                     |                      8030 |
+| **Total**                     |                      7981 |
 
 ## Me contacter
 
