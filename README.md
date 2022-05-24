@@ -16,28 +16,28 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
-- ⚡ J&#x27;ai publié **25** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
+- ⚡ J&#x27;ai publié **9** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
+- ❌ J&#x27;ai fermé l&#x27;_issue_ [**🛑 Site web personnel is down**](https://github.com/Samuel-Martineau/Smartineau.me-Status/issues/35) du repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
+- 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**🛑 Site web personnel is down**](https://github.com/Samuel-Martineau/Smartineau.me-Status/issues/35) du repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
+- ⚡ J&#x27;ai publié **3** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
+- ✅ J&#x27;ai ouvert l&#x27;_issue_ [**🛑 Site web personnel is down**](https://github.com/Samuel-Martineau/Smartineau.me-Status/issues/35) sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
+- ⚡ J&#x27;ai publié **28** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
 - ❌ J&#x27;ai fermé l&#x27;_issue_ [**🛑 MondiumCJE is down**](https://github.com/Samuel-Martineau/Smartineau.me-Status/issues/34) du repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
 - 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**🛑 MondiumCJE is down**](https://github.com/Samuel-Martineau/Smartineau.me-Status/issues/34) du repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
 - ⚡ J&#x27;ai publié **32** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
 - ✅ J&#x27;ai ouvert l&#x27;_issue_ [**🛑 MondiumCJE is down**](https://github.com/Samuel-Martineau/Smartineau.me-Status/issues/34) sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
-- ⚡ J&#x27;ai publié **19** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
-- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/generator-svelte**](https://github.com/Samuel-Martineau/generator-svelte)
-- 🚫 J&#x27;ai fermé la _pull request_ [**Bump ejs from 3.1.6 to 3.1.7**](https://github.com/Samuel-Martineau/generator-svelte/pull/20) du repo [**Samuel-Martineau/generator-svelte**](https://github.com/Samuel-Martineau/generator-svelte)
-- ⚡ J&#x27;ai publié **251** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
-- 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**Cannot use import statement outside a module rollup.config.js:1**](https://github.com/rollup/rollup/issues/4446) du repo [**rollup/rollup**](https://github.com/rollup/rollup)
 
 ## Mes paquets NPM
 
 | Paquet                        | Nombre de téléchargements |
 | ----------------------------- | ------------------------: |
-| generator-svelte              |                      5918 |
-| create-custom-command         |                       850 |
-| @robot-grimpeur/eslint-config |                       569 |
+| generator-svelte              |                      5877 |
+| create-custom-command         |                       826 |
+| @robot-grimpeur/eslint-config |                       275 |
 | rmc-cli                       |                       271 |
-| @robot-grimpeur/dev-client    |                       191 |
-| @robot-grimpeur/dev-server    |                       182 |
-| **Total**                     |                      7981 |
+| @robot-grimpeur/dev-client    |                       192 |
+| @robot-grimpeur/dev-server    |                       183 |
+| **Total**                     |                      7624 |
 
 ## Me contacter
 
