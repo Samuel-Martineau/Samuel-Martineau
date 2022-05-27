@@ -16,6 +16,7 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
+- ⚡ J&#x27;ai publié **9** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
 - ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
 - 🚫 J&#x27;ai fermé la _pull request_ [**Bump nanoid from 3.1.23 to 3.2.0**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/pull/39) du repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
 - ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
@@ -25,19 +26,18 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 - 🚫 J&#x27;ai fermé la _pull request_ [**Bump url-parse from 1.4.7 to 1.5.10 in /simulator-core**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/pull/43) du repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
 - ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
 - 🚫 J&#x27;ai fermé la _pull request_ [**Bump minimist from 1.2.5 to 1.2.6**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/pull/44) du repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
-- 🚫 J&#x27;ai fermé la _pull request_ [**Bump minimist from 1.2.5 to 1.2.6 in /simulator-core**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/pull/45) du repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
 
 ## Mes paquets NPM
 
 | Paquet                        | Nombre de téléchargements |
 | ----------------------------- | ------------------------: |
-| generator-svelte              |                      5841 |
-| create-custom-command         |                       824 |
-| rmc-cli                       |                       272 |
-| @robot-grimpeur/eslint-config |                       263 |
+| generator-svelte              |                      5816 |
+| create-custom-command         |                       825 |
+| rmc-cli                       |                       273 |
+| @robot-grimpeur/eslint-config |                       257 |
 | @robot-grimpeur/dev-client    |                       193 |
 | @robot-grimpeur/dev-server    |                       184 |
-| **Total**                     |                      7577 |
+| **Total**                     |                      7548 |
 
 ## Me contacter
 
