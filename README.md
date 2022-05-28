@@ -16,28 +16,28 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
-- ⚡ J&#x27;ai publié **9** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
-- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
-- 🚫 J&#x27;ai fermé la _pull request_ [**Bump nanoid from 3.1.23 to 3.2.0**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/pull/39) du repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
-- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
-- 🚫 J&#x27;ai fermé la _pull request_ [**Bump follow-redirects from 1.13.1 to 1.14.8 in /simulator-core**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/pull/40) du repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
-- 🚫 J&#x27;ai fermé la _pull request_ [**Bump prismjs from 1.23.0 to 1.27.0**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/pull/42) du repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
-- ⚡ J&#x27;ai publié **4** commits sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
-- 🚫 J&#x27;ai fermé la _pull request_ [**Bump url-parse from 1.4.7 to 1.5.10 in /simulator-core**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/pull/43) du repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
-- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
-- 🚫 J&#x27;ai fermé la _pull request_ [**Bump minimist from 1.2.5 to 1.2.6**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/pull/44) du repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
+- ⚡ J&#x27;ai publié **14** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
+- 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**🛑 Minecraft Vanilla (Privé) is down**](https://github.com/Samuel-Martineau/Smartineau.me-Status/issues/41) du repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
+- ❌ J&#x27;ai fermé l&#x27;_issue_ [**🛑 Minecraft Vanilla (Privé) is down**](https://github.com/Samuel-Martineau/Smartineau.me-Status/issues/41) du repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
+- ❌ J&#x27;ai fermé l&#x27;_issue_ [**🛑 MondiumCJE is down**](https://github.com/Samuel-Martineau/Smartineau.me-Status/issues/40) du repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
+- 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**🛑 MondiumCJE is down**](https://github.com/Samuel-Martineau/Smartineau.me-Status/issues/40) du repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
+- ❌ J&#x27;ai fermé l&#x27;_issue_ [**🛑 Simulateur d&#x27;évolution - Expo-sciences is down**](https://github.com/Samuel-Martineau/Smartineau.me-Status/issues/39) du repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
+- 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**🛑 Simulateur d&#x27;évolution - Expo-sciences is down**](https://github.com/Samuel-Martineau/Smartineau.me-Status/issues/39) du repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
+- ❌ J&#x27;ai fermé l&#x27;_issue_ [**🛑 Fichiers is down**](https://github.com/Samuel-Martineau/Smartineau.me-Status/issues/38) du repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
+- 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**🛑 Fichiers is down**](https://github.com/Samuel-Martineau/Smartineau.me-Status/issues/38) du repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
+- ❌ J&#x27;ai fermé l&#x27;_issue_ [**🛑 Meli is down**](https://github.com/Samuel-Martineau/Smartineau.me-Status/issues/37) du repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
 
 ## Mes paquets NPM
 
 | Paquet                        | Nombre de téléchargements |
 | ----------------------------- | ------------------------: |
-| generator-svelte              |                      5816 |
-| create-custom-command         |                       825 |
+| generator-svelte              |                      5711 |
+| create-custom-command         |                       824 |
 | rmc-cli                       |                       273 |
-| @robot-grimpeur/eslint-config |                       257 |
+| @robot-grimpeur/eslint-config |                       258 |
 | @robot-grimpeur/dev-client    |                       193 |
-| @robot-grimpeur/dev-server    |                       184 |
-| **Total**                     |                      7548 |
+| @robot-grimpeur/dev-server    |                       185 |
+| **Total**                     |                      7444 |
 
 ## Me contacter
 
