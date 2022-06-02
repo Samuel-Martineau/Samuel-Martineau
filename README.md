@@ -16,7 +16,7 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
-- ⚡ J&#x27;ai publié **50** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
+- ⚡ J&#x27;ai publié **59** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
 - 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**🛑 Minecraft Vanilla (Privé) is down**](https://github.com/Samuel-Martineau/Smartineau.me-Status/issues/41) du repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
 - ❌ J&#x27;ai fermé l&#x27;_issue_ [**🛑 Minecraft Vanilla (Privé) is down**](https://github.com/Samuel-Martineau/Smartineau.me-Status/issues/41) du repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
 - ❌ J&#x27;ai fermé l&#x27;_issue_ [**🛑 MondiumCJE is down**](https://github.com/Samuel-Martineau/Smartineau.me-Status/issues/40) du repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
@@ -31,13 +31,13 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 | Paquet                        | Nombre de téléchargements |
 | ----------------------------- | ------------------------: |
-| generator-svelte              |                      5694 |
-| create-custom-command         |                       819 |
+| generator-svelte              |                      5709 |
+| create-custom-command         |                       818 |
 | rmc-cli                       |                       273 |
-| @robot-grimpeur/eslint-config |                       256 |
-| @robot-grimpeur/dev-client    |                       145 |
-| @robot-grimpeur/dev-server    |                       136 |
-| **Total**                     |                      7323 |
+| @robot-grimpeur/eslint-config |                       257 |
+| @robot-grimpeur/dev-client    |                       144 |
+| @robot-grimpeur/dev-server    |                       135 |
+| **Total**                     |                      7336 |
 
 ## Me contacter
 
