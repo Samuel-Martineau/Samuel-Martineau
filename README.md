@@ -16,7 +16,7 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
-- ⚡ J&#x27;ai publié **133** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
+- ⚡ J&#x27;ai publié **142** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
 - 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**Potion HUD not scaling with the game resolution**](https://github.com/Samuel-Martineau/Potions-HUD-Fabric/issues/6) du repo [**Samuel-Martineau/Potions-HUD-Fabric**](https://github.com/Samuel-Martineau/Potions-HUD-Fabric)
 - ⚡ J&#x27;ai publié **62** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
 - 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**🛑 Minecraft Vanilla (Privé) is down**](https://github.com/Samuel-Martineau/Smartineau.me-Status/issues/41) du repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
@@ -31,13 +31,13 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 | Paquet                        | Nombre de téléchargements |
 | ----------------------------- | ------------------------: |
-| generator-svelte              |                      5391 |
-| create-custom-command         |                       791 |
+| generator-svelte              |                      5369 |
+| create-custom-command         |                       793 |
 | rmc-cli                       |                       271 |
-| @robot-grimpeur/eslint-config |                       262 |
+| @robot-grimpeur/eslint-config |                       261 |
 | @robot-grimpeur/dev-client    |                       141 |
-| @robot-grimpeur/dev-server    |                       132 |
-| **Total**                     |                      6988 |
+| @robot-grimpeur/dev-server    |                       133 |
+| **Total**                     |                      6968 |
 
 ## Me contacter
 
