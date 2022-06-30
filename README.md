@@ -16,7 +16,7 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
-- ⚡ J&#x27;ai publié **243** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
+- ⚡ J&#x27;ai publié **253** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
 - 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**Potion HUD not scaling with the game resolution**](https://github.com/Samuel-Martineau/Potions-HUD-Fabric/issues/6) du repo [**Samuel-Martineau/Potions-HUD-Fabric**](https://github.com/Samuel-Martineau/Potions-HUD-Fabric)
 - ⚡ J&#x27;ai publié **62** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
 - 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**🛑 Minecraft Vanilla (Privé) is down**](https://github.com/Samuel-Martineau/Smartineau.me-Status/issues/41) du repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
@@ -31,13 +31,13 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 | Paquet                        | Nombre de téléchargements |
 | ----------------------------- | ------------------------: |
-| generator-svelte              |                      5116 |
+| generator-svelte              |                      5096 |
 | create-custom-command         |                       806 |
 | rmc-cli                       |                       270 |
 | @robot-grimpeur/eslint-config |                       242 |
 | @robot-grimpeur/dev-client    |                       124 |
 | @robot-grimpeur/dev-server    |                       115 |
-| **Total**                     |                      6673 |
+| **Total**                     |                      6653 |
 
 ## Me contacter
 
