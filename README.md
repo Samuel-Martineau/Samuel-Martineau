@@ -16,7 +16,7 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
-- ⚡ J&#x27;ai publié **358** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
+- ⚡ J&#x27;ai publié **367** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
 - 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**Potion HUD not scaling with the game resolution**](https://github.com/Samuel-Martineau/Potions-HUD-Fabric/issues/6) du repo [**Samuel-Martineau/Potions-HUD-Fabric**](https://github.com/Samuel-Martineau/Potions-HUD-Fabric)
 - ⚡ J&#x27;ai publié **62** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
 - 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**🛑 Minecraft Vanilla (Privé) is down**](https://github.com/Samuel-Martineau/Smartineau.me-Status/issues/41) du repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
@@ -31,13 +31,13 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 | Paquet                        | Nombre de téléchargements |
 | ----------------------------- | ------------------------: |
-| generator-svelte              |                      4689 |
-| create-custom-command         |                       813 |
-| rmc-cli                       |                       252 |
+| generator-svelte              |                      4678 |
+| create-custom-command         |                       809 |
+| rmc-cli                       |                       251 |
 | @robot-grimpeur/eslint-config |                       226 |
-| @robot-grimpeur/dev-client    |                       108 |
+| @robot-grimpeur/dev-client    |                       107 |
 | @robot-grimpeur/dev-server    |                        99 |
-| **Total**                     |                      6187 |
+| **Total**                     |                      6170 |
 
 ## Me contacter
 
