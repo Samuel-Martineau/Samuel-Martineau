@@ -16,7 +16,7 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
-- ⚡ J&#x27;ai publié **57** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
+- ⚡ J&#x27;ai publié **67** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
 - 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**🛑 Fichiers is down**](https://github.com/Samuel-Martineau/Smartineau.me-Status/issues/43) du repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
 - ❌ J&#x27;ai fermé l&#x27;_issue_ [**🛑 Meli is down**](https://github.com/Samuel-Martineau/Smartineau.me-Status/issues/42) du repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
 - ❌ J&#x27;ai fermé l&#x27;_issue_ [**🛑 Fichiers is down**](https://github.com/Samuel-Martineau/Smartineau.me-Status/issues/43) du repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
@@ -31,13 +31,13 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 | Paquet                        | Nombre de téléchargements |
 | ----------------------------- | ------------------------: |
-| generator-svelte              |                      4458 |
-| create-custom-command         |                       813 |
+| generator-svelte              |                      4441 |
+| create-custom-command         |                       812 |
 | rmc-cli                       |                       226 |
-| @robot-grimpeur/eslint-config |                       220 |
-| @robot-grimpeur/dev-client    |                       141 |
+| @robot-grimpeur/eslint-config |                       218 |
+| @robot-grimpeur/dev-client    |                       140 |
 | @robot-grimpeur/dev-server    |                        95 |
-| **Total**                     |                      5953 |
+| **Total**                     |                      5932 |
 
 ## Me contacter
 
