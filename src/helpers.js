@@ -50,12 +50,12 @@ const writeReadme = (content) =>
   fs.writeFile(path.join(__dirname, '..', 'README.md'), content);
 
 const commitReadme = async (ghUsername) => {
-  await execa('git', ['config', '--global', 'user.name', 'profile-readme-bot']);
+  await execa('git', ['config', '--global', 'user.name', 'Samuel-Martineau-Bot']);
   await execa('git', [
     'config',
     '--global',
     'user.email',
-    'samumartineau@gmail.com',
+    'stupor_dahlias.0o@icloud.com',
   ]);
   await execa('git', ['add', 'README.md']);
   await execa('git', ['commit', '-m', 'Mise à jour des données du README']);
@@ -104,7 +104,6 @@ const getRecentGithubActivity = async (ghUsername) => {
               repo.name,
               payload.issue,
             )} sur le repo ${displayRepo(repo.name)}`;
-            break;
           case 'closed':
             return `❌ J'ai fermé l'*issue* ${displayIssue(
               repo.name,
@@ -121,7 +120,6 @@ const getRecentGithubActivity = async (ghUsername) => {
               repo.name,
               payload.pull_request,
             )} sur le repo ${displayRepo(repo.name)}`;
-            break;
           case 'closed':
             return `🚫 J'ai fermé la *pull request* ${displayPullRequest(
               repo.name,
