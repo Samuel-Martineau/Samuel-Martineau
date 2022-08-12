@@ -10,34 +10,34 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Mes compétences
 
-<img alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" title="HTML5" /><img alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" title="CSS3" /><img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" title="JavaScript" /><img alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" title="TypeScript" /><img alt="NodeJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" title="NodeJS" /><img alt="Yarn" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" width="50" title="Yarn" /><img alt="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" title="Linux" /><img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" title="Python" />
+<img alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" title="HTML5" /><img alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" title="CSS3" /><img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" title="JavaScript" /><img alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" title="TypeScript" /><img alt="NodeJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" title="NodeJS" /><img alt="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" title="Linux" /><img alt="Apple" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" width="50" title="Apple" /><img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" title="Python" /><img alt="RaspberryPi" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" width="50" title="RaspberryPi" />
 
 ##### Icônes fournis par [Devicon](https://konpa.github.io/devicon/)
 
 ## Activité GitHub récente
 
-- ⚡ J&#x27;ai publié **178** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
+- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
+- 🚫 J&#x27;ai fermé la _pull request_ [**Bump ansi-regex from 4.1.0 to 4.1.1**](https://github.com/Samuel-Martineau/Samuel-Martineau/pull/9) du repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
+- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
+- 🚫 J&#x27;ai fermé la _pull request_ [**Bump minimist from 1.2.5 to 1.2.6**](https://github.com/Samuel-Martineau/Samuel-Martineau/pull/8) du repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
+- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
+- 🚫 J&#x27;ai fermé la _pull request_ [**Bump moment from 2.27.0 to 2.29.4**](https://github.com/Samuel-Martineau/Samuel-Martineau/pull/7) du repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
+- ⚡ J&#x27;ai publié **3** commits sur le repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
+- ⚡ J&#x27;ai publié **226** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
 - 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**🛑 Fichiers is down**](https://github.com/Samuel-Martineau/Smartineau.me-Status/issues/43) du repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
 - ❌ J&#x27;ai fermé l&#x27;_issue_ [**🛑 Meli is down**](https://github.com/Samuel-Martineau/Smartineau.me-Status/issues/42) du repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
-- ❌ J&#x27;ai fermé l&#x27;_issue_ [**🛑 Fichiers is down**](https://github.com/Samuel-Martineau/Smartineau.me-Status/issues/43) du repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
-- 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**🛑 Meli is down**](https://github.com/Samuel-Martineau/Smartineau.me-Status/issues/42) du repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
-- ⚡ J&#x27;ai publié **4** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
-- ✅ J&#x27;ai ouvert l&#x27;_issue_ [**🛑 Fichiers is down**](https://github.com/Samuel-Martineau/Smartineau.me-Status/issues/43) sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
-- ✅ J&#x27;ai ouvert l&#x27;_issue_ [**🛑 Meli is down**](https://github.com/Samuel-Martineau/Smartineau.me-Status/issues/42) sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
-- ⚡ J&#x27;ai publié **434** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
-- 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**Potion HUD not scaling with the game resolution**](https://github.com/Samuel-Martineau/Potions-HUD-Fabric/issues/6) du repo [**Samuel-Martineau/Potions-HUD-Fabric**](https://github.com/Samuel-Martineau/Potions-HUD-Fabric)
 
 ## Mes paquets NPM
 
 | Paquet                        | Nombre de téléchargements |
 | ----------------------------- | ------------------------: |
-| generator-svelte              |                      4166 |
-| create-custom-command         |                       784 |
-| @robot-grimpeur/eslint-config |                       229 |
-| rmc-cli                       |                       225 |
-| @robot-grimpeur/dev-client    |                       143 |
-| @robot-grimpeur/dev-server    |                        98 |
-| **Total**                     |                      5645 |
+| generator-svelte              |                      4115 |
+| create-custom-command         |                       781 |
+| @robot-grimpeur/eslint-config |                       235 |
+| rmc-cli                       |                       232 |
+| @robot-grimpeur/dev-client    |                       144 |
+| @robot-grimpeur/dev-server    |                       100 |
+| **Total**                     |                      5607 |
 
 ## Me contacter
 
