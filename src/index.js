@@ -11,7 +11,7 @@ const {
   getRecentGithubActivity,
 } = require("./helpers");
 
-const dev = process.env.NODE_ENV === "development";
+const prod = process.env.NODE_ENV === "production";
 
 Handlebars.registerHelper("toLowerCase", (str) => str.toLowerCase());
 Handlebars.registerPartial(
@@ -41,6 +41,6 @@ const usernames = {
 
   if (formattedMarkup.trim() !== (await readReadme()).trim()) {
     await writeReadme(formattedMarkup);
-    if (!dev) await commitReadme(usernames.github);
+    if (prod) await commitReadme(usernames.github);
   }
 })();
