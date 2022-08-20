@@ -32,7 +32,7 @@ const usernames = {
     getRecentGithubActivity(usernames.github),
   ]);
 
-  npmPackages.stats = npmPackages.stats.sort((a, b) =>
+  npmPackages.stats = npmPackages.stats.sort(([a], [b]) =>
     a.localeCompare(b, "en", { ignorePunctuation: true })
   );
 
