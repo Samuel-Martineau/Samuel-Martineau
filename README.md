@@ -6,7 +6,7 @@
 
 ## À propos de moi
 
-Je suis un étudiant québécois de niveau secondaire passionné par l’informatique. J’ai davantage travaillé en JS et en TS, mais j’ai aussi expérimenté avec d’autres languages, dont le C# et le C++. J’ai aussi présenté deux projets informatique à [expo-sciences](https://technoscience.ca/programmes/expo-sciences/), qui ont tous deux été nominés. Mes repos Github sont majoritairement en Français, mais certains sont en Anglais.
+Je suis un étudiant québécois de niveau secondaire passionné par l’informatique et la robotique. J’ai davantage travaillé en JS et en TS, mais j’ai aussi expérimenté avec d’autres langages, dont le C# et le C++. J’ai aussi présenté trois projets en informatique à [expo-sciences](https://technoscience.ca/programmes/expo-sciences/), qui ont tous été nominés. Mes repos Github sont majoritairement en français, mais certains sont en anglais.
 
 ## Mes compétences
 
@@ -16,28 +16,28 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
-- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
+- ⚡ J&#x27;ai publié **8** commits sur le repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
 - 🚫 J&#x27;ai fermé la _pull request_ [**Bump ansi-regex from 4.1.0 to 4.1.1**](https://github.com/Samuel-Martineau/Samuel-Martineau/pull/9) du repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
 - ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
 - 🚫 J&#x27;ai fermé la _pull request_ [**Bump minimist from 1.2.5 to 1.2.6**](https://github.com/Samuel-Martineau/Samuel-Martineau/pull/8) du repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
 - ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
 - 🚫 J&#x27;ai fermé la _pull request_ [**Bump moment from 2.27.0 to 2.29.4**](https://github.com/Samuel-Martineau/Samuel-Martineau/pull/7) du repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
 - ⚡ J&#x27;ai publié **3** commits sur le repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
-- ⚡ J&#x27;ai publié **226** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
-- 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**🛑 Fichiers is down**](https://github.com/Samuel-Martineau/Smartineau.me-Status/issues/43) du repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
-- ❌ J&#x27;ai fermé l&#x27;_issue_ [**🛑 Meli is down**](https://github.com/Samuel-Martineau/Smartineau.me-Status/issues/42) du repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
+- ⚡ J&#x27;ai publié **39** commits sur le repo [**Samuel-Martineau/Smartineau.me-Status**](https://github.com/Samuel-Martineau/Smartineau.me-Status)
+- ⚡ J&#x27;ai publié **8** commits sur le repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
+- 🚫 J&#x27;ai fermé la _pull request_ [**Bump ansi-regex from 4.1.0 to 4.1.1**](https://github.com/Samuel-Martineau/Samuel-Martineau/pull/9) du repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
 
 ## Mes paquets NPM
 
 | Paquet                        | Nombre de téléchargements |
 | ----------------------------- | ------------------------: |
-| generator-svelte              |                      4115 |
 | create-custom-command         |                       781 |
-| @robot-grimpeur/eslint-config |                       235 |
-| rmc-cli                       |                       232 |
+| generator-svelte              |                      4046 |
+| rmc-cli                       |                       227 |
 | @robot-grimpeur/dev-client    |                       144 |
-| @robot-grimpeur/dev-server    |                       100 |
-| **Total**                     |                      5607 |
+| @robot-grimpeur/dev-server    |                        99 |
+| @robot-grimpeur/eslint-config |                       235 |
+| **Total**                     |                      5532 |
 
 ## Me contacter
 
