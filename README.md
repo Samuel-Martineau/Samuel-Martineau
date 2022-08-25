@@ -31,13 +31,13 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 | Paquet                        | Nombre de téléchargements |
 | ----------------------------- | ------------------------: |
-| create-custom-command         |                       765 |
-| generator-svelte              |                      3976 |
-| rmc-cli                       |                       227 |
-| @robot-grimpeur/dev-client    |                       145 |
-| @robot-grimpeur/dev-server    |                       100 |
-| @robot-grimpeur/eslint-config |                       242 |
-| **Total**                     |                      5455 |
+| create-custom-command         |                       791 |
+| generator-svelte              |                      3956 |
+| rmc-cli                       |                       221 |
+| @robot-grimpeur/dev-client    |                       146 |
+| @robot-grimpeur/dev-server    |                       101 |
+| @robot-grimpeur/eslint-config |                       246 |
+| **Total**                     |                      5461 |
 
 ## Me contacter
 
