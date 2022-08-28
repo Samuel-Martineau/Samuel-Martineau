@@ -16,6 +16,8 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
+- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
+- 🚫 J&#x27;ai fermé la _pull request_ [**Modification de la licence**](https://github.com/Samuel-Martineau/Samuel-Martineau/pull/10) du repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
 - ⚡ J&#x27;ai publié **4** commits sur le repo [**Samuel-Martineau/Notion-Auto-Backup**](https://github.com/Samuel-Martineau/Notion-Auto-Backup)
 - 🔥 J&#x27;ai ouvert la _pull request_ [**Modification de la licence**](https://github.com/Samuel-Martineau/Samuel-Martineau/pull/10) sur le repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
 -
@@ -24,8 +26,6 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 - 🚫 J&#x27;ai fermé la _pull request_ [**Update the license**](https://github.com/Samuel-Martineau/generator-svelte/pull/22) du repo [**Samuel-Martineau/generator-svelte**](https://github.com/Samuel-Martineau/generator-svelte)
 - 🔥 J&#x27;ai ouvert la _pull request_ [**Update the license**](https://github.com/Samuel-Martineau/generator-svelte/pull/22) sur le repo [**Samuel-Martineau/generator-svelte**](https://github.com/Samuel-Martineau/generator-svelte)
 -
-- ⚡ J&#x27;ai publié **9** commits sur le repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
-- 🚫 J&#x27;ai fermé la _pull request_ [**Bump ansi-regex from 4.1.0 to 4.1.1**](https://github.com/Samuel-Martineau/Samuel-Martineau/pull/9) du repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
 
 ## Mes paquets NPM
 
@@ -33,11 +33,11 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 | ----------------------------- | ------------------------: |
 | create-custom-command         |                       782 |
 | generator-svelte              |                      3915 |
-| rmc-cli                       |                       216 |
+| rmc-cli                       |                       217 |
 | @robot-grimpeur/dev-client    |                       144 |
 | @robot-grimpeur/dev-server    |                        99 |
 | @robot-grimpeur/eslint-config |                       244 |
-| **Total**                     |                      5400 |
+| **Total**                     |                      5401 |
 
 ## Me contacter
 
