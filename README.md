@@ -16,6 +16,7 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
+- 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**Does it work with a touchscreen (on a Raspberry Pi)**](https://github.com/Sienci-Labs/gsender/issues/79) du repo [**Sienci-Labs/gsender**](https://github.com/Sienci-Labs/gsender)
 - ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
 - 🚫 J&#x27;ai fermé la _pull request_ [**Modification de la licence**](https://github.com/Samuel-Martineau/Samuel-Martineau/pull/10) du repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
 - ⚡ J&#x27;ai publié **4** commits sur le repo [**Samuel-Martineau/Notion-Auto-Backup**](https://github.com/Samuel-Martineau/Notion-Auto-Backup)
@@ -25,19 +26,18 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 - ⚡ J&#x27;ai publié **4** commits sur le repo [**Samuel-Martineau/generator-svelte**](https://github.com/Samuel-Martineau/generator-svelte)
 - 🚫 J&#x27;ai fermé la _pull request_ [**Update the license**](https://github.com/Samuel-Martineau/generator-svelte/pull/22) du repo [**Samuel-Martineau/generator-svelte**](https://github.com/Samuel-Martineau/generator-svelte)
 - 🔥 J&#x27;ai ouvert la _pull request_ [**Update the license**](https://github.com/Samuel-Martineau/generator-svelte/pull/22) sur le repo [**Samuel-Martineau/generator-svelte**](https://github.com/Samuel-Martineau/generator-svelte)
--
 
 ## Mes paquets NPM
 
 | Paquet                        | Nombre de téléchargements |
 | ----------------------------- | ------------------------: |
 | create-custom-command         |                       790 |
-| generator-svelte              |                      3385 |
+| generator-svelte              |                      3378 |
 | rmc-cli                       |                       164 |
 | @robot-grimpeur/dev-client    |                       140 |
 | @robot-grimpeur/dev-server    |                        87 |
 | @robot-grimpeur/eslint-config |                       267 |
-| **Total**                     |                      4833 |
+| **Total**                     |                      4826 |
 
 ## Me contacter
 
