@@ -16,28 +16,28 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
-- 💬 J&#x27;ai commenté sur l&#x27;_issue_ [**Does it work with a touchscreen (on a Raspberry Pi)**](https://github.com/Sienci-Labs/gsender/issues/79) du repo [**Sienci-Labs/gsender**](https://github.com/Sienci-Labs/gsender)
-- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
-- 🚫 J&#x27;ai fermé la _pull request_ [**Modification de la licence**](https://github.com/Samuel-Martineau/Samuel-Martineau/pull/10) du repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
-- ⚡ J&#x27;ai publié **4** commits sur le repo [**Samuel-Martineau/Notion-Auto-Backup**](https://github.com/Samuel-Martineau/Notion-Auto-Backup)
-- 🔥 J&#x27;ai ouvert la _pull request_ [**Modification de la licence**](https://github.com/Samuel-Martineau/Samuel-Martineau/pull/10) sur le repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
+- ⚡ J&#x27;ai publié **5** commits sur le repo [**Samuel-Martineau/Smartineau.me**](https://github.com/Samuel-Martineau/Smartineau.me)
 -
-- ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
-- ⚡ J&#x27;ai publié **4** commits sur le repo [**Samuel-Martineau/generator-svelte**](https://github.com/Samuel-Martineau/generator-svelte)
-- 🚫 J&#x27;ai fermé la _pull request_ [**Update the license**](https://github.com/Samuel-Martineau/generator-svelte/pull/22) du repo [**Samuel-Martineau/generator-svelte**](https://github.com/Samuel-Martineau/generator-svelte)
-- 🔥 J&#x27;ai ouvert la _pull request_ [**Update the license**](https://github.com/Samuel-Martineau/generator-svelte/pull/22) sur le repo [**Samuel-Martineau/generator-svelte**](https://github.com/Samuel-Martineau/generator-svelte)
+-
+- 💬 J&#x27;ai commenté 2 fois sur la _pull request_ [**Add &quot;Obsidian Antidote Plugin&quot;**](https://github.com/obsidianmd/obsidian-releases/issues/1501) du repo [**obsidianmd/obsidian-releases**](https://github.com/obsidianmd/obsidian-releases)
+- 🔥 J&#x27;ai ouvert la _pull request_ [**Add &quot;Obsidian Antidote Plugin&quot;**](https://github.com/obsidianmd/obsidian-releases/pull/1501) sur le repo [**obsidianmd/obsidian-releases**](https://github.com/obsidianmd/obsidian-releases)
+- ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/obsidian-releases**](https://github.com/Samuel-Martineau/obsidian-releases)
+- 🌈 J&#x27;ai créé un fork du repo [**obsidianmd/obsidian-releases**](https://github.com/obsidianmd/obsidian-releases)
+- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
+- 🚫 J&#x27;ai fermé la _pull request_ [**Bump express from 4.17.1 to 4.17.3**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/pull/60) du repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
+- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
 
 ## Mes paquets NPM
 
 | Paquet                        | Nombre de téléchargements |
 | ----------------------------- | ------------------------: |
-| create-custom-command         |                       790 |
-| generator-svelte              |                      3365 |
-| rmc-cli                       |                       167 |
-| @robot-grimpeur/dev-client    |                       139 |
-| @robot-grimpeur/dev-server    |                        88 |
-| @robot-grimpeur/eslint-config |                       268 |
-| **Total**                     |                      4817 |
+| create-custom-command         |                       888 |
+| generator-svelte              |                      3236 |
+| rmc-cli                       |                       170 |
+| @robot-grimpeur/dev-client    |                       138 |
+| @robot-grimpeur/dev-server    |                        85 |
+| @robot-grimpeur/eslint-config |                       202 |
+| **Total**                     |                      4719 |
 
 ## Me contacter
 
