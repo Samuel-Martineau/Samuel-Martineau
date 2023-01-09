@@ -16,6 +16,8 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
+- 🚫 J&#x27;ai fermé la _pull request_ [**Add &quot;Obsidian Antidote Plugin&quot;**](https://github.com/obsidianmd/obsidian-releases/pull/1501) du repo [**obsidianmd/obsidian-releases**](https://github.com/obsidianmd/obsidian-releases)
+- 💬 J&#x27;ai commenté sur la _pull request_ [**Add &quot;Obsidian Antidote Plugin&quot;**](https://github.com/obsidianmd/obsidian-releases/issues/1501) du repo [**obsidianmd/obsidian-releases**](https://github.com/obsidianmd/obsidian-releases)
 - ⚡ J&#x27;ai publié **5** commits sur le repo [**Samuel-Martineau/Smartineau.me**](https://github.com/Samuel-Martineau/Smartineau.me)
 -
 -
@@ -24,20 +26,18 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 - ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/obsidian-releases**](https://github.com/Samuel-Martineau/obsidian-releases)
 - 🌈 J&#x27;ai créé un fork du repo [**obsidianmd/obsidian-releases**](https://github.com/obsidianmd/obsidian-releases)
 - ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
-- 🚫 J&#x27;ai fermé la _pull request_ [**Bump express from 4.17.1 to 4.17.3**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin/pull/60) du repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
-- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
 
 ## Mes paquets NPM
 
 | Paquet                        | Nombre de téléchargements |
 | ----------------------------- | ------------------------: |
-| create-custom-command         |                       890 |
-| generator-svelte              |                      3252 |
-| rmc-cli                       |                       170 |
+| create-custom-command         |                       893 |
+| generator-svelte              |                      3228 |
+| rmc-cli                       |                       172 |
 | @robot-grimpeur/dev-client    |                       138 |
-| @robot-grimpeur/dev-server    |                        85 |
-| @robot-grimpeur/eslint-config |                       202 |
-| **Total**                     |                      4737 |
+| @robot-grimpeur/dev-server    |                        86 |
+| @robot-grimpeur/eslint-config |                       201 |
+| **Total**                     |                      4718 |
 
 ## Me contacter
 
