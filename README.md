@@ -16,6 +16,9 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
+- 🔥 J&#x27;ai ouvert la _pull request_ [**Fix typos in realworld.tex**](https://github.com/oetiker/lshort/pull/85) sur le repo [**oetiker/lshort**](https://github.com/oetiker/lshort)
+- ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/lshort**](https://github.com/Samuel-Martineau/lshort)
+- 🌈 J&#x27;ai créé un fork du repo [**oetiker/lshort**](https://github.com/oetiker/lshort)
 - 🚫 J&#x27;ai fermé la _pull request_ [**Add &quot;Obsidian Antidote Plugin&quot;**](https://github.com/obsidianmd/obsidian-releases/pull/1501) du repo [**obsidianmd/obsidian-releases**](https://github.com/obsidianmd/obsidian-releases)
 - 💬 J&#x27;ai commenté sur la _pull request_ [**Add &quot;Obsidian Antidote Plugin&quot;**](https://github.com/obsidianmd/obsidian-releases/issues/1501) du repo [**obsidianmd/obsidian-releases**](https://github.com/obsidianmd/obsidian-releases)
 - ⚡ J&#x27;ai publié **5** commits sur le repo [**Samuel-Martineau/Smartineau.me**](https://github.com/Samuel-Martineau/Smartineau.me)
@@ -23,21 +26,18 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 -
 - 💬 J&#x27;ai commenté 2 fois sur la _pull request_ [**Add &quot;Obsidian Antidote Plugin&quot;**](https://github.com/obsidianmd/obsidian-releases/issues/1501) du repo [**obsidianmd/obsidian-releases**](https://github.com/obsidianmd/obsidian-releases)
 - 🔥 J&#x27;ai ouvert la _pull request_ [**Add &quot;Obsidian Antidote Plugin&quot;**](https://github.com/obsidianmd/obsidian-releases/pull/1501) sur le repo [**obsidianmd/obsidian-releases**](https://github.com/obsidianmd/obsidian-releases)
-- ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/obsidian-releases**](https://github.com/Samuel-Martineau/obsidian-releases)
-- 🌈 J&#x27;ai créé un fork du repo [**obsidianmd/obsidian-releases**](https://github.com/obsidianmd/obsidian-releases)
-- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Simulateur-Evolution-Darwin**](https://github.com/Samuel-Martineau/Simulateur-Evolution-Darwin)
 
 ## Mes paquets NPM
 
 | Paquet                        | Nombre de téléchargements |
 | ----------------------------- | ------------------------: |
-| create-custom-command         |                       928 |
-| generator-svelte              |                      2897 |
+| create-custom-command         |                       932 |
+| generator-svelte              |                      2880 |
 | rmc-cli                       |                       177 |
-| @robot-grimpeur/dev-client    |                       135 |
+| @robot-grimpeur/dev-client    |                       136 |
 | @robot-grimpeur/dev-server    |                        85 |
-| @robot-grimpeur/eslint-config |                       189 |
-| **Total**                     |                      4411 |
+| @robot-grimpeur/eslint-config |                       193 |
+| **Total**                     |                      4403 |
 
 ## Me contacter
 
