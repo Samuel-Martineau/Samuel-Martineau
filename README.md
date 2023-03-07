@@ -36,8 +36,8 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 | rmc-cli                       |                       185 |
 | @robot-grimpeur/dev-client    |                       140 |
 | @robot-grimpeur/dev-server    |                        84 |
-| @robot-grimpeur/eslint-config |                       193 |
-| **Total**                     |                      4481 |
+| @robot-grimpeur/eslint-config |                       192 |
+| **Total**                     |                      4480 |
 
 ## Me contacter
 
