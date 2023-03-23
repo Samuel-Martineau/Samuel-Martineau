@@ -6,7 +6,7 @@
 
 ## À propos de moi
 
-Je suis un étudiant québécois de niveau secondaire passionné par l’informatique et la robotique. J’ai davantage travaillé en JS et en TS, mais j’ai aussi expérimenté avec d’autres langages, dont le C# et le C++. J’ai aussi présenté trois projets en informatique à [expo-sciences](https://technoscience.ca/programmes/expo-sciences/), qui ont tous été nominés. Mes repos Github sont majoritairement en français, mais certains sont en anglais.
+Je suis un étudiant québécois de niveau cégepien passionné par l’informatique et la robotique. J’ai davantage travaillé en JS et en TS, mais j’ai aussi expérimenté avec d’autres langages, dont le C# et le C++. J’ai aussi présenté trois projets en informatique à [expo-sciences](https://technoscience.ca/programmes/expo-sciences/), qui ont tous été nominés. Mes repos Github sont majoritairement en français, mais certains sont en anglais.
 
 ## Mes compétences
 
