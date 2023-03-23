@@ -6,7 +6,7 @@
 
 ## À propos de moi
 
-Je suis un étudiant québécois de niveau cégepien passionné par l’informatique et la robotique. J’ai davantage travaillé en JS et en TS, mais j’ai aussi expérimenté avec d’autres langages, dont le C# et le C++. J’ai aussi présenté trois projets en informatique à [expo-sciences](https://technoscience.ca/programmes/expo-sciences/), qui ont tous été nominés. Mes repos Github sont majoritairement en français, mais certains sont en anglais.
+Je suis un étudiant québécois de niveau secondaire passionné par l’informatique et la robotique. J’ai davantage travaillé en JS et en TS, mais j’ai aussi expérimenté avec d’autres langages, dont le C# et le C++. J’ai aussi présenté trois projets en informatique à [expo-sciences](https://technoscience.ca/programmes/expo-sciences/), qui ont tous été nominés. Mes repos Github sont majoritairement en français, mais certains sont en anglais.
 
 ## Mes compétences
 
@@ -16,6 +16,8 @@ Je suis un étudiant québécois de niveau cégepien passionné par l’informat
 
 ## Activité GitHub récente
 
+- ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
+- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Smartineau.me**](https://github.com/Samuel-Martineau/Smartineau.me)
 - ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/418IMATEAPOT**](https://github.com/Samuel-Martineau/418IMATEAPOT)
 -
 -
@@ -24,20 +26,18 @@ Je suis un étudiant québécois de niveau cégepien passionné par l’informat
 - 🌈 J&#x27;ai créé un fork du repo [**oetiker/lshort**](https://github.com/oetiker/lshort)
 - 🚫 J&#x27;ai fermé la _pull request_ [**Add &quot;Obsidian Antidote Plugin&quot;**](https://github.com/obsidianmd/obsidian-releases/pull/1501) du repo [**obsidianmd/obsidian-releases**](https://github.com/obsidianmd/obsidian-releases)
 - 💬 J&#x27;ai commenté sur la _pull request_ [**Add &quot;Obsidian Antidote Plugin&quot;**](https://github.com/obsidianmd/obsidian-releases/issues/1501) du repo [**obsidianmd/obsidian-releases**](https://github.com/obsidianmd/obsidian-releases)
-- ⚡ J&#x27;ai publié **5** commits sur le repo [**Samuel-Martineau/Smartineau.me**](https://github.com/Samuel-Martineau/Smartineau.me)
--
 
 ## Mes paquets NPM
 
 | Paquet                        | Nombre de téléchargements |
 | ----------------------------- | ------------------------: |
 | create-custom-command         |                       901 |
-| generator-svelte              |                      2970 |
+| generator-svelte              |                      2979 |
 | rmc-cli                       |                       168 |
-| @robot-grimpeur/dev-client    |                       137 |
-| @robot-grimpeur/dev-server    |                        81 |
-| @robot-grimpeur/eslint-config |                       184 |
-| **Total**                     |                      4441 |
+| @robot-grimpeur/dev-client    |                       138 |
+| @robot-grimpeur/dev-server    |                        82 |
+| @robot-grimpeur/eslint-config |                       185 |
+| **Total**                     |                      4453 |
 
 ## Me contacter
 
