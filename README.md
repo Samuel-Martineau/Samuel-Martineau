@@ -16,6 +16,7 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
+- ⚡ J&#x27;ai publié **4** commits sur le repo [**Samuel-Martineau/Smartineau.me**](https://github.com/Samuel-Martineau/Smartineau.me)
 - ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
 - ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Smartineau.me**](https://github.com/Samuel-Martineau/Smartineau.me)
 - ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/418IMATEAPOT**](https://github.com/Samuel-Martineau/418IMATEAPOT)
@@ -25,19 +26,18 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 - ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/lshort**](https://github.com/Samuel-Martineau/lshort)
 - 🌈 J&#x27;ai créé un fork du repo [**oetiker/lshort**](https://github.com/oetiker/lshort)
 - 🚫 J&#x27;ai fermé la _pull request_ [**Add &quot;Obsidian Antidote Plugin&quot;**](https://github.com/obsidianmd/obsidian-releases/pull/1501) du repo [**obsidianmd/obsidian-releases**](https://github.com/obsidianmd/obsidian-releases)
-- 💬 J&#x27;ai commenté sur la _pull request_ [**Add &quot;Obsidian Antidote Plugin&quot;**](https://github.com/obsidianmd/obsidian-releases/issues/1501) du repo [**obsidianmd/obsidian-releases**](https://github.com/obsidianmd/obsidian-releases)
 
 ## Mes paquets NPM
 
 | Paquet                        | Nombre de téléchargements |
 | ----------------------------- | ------------------------: |
 | create-custom-command         |                       901 |
-| generator-svelte              |                      2979 |
+| generator-svelte              |                      2975 |
 | rmc-cli                       |                       168 |
 | @robot-grimpeur/dev-client    |                       138 |
 | @robot-grimpeur/dev-server    |                        82 |
 | @robot-grimpeur/eslint-config |                       185 |
-| **Total**                     |                      4453 |
+| **Total**                     |                      4449 |
 
 ## Me contacter
 
