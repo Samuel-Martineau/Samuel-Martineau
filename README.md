@@ -18,26 +18,26 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 -
 -
+- ⚡ J&#x27;ai publié **1** commit sur le repo [**igemmetrotoronto/discord-bot**](https://github.com/igemmetrotoronto/discord-bot)
 -
+- ⚡ J&#x27;ai publié **1** commit sur le repo [**igemmetrotoronto/discord-bot**](https://github.com/igemmetrotoronto/discord-bot)
 -
-- ⚡ J&#x27;ai publié **4** commits sur le repo [**Samuel-Martineau/Smartineau.me**](https://github.com/Samuel-Martineau/Smartineau.me)
-- ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
-- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/Smartineau.me**](https://github.com/Samuel-Martineau/Smartineau.me)
-- ⚡ J&#x27;ai publié **2** commits sur le repo [**Samuel-Martineau/418IMATEAPOT**](https://github.com/Samuel-Martineau/418IMATEAPOT)
+- ⚡ J&#x27;ai publié **1** commit sur le repo [**igemmetrotoronto/igemmetrotoronto.github.io**](https://github.com/igemmetrotoronto/igemmetrotoronto.github.io)
 -
+- ⚡ J&#x27;ai publié **3** commits sur le repo [**igemmetrotoronto/igemmetrotoronto.github.io**](https://github.com/igemmetrotoronto/igemmetrotoronto.github.io)
 -
 
 ## Mes paquets NPM
 
 | Paquet                        | Nombre de téléchargements |
 | ----------------------------- | ------------------------: |
-| create-custom-command         |                       907 |
-| generator-svelte              |                      2960 |
+| create-custom-command         |                       908 |
+| generator-svelte              |                      2954 |
 | rmc-cli                       |                       169 |
-| @robot-grimpeur/dev-client    |                       139 |
-| @robot-grimpeur/dev-server    |                        83 |
+| @robot-grimpeur/dev-client    |                       137 |
+| @robot-grimpeur/dev-server    |                        82 |
 | @robot-grimpeur/eslint-config |                       186 |
-| **Total**                     |                      4444 |
+| **Total**                     |                      4436 |
 
 ## Me contacter
 
