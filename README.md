@@ -16,22 +16,28 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
+- ⚡ J&#x27;ai publié **1** commit sur le repo [**Samuel-Martineau/Samuel-Martineau**](https://github.com/Samuel-Martineau/Samuel-Martineau)
+-
+-
 - ⚡ J&#x27;ai publié **1** commit sur le repo [**igemmetrotoronto/discord-bot**](https://github.com/igemmetrotoronto/discord-bot)
+-
 - ⚡ J&#x27;ai publié **1** commit sur le repo [**igemmetrotoronto/discord-bot**](https://github.com/igemmetrotoronto/discord-bot)
+-
 - ⚡ J&#x27;ai publié **1** commit sur le repo [**igemmetrotoronto/igemmetrotoronto.github.io**](https://github.com/igemmetrotoronto/igemmetrotoronto.github.io)
+-
 - ⚡ J&#x27;ai publié **3** commits sur le repo [**igemmetrotoronto/igemmetrotoronto.github.io**](https://github.com/igemmetrotoronto/igemmetrotoronto.github.io)
 
 ## Mes paquets NPM
 
 | Paquet                        | Nombre de téléchargements |
 | ----------------------------- | ------------------------: |
-| create-custom-command         |                       850 |
-| generator-svelte              |                      3171 |
-| rmc-cli                       |                       171 |
-| @robot-grimpeur/dev-client    |                       120 |
+| create-custom-command         |                       876 |
+| generator-svelte              |                      3254 |
+| rmc-cli                       |                       177 |
+| @robot-grimpeur/dev-client    |                       121 |
 | @robot-grimpeur/dev-server    |                        72 |
 | @robot-grimpeur/eslint-config |                       166 |
-| **Total**                     |                      4550 |
+| **Total**                     |                      4666 |
 
 ## Me contacter
 
