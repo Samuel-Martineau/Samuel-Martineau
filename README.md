@@ -16,16 +16,10 @@ Je suis un étudiant québécois de niveau secondaire passionné par l’informa
 
 ## Activité GitHub récente
 
--
--
 - ⚡ J&#x27;ai publié **1** commit sur le repo [**igemmetrotoronto/discord-bot**](https://github.com/igemmetrotoronto/discord-bot)
--
 - ⚡ J&#x27;ai publié **1** commit sur le repo [**igemmetrotoronto/discord-bot**](https://github.com/igemmetrotoronto/discord-bot)
--
 - ⚡ J&#x27;ai publié **1** commit sur le repo [**igemmetrotoronto/igemmetrotoronto.github.io**](https://github.com/igemmetrotoronto/igemmetrotoronto.github.io)
--
 - ⚡ J&#x27;ai publié **3** commits sur le repo [**igemmetrotoronto/igemmetrotoronto.github.io**](https://github.com/igemmetrotoronto/igemmetrotoronto.github.io)
--
 
 ## Mes paquets NPM
 
